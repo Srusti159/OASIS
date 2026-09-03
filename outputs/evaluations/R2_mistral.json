@@ -1,0 +1,65 @@
+{
+  "experiment": "R2",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:05:52.810526+00:00",
+  "model": {
+    "name": "mistral",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R2",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 4288,
+    "output_tokens": 402,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 11.6643,
+    "latency_sec": 3.52,
+    "throughput_tokens_per_sec": 34.46,
+    "peak_vram_mb": 16158.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3956,
+        "recall": 0.6219,
+        "f1": 0.4836
+      },
+      "rouge2": {
+        "precision": 0.1143,
+        "recall": 0.18,
+        "f1": 0.1398
+      },
+      "rougeL": {
+        "precision": 0.1867,
+        "recall": 0.2935,
+        "f1": 0.2282
+      }
+    },
+    "bertscore": {
+      "precision": 0.8425,
+      "recall": 0.854,
+      "f1": 0.8482,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.5386,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0011,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.002,
+    "entailment_score": 0.0011
+  },
+  "judge_score": 6,
+  "generated_summary": "Title: Kick-Off Meeting for New Television Remote Control Design Project\n\nThe meeting was a kick-off for a new project to design a unique, trendy, and user-friendly television remote control. The project was presented by the project manager and attended by four participants: the project manager, user interface designer, IT technician expert, and marketing manager.\n\nThe project will follow a specific design method, which includes functional design, conceptual design, and detailed design stages. The functional design will identify user needs and technical functions, while the conceptual design will specify components, user interface, and trends in user interface design. The detailed design will implement and detail the choices made in the second stage.\n\nDuring the meeting, participants were asked to draw their favorite animal and list its favorite characteristics as part of a tool training exercise. The project aims to have a selling price of 25 euros, with a profit aim of 50 million euros, targeting an international market. The production costs should not exceed 12.50 euros.\n\nThe next meeting will take place in 30 minutes, during which individual actions will be assigned, including creating the working design, technical functions design, and user requirements specification. Specific instructions will be sent to each participant by their personal coach.\n\nThe project's objective is to create an original, trendy, and user-friendly remote control with the goal of having a competitive advantage over other companies. The team will discuss various aspects, such as whether the remote control should control a single device or multiple devices, and gather ideas for design and technical requirements.\n\nThe meeting concluded with the project manager promising to gather more information about a unique design idea suggested during the meeting, such as a waterproof, hydraulic remote control for use in the bathroom. The team will also consult with a designer industrial, user interface designer, and market expert to further develop the project."
+}

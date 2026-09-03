@@ -1,0 +1,65 @@
+{
+  "experiment": "R8",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:24:53.353028+00:00",
+  "model": {
+    "name": "mistral",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R8",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 4705,
+    "output_tokens": 370,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 10.7827,
+    "latency_sec": 3.4527,
+    "throughput_tokens_per_sec": 34.31,
+    "peak_vram_mb": 16284.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3804,
+        "recall": 0.4106,
+        "f1": 0.3949
+      },
+      "rouge2": {
+        "precision": 0.1173,
+        "recall": 0.1267,
+        "f1": 0.1218
+      },
+      "rougeL": {
+        "precision": 0.1902,
+        "recall": 0.2053,
+        "f1": 0.1975
+      }
+    },
+    "bertscore": {
+      "precision": 0.7911,
+      "recall": 0.8519,
+      "f1": 0.8204,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -5.7532,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0005,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0003,
+    "entailment_score": 0.0005
+  },
+  "judge_score": 6,
+  "generated_summary": "Title: Real Reaction Kick-Off Meeting for Project Presentation 01k.off\n\nDate: 29/11/2011\n\nLocation: Unspecified\n\nParticipants:\n- Fabien Cardinaux (Project Manager)\n- Petr Foussac (Team Member)\n- Pamba (Team Member)\n- Bob Morris (Marketing Expert)\n- Hamid Ketabdar (Interface Designer)\n\nAgenda:\n1. Opening\n2. Acquaintance\n3. Tool training\n4. Project plan\n5. Discussion\n6. Closing\n\nProject Aim:\n- Design a new remote control that is original, trendy, and user-friendly.\n\nProject Method:\n- Functional design\n  - Individual work\n  - Meetings\n- Conceptual design\n  - Individual work\n  - Meetings\n- Detailed design\n  - Individual work\n  - Meetings\n\nTool Training:\n- Familiarization with the whiteboard tool\n\nProject Finance:\n- Selling price: 25 euros\n- Profit aim: 50 MEuro\n  - Market range: international\n- Production costs: max. 12.50 euros per unit\n\nDiscussion:\n- Sharing experiences with remote controls\n- First ideas for the new remote control\n\nNext Steps:\n- Individual actions\n  - ID: the working design\n  - UID: the technical functions design\n  - ME: the user requirements specification\n\nSpecific instructions will be sent to each team member by their personal coach. The next meeting will start in 30 minutes."
+}

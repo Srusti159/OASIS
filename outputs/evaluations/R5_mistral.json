@@ -1,0 +1,65 @@
+{
+  "experiment": "R5",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:15:13.649191+00:00",
+  "model": {
+    "name": "mistral",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R5",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 10388,
+    "output_tokens": 331,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 10.2714,
+    "latency_sec": 3.4584,
+    "throughput_tokens_per_sec": 32.23,
+    "peak_vram_mb": 17954.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.4609,
+        "recall": 0.4444,
+        "f1": 0.4525
+      },
+      "rouge2": {
+        "precision": 0.1612,
+        "recall": 0.1554,
+        "f1": 0.1582
+      },
+      "rougeL": {
+        "precision": 0.214,
+        "recall": 0.2063,
+        "f1": 0.2101
+      }
+    },
+    "bertscore": {
+      "precision": 0.8519,
+      "recall": 0.8554,
+      "f1": 0.8536,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.288,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0084,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.9435,
+    "entailment_score": 0.0084
+  },
+  "judge_score": 6,
+  "generated_summary": "The Conceptual Design meeting, led by Ada Longman, focused on discussing and deciding on the design of a remote control. The meeting agenda included three presentations, a decision on the remote control concept, and a closing session.\n\nDavid Jordan, a designer, presented three user interface concepts: the \"Google\" controller, the \"Fancy\" controller, and the \"Intelligent\" controller. The \"Intelligent\" controller featured voice recognition and gesture recognition technology.\n\nThere was a discussion about the feasibility and potential issues of the \"Intelligent\" controller, such as its reliability, compatibility with multiple users, and cost. Participants also debated the importance of having a remote control that is easy to use, technologically innovative, and fashionable.\n\nFlorent Monay, a marketing expert, presented his evaluation criteria, which included a fancy look-and-feel, technological innovation, and ease of use. He also shared findings from his analysis of the remote control market and fashion trends, suggesting that fruits and vegetables would be the most important theme for clothes, shoes, and furniture.\n\nIn the end, the group decided to focus on the Google controller and the fancy controller, potentially combining their features. They also discussed the possibility of adding simple vocal commands recognition as a supplement to the interface. The meeting concluded with instructions for each participant to work on their respective areas: Baba on the look-and-feel design, David Jordan on the user-interface design, and the group on product evaluation. The next meeting was scheduled to start in 30 minutes."
+}

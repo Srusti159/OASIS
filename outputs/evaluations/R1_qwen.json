@@ -1,0 +1,65 @@
+{
+  "experiment": "R1",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:03:48.467145+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R1",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 9778,
+    "output_tokens": 691,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 18.7146,
+    "latency_sec": 35.4333,
+    "throughput_tokens_per_sec": 36.92,
+    "peak_vram_mb": 17652.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.2834,
+        "recall": 0.6068,
+        "f1": 0.3864
+      },
+      "rouge2": {
+        "precision": 0.096,
+        "recall": 0.206,
+        "f1": 0.131
+      },
+      "rougeL": {
+        "precision": 0.1497,
+        "recall": 0.3205,
+        "f1": 0.2041
+      }
+    },
+    "bertscore": {
+      "precision": 0.819,
+      "recall": 0.8556,
+      "f1": 0.8369,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.3933,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.003,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0004,
+    "entailment_score": 0.003
+  },
+  "judge_score": 8,
+  "generated_summary": "### Meeting Summary: Detailed Design Presentation and Evaluation\n\n#### Introduction and Agenda\nThe meeting began with a brief introduction by SPEAKER_00, who outlined the agenda for the session. The primary objectives included presenting the detailed design of the product, evaluating its performance, discussing financial aspects, and closing the meeting within 40 minutes. SPEAKER_00 also mentioned having prepared an Excel spreadsheet for financial calculations.\n\n#### Product Presentation\nThe presentation was led by Pedro and Kevin, User Interface Designers. They introduced the end product, highlighting key features such as:\n- **Production Cost**: Estimated at 15.8 euros per unit.\n- **Basic Functions**: Television functions, locator, cradle, scroll wheel, and the new \"zapping\" scroll function.\n- **Design Features**: The scroll wheel, volume controls, keypad, and power button. The remote control was described as having a rubber covering for protection and ease of use.\n\nDuring the demonstration, SPEAKER_02 showcased the paging ability and the cradle unit, explaining the charging mechanism and the potential for a trigger button. However, they decided against including it due to practical concerns.\n\n#### Marketing Perspective\nSPEAKER_01 provided insights on the marketing strategy, emphasizing the product’s unique features and potential market niche. They suggested a silver and black color scheme and proposed a lifetime guarantee for the product. SPEAKER_01 also discussed the possibility of making the unit upgradable, similar to a SIM card in a phone, but acknowledged the risks involved.\n\n#### Financial Evaluation\nSPEAKER_00 reviewed the production cost estimates, noting that the initial estimate of 15.8 euros was accurate. They also discussed the cost of the power adapter and the locator beacon, adjusting the total to 16.4 euros. After further adjustments, the final cost was confirmed to be 15.8 euros, which was within the revised budget constraints.\n\n#### Project Evaluation\nThe team evaluated various aspects of the project, including:\n- **Room for Creativity**: Plenty of room for creativity, with innovative ideas incorporated.\n- **Leadership**: Flexible approach from management regarding changes in specifications.\n- **Teamwork**: Synergistic and cohesive teamwork throughout the project.\n- **Means**: Effective use of tools like the whiteboard and digital pens, despite some discomfort with the pen.\n\n#### New Ideas and Feedback\nThe team identified several new ideas, including:\n- **Favorites List in Scroll Bar**\n- **Cradle and Remote Call Feature**\n- **Comfortable Headsets**\n- **Remote Control Microphones**\n\n#### Conclusion and Celebration\nThe meeting concluded with a discussion on the financial status of the project. While the original budget was exceeded, the current cost was still under 20 euros, meeting the revised budget. SPEAKER_00 announced that the project was evaluated positively and that a celebration would follow, with free coke provided at the cafeteria.\n\n### Key Takeaways\n- **Product Features**: The product includes innovative features like the zapping scroll function and a cradle unit.\n- **Cost Management**: The final production cost was accurately estimated and remains within the budget.\n- **Team Collaboration**: Effective teamwork and flexibility in addressing project challenges.\n- **Future Enhancements**: Potential for upgradability and additional features.\n\nThe meeting successfully covered all planned topics and concluded with a positive note, setting the stage for future developments in the project."
+}

@@ -1,0 +1,65 @@
+{
+  "experiment": "R8",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:24:38.723780+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R8",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3869,
+    "output_tokens": 495,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 14.4925,
+    "latency_sec": 4.43,
+    "throughput_tokens_per_sec": 34.16,
+    "peak_vram_mb": 17532.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.2861,
+        "recall": 0.6424,
+        "f1": 0.3959
+      },
+      "rouge2": {
+        "precision": 0.1213,
+        "recall": 0.2733,
+        "f1": 0.168
+      },
+      "rougeL": {
+        "precision": 0.174,
+        "recall": 0.3907,
+        "f1": 0.2408
+      }
+    },
+    "bertscore": {
+      "precision": 0.8058,
+      "recall": 0.8662,
+      "f1": 0.8349,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.787,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0023,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0001,
+    "entailment_score": 0.0023
+  },
+  "judge_score": 4,
+  "generated_summary": "**Meeting Summary: Kick-Off Meeting for Remote Control Project**\n\n**Date:** November 29, 2011\n**Time:** 10:30\n**Location:** [Not specified]\n**Attendees:** Fabien Cardinaud (Project Manager), Petr Foussac (Technical Designer), Pamba (Marketing Expert), Bob Morris (Marketing Expert), Hamid Ketabdar (Interface Designer)\n\n**Objective:** The meeting aimed to introduce the project, discuss the project plan, and assign tasks to team members.\n\n**Key Points:**\n\n1. **Project Introduction:** Fabien Cardinaud introduced the project, explaining that the goal is to design a new remote control that is original, trendy, and user-friendly.\n2. **Project Plan:** The project plan involves individual work and regular meetings to discuss progress and share ideas.\n3. **Tool Training:** The team was introduced to the whiteboard tool, which will be used for brainstorming and idea-sharing.\n4. **Project Finance:** The team discussed the project's financial aspects, including the selling price (25 euros), expected profit (50 million euros), and production costs (max. 12.50 euros).\n5. **Discussion:** Team members shared their experiences and ideas about remote controls, including the importance of a backlight, volume control, and radio waves.\n6. **Task Assignment:** Fabien Cardinaud assigned tasks to team members, including:\n\t* Hamid Ketabdar (Interface Designer): Work on the design of the remote control and start to have new ideas.\n\t* Petr Foussac (Technical Designer): Work on the technical functions of the remote control.\n\t* Bob Morris (Marketing Expert): Find the user requirements for the remote control.\n7. **Next Meeting:** The next meeting is scheduled for 30 minutes, and team members are expected to complete their assigned tasks before then.\n\n**Action Items:**\n\n* Hamid Ketabdar: Work on the design of the remote control and start to have new ideas.\n* Petr Foussac: Work on the technical functions of the remote control.\n* Bob Morris: Find the user requirements for the remote control.\n* Fabien Cardinaud: Send specific instructions and assign a personal coach to each team member.\n\n**Conclusion:** The meeting was a successful kick-off for the remote control project, with team members introduced to the project plan, tools, and tasks. The next meeting will focus on progress and idea-sharing."
+}

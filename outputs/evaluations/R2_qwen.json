@@ -1,0 +1,65 @@
+{
+  "experiment": "R2",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:06:10.951608+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R2",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3588,
+    "output_tokens": 529,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 14.065,
+    "latency_sec": 3.6802,
+    "throughput_tokens_per_sec": 37.61,
+    "peak_vram_mb": 16464.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.316,
+        "recall": 0.5124,
+        "f1": 0.3909
+      },
+      "rouge2": {
+        "precision": 0.0615,
+        "recall": 0.1,
+        "f1": 0.0762
+      },
+      "rougeL": {
+        "precision": 0.1534,
+        "recall": 0.2488,
+        "f1": 0.1898
+      }
+    },
+    "bertscore": {
+      "precision": 0.7839,
+      "recall": 0.8475,
+      "f1": 0.8144,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.804,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0048,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0001,
+    "entailment_score": 0.0048
+  },
+  "judge_score": 4,
+  "generated_summary": "### Comprehensive Summary of the Kick-Off Meeting\n\n#### Introduction and Overview\n- **Date and Time:** The meeting is a kick-off session for designing a new television remote control at Enel Reaction@Electronics.\n- **Presented by:** The Project Manager.\n- **Attendees:** Four participants—Project Manager, User Interface Designer, IT Technician Expert, and Marketing Manager.\n- **Duration:** Initially planned for 25 minutes but extended due to ongoing commitments.\n\n#### Objectives and Product Vision\n- **Objective:** Develop a new remote control that is original, trendy, and user-friendly.\n- **Product Design Phases:**\n  - **Functional Design:** Identify user needs and technical functions.\n  - **Conceptual Design:** Specify components and user interface.\n  - **Detailed Design:** Implement and detail the chosen design.\n\n#### Financial Goals\n- **Selling Price:** €25\n- **Profit Aim:** €50 million\n- **Market Range:** International\n- **Production Costs:** Max. €12.50\n\n#### Initial Activity: Whiteboard Exercise\n- **Activity:** Draw favorite animals and list their characteristics.\n- **Examples:**\n  - Speaker 1 drew a simplified koala.\n  - Speaker 2 drew an abstract urban tank.\n  - Speaker 3 drew a cat named Caramel.\n  - Speaker 1 suggested adding a whistle feature to the remote control.\n\n#### Discussion Points\n- **Remote Control Bundling:** Should the remote control be bundled with another product or sold as a standalone device?\n- **Design Trends:** Simplified shapes, hand-friendly designs, shock resistance, and water-resistant features.\n- **Additional Features:** Whistle tracking, special buttons on televisions, and plastic casing for protection.\n\n#### Next Steps\n- **Individual Actions:**\n  - **ID:** Working design\n  - **UID:** Technical functions design\n  - **ME:** User requirements specification\n- **Instructions:** Specific instructions will be sent via personal coaches.\n- **Next Meeting:** Scheduled in 30 minutes.\n\n#### Conclusion\n- **Summary:** The meeting covered the initial design phases, financial goals, and discussed potential features for the new remote control.\n- **Action Items:** Participants were assigned tasks related to their roles and reminded to check their emails for further instructions.\n\n### Key Takeaways\n- The team agreed on the need for an innovative, user-friendly, and trendy remote control.\n- Detailed design phases were outlined, and initial brainstorming sessions were conducted.\n- Financial targets and market strategies were discussed.\n- Individual responsibilities were clarified, and the next meeting was scheduled."
+}

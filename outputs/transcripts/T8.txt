@@ -1,0 +1,147 @@
+SPEAKER_UNKNOWN: Nå, den går ut.
+SPEAKER_01: Hello everybody.
+SPEAKER_01: I guess you all know what is it about.
+SPEAKER_01: You all received the email, I guess.
+SPEAKER_01: We are actually doing this meeting to start a new project which is about designing remote control.
+SPEAKER_01: So I'm going to be the project manager of this project.
+SPEAKER_01: And so I present myself.
+SPEAKER_01: I'm Fabien Cardinaud.
+SPEAKER_01: And I guess you can present yourself.
+SPEAKER_01: I don't know if you can start.
+SPEAKER_02: My name is Petr Foussac.
+SPEAKER_02: You can call me Petr here.
+SPEAKER_02: Or Peter if you like.
+SPEAKER_00: My name is Pamba.
+SPEAKER_02: And you are in the project?
+SPEAKER_02: In the project.
+SPEAKER_02: I'm supposed to be the technique.
+SPEAKER_03: Ok. Ok.
+SPEAKER_00: My name is Bob Morris.
+SPEAKER_00: I'm the marketing expert for this project.
+SPEAKER_03: My name is Hamid Ketabdar and I'm going to be interface designer in this project.
+SPEAKER_01: So today we are doing a short meeting to present the project.
+SPEAKER_01: We are going to present the tool we are going to use during all this project.
+SPEAKER_01: We are talking about the project plan and we are going to discuss about our first ideas and so on.
+SPEAKER_01: So we have around 25 minutes to do this meeting.
+SPEAKER_01: So what is the goal of this project is to design a new remote control.
+SPEAKER_01: So it should be of course new and original and it should be trendy and user friendly.
+SPEAKER_01: That means it's a very challenging project and
+SPEAKER_01: We will try to do our best and hopefully come with something very new that people want to buy.
+SPEAKER_01: So what are we going to do during all this project?
+SPEAKER_01: So it's more like we are going to do individual work, all in our specialities, and we are going to meet each other quite often to discuss and to find a good way.
+SPEAKER_01: Ja, and everything will be like this.
+SPEAKER_01: Now we are going to get used to the tools we are going to use during all this project.
+SPEAKER_01: We can try to use the whiteboard here.
+SPEAKER_01: For example, we can try to write what is our favorite animal and write our favorite characteristics about it.
+SPEAKER_01: Ehm, så.
+SPEAKER_01: Ehm.
+SPEAKER_01: So, I will ask you all to do the same, just to get used to the white part.
+SPEAKER_02: So, probably I would try to draw the animal.
+SPEAKER_02: Well, should I draw the picture of the animal?
+SPEAKER_02: Yeah, yeah, yeah, go ahead.
+SPEAKER_01: Okay, so...
+SPEAKER_02: Okay, American.
+SPEAKER_02: I would use the bird.
+SPEAKER_02: So I tried to sketch it out.
+SPEAKER_02: I had to first write it down because I'm not absolutely sure if I can draw it, but...
+SPEAKER_02: Can you recognise it?
+SPEAKER_02: It's your turn.
+SPEAKER_02: So I think my favourite animal would be a cat.
+SPEAKER_00: That's its head.
+SPEAKER_00: I probably like cats the most because they're cuddly and furry and playful.
+SPEAKER_03: I don't know if I should go with this.
+SPEAKER_03: I'm sorry.
+SPEAKER_00: Maybe put it on the desk or something.
+SPEAKER_02: Yeah.
+SPEAKER_02: I should get used to the tools.
+SPEAKER_02: Okay.
+SPEAKER_02: Just wait a little bit.
+SPEAKER_02: Could we put it here?
+SPEAKER_02: To make it as straight as possible.
+SPEAKER_02: Probably not.
+SPEAKER_03: Okay, thanks.
+SPEAKER_00: Your lapel microphone has fallen off.
+SPEAKER_02: Are you left-handed?
+SPEAKER_03: No.
+SPEAKER_03: Okay.
+SPEAKER_03: Should I clean?
+SPEAKER_03: Okay, I think like horses, because they are strong and beautiful.
+SPEAKER_03: So if I want to write it here, I think I can.
+SPEAKER_02: It may be better if you leave it.
+SPEAKER_00: Yeah, maybe we should just continue.
+SPEAKER_02: Yeah, don't worry about it.
+SPEAKER_03: No, don't worry.
+SPEAKER_02: You want draw them?
+SPEAKER_02: You can draw it.
+SPEAKER_02: I don't know if I can.
+SPEAKER_02: Just try.
+SPEAKER_02: I would like to see how it looks like.
+SPEAKER_03: It may be like a cow or I don't know.
+SPEAKER_03: I'm not very good in drawing.
+SPEAKER_03: Ok.
+SPEAKER_03: So this is very...
+SPEAKER_03: It's a bird I think.
+SPEAKER_03: I don't know what is it.
+SPEAKER_02: No, I think it's clear.
+SPEAKER_03: Four.
+SPEAKER_03: I'm shameful.
+SPEAKER_03: It's okay.
+SPEAKER_03: It's good.
+SPEAKER_03: It's indeed beautiful.
+SPEAKER_03: And strong.
+SPEAKER_03: Okay.
+SPEAKER_02: But, I have to remember it.
+SPEAKER_01: So, good.
+SPEAKER_01: So, let's talk about money.
+SPEAKER_01: We are going to sell, we want to sell this remote control for 25 euros.
+SPEAKER_01: And our expected profit will be around 50 million euros.
+SPEAKER_01: And we are trying to have a market all around the world.
+SPEAKER_01: So not only for Switzerland, but for the world.
+SPEAKER_01: So we expect a production cost of maximum 12.50 euros.
+SPEAKER_02: Per unit, I guess.
+SPEAKER_01: Yeah, of course.
+SPEAKER_01: So, we can start today to have a first idea of what we want to do, what are our experiments with remote control and any idea.
+SPEAKER_01: So, if you have some experience, good or bad, with remote controls, you can share it and say what is your idea or anything.
+SPEAKER_00: Well, from experience, I've had remote controls in the past that have had lots and lots of buttons, and they've been very small, and it's been very hard to use, because there's so many buttons, and it's very hard to see which buttons do what, and the buttons are very small and very hard to press.
+SPEAKER_00: And normally you only ever use, you know, on a TV remote, you only ever use mostly, you know, four or six buttons.
+SPEAKER_00: So it's frustrated me in the past.
+SPEAKER_02: Okey, I have also some points, maybe two points.
+SPEAKER_02: First would be that in current remote control there is no backlight.
+SPEAKER_02: So if you are playing with this in a dark room, it's probably worse to have something like
+SPEAKER_02: backlight and maybe it could be also dependent on the amount of light in the room so that if it's in the day it doesn't need to be backlighted because it works on the battery so something like this and the second thing second point for me would be
+SPEAKER_02: That in normal remote controls there are two buttons for volume control, but I prefer like a potentiometer or something like... Ah, ok. You know, some slider.
+SPEAKER_02: Not just two discrete buttons for volume, but something which...
+SPEAKER_01: Is that because of the discrete volume levels or is that... Yeah but I can reach in one second I can mute it down or make a high volume Are you not afraid that if you take your remote control you can move the slide and the volume can grow very quickly and...
+SPEAKER_01: If it drops to the floor then it starts to scream Yeah when you take the remote control for example on the table you take it and you push the button and everything is very loud and...
+SPEAKER_02: It depends what you feel about that.
+SPEAKER_02: Ok.
+SPEAKER_02: Yeah, we can think of these things afterwards, but if Matt or you have some... Yeah, just a simple experience.
+SPEAKER_03: I prefer remote control working with radio waves, because remote control working with infrared waves, you should keep it in a specific direction and then try it hard.
+SPEAKER_03: Without obstacles.
+SPEAKER_00: Okay.
+SPEAKER_01: Ok, let's continue.
+SPEAKER_01: I have a meeting in 5 minutes, so maybe we should hurry.
+SPEAKER_01: So, we will close this meeting.
+SPEAKER_01: So we will have a next meeting in 30 minutes.
+SPEAKER_01: So, I will ask you to do some work.
+SPEAKER_01: The interface developer will work on the design of the remote control, start to have new ideas.
+SPEAKER_02: Which is how, mate?
+SPEAKER_02: Read about it.
+SPEAKER_00: Is the industrial designer?
+SPEAKER_00: No, you're the industrial designer.
+SPEAKER_02: I'm the technical designer.
+SPEAKER_02: Yeah, I think that's the first one.
+SPEAKER_00: ID.
+SPEAKER_00: Industrial designer.
+SPEAKER_00: And the second one is the user interface designer.
+SPEAKER_00: And then the last one is marketing, which is me.
+SPEAKER_01: For the user interface designer, which is Ahmed...
+SPEAKER_01: you are going to work on the technical functions of the remote control.
+SPEAKER_01: And for the marketing manager, which is Bob,
+SPEAKER_01: You are going to try to find the user requirements for the remote control.
+SPEAKER_01: You will receive by email the specific instructions and by your personal coach.
+SPEAKER_01: Så, I see you in 30 minutes.
+SPEAKER_00: Great, ok.
+SPEAKER_01: Thanks guys, bye.
+SPEAKER_01: Bye.
+SPEAKER_01: Thank you.

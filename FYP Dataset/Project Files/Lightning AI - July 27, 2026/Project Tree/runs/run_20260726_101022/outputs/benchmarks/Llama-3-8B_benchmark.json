@@ -1,0 +1,67 @@
+{
+  "experiment": {
+    "meeting_id": "run_20260726_101022",
+    "dataset": "AMI Corpus",
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "seed": null,
+    "run_id": "run_20260726_101022",
+    "timestamp": "2026-07-27T18:08:19.807284+00:00"
+  },
+  "model": {
+    "model_name": "Llama-3-8B",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "run_20260726_101022",
+    "audio_duration_sec": null,
+    "video_duration_sec": null,
+    "num_speakers": 4,
+    "input_tokens": null,
+    "output_tokens": null,
+    "input_mode": "multimodal"
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3036,
+        "recall": 0.3731,
+        "f1": 0.3348
+      },
+      "rouge2": {
+        "precision": 0.0528,
+        "recall": 0.065,
+        "f1": 0.0583
+      },
+      "rougeL": {
+        "precision": 0.1538,
+        "recall": 0.1891,
+        "f1": 0.1696
+      }
+    },
+    "bertscore": {
+      "precision": -0.0655,
+      "recall": 0.0872,
+      "f1": 0.0094
+    },
+    "bartscore": {
+      "score": -4.1381
+    }
+  },
+  "hallucination": {
+    "hallucination_rate": 0.7421,
+    "factual_consistency_score": null,
+    "qa_based_consistency_score": null,
+    "entailment_score": null,
+    "notes": "Placeholder metrics pending dedicated factual-consistency model integration."
+  },
+  "efficiency": {
+    "inference_time_sec": null,
+    "latency_sec": null,
+    "throughput_tokens_per_sec": null,
+    "peak_vram_mb": null
+  }
+}

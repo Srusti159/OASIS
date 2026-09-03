@@ -1,0 +1,65 @@
+{
+  "experiment": "R10",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:30:43.463197+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R10",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 7625,
+    "output_tokens": 517,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 15.3022,
+    "latency_sec": 4.4642,
+    "throughput_tokens_per_sec": 33.79,
+    "peak_vram_mb": 18642.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3796,
+        "recall": 0.4437,
+        "f1": 0.4092
+      },
+      "rouge2": {
+        "precision": 0.0881,
+        "recall": 0.103,
+        "f1": 0.0949
+      },
+      "rougeL": {
+        "precision": 0.187,
+        "recall": 0.2185,
+        "f1": 0.2015
+      }
+    },
+    "bertscore": {
+      "precision": 0.7965,
+      "recall": 0.8246,
+      "f1": 0.8103,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.273,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0277,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0001,
+    "entailment_score": 0.0277
+  },
+  "judge_score": 6,
+  "generated_summary": "**Meeting Summary**\n\n**Meeting Details**\n\n* Meeting Type: Detail Design Meeting\n* Date: Not specified\n* Time: Not specified\n* Attendees: Krista Pavlov (Project Manager), Mark Twight, Rama Rao, Samy Bengio (Marketing Expert), and others (not specified)\n\n**Meeting Agenda**\n\n1. Opening\n2. Presentation of the Prototype\n3. Evaluation Criteria\n4. Finance\n5. Production Evaluation\n6. Closing\n\n**Prototype Presentation**\n\nThe prototype presented was a remote control device with a unique design, featuring a strawberry-shaped sensor and a titanium alloy material. The device had various features, including power ON/OFF, volume control, LCD controls, speech recognition, and location finding.\n\n**Evaluation Criteria**\n\nThe evaluation criteria were presented by Samy Bengio, Marketing Expert, and included:\n\n1. Fancy\n2. Technology-full\n3. Robust\n4. Useful\n5. Right size and weight\n6. Right color and shape\n7. Adaptive\n\nThe team evaluated the prototype based on these criteria, using a scale from 1 (strong yes) to 7 (strong no) for each criterion.\n\n**Evaluation Results**\n\nThe team's evaluation results were:\n\n1. Fancy: 2.17 (average score)\n2. Technology-full: 1 (strong yes)\n3. Robust: 3 (somewhat yes)\n4. Useful: 2 (somewhat yes)\n5. Right size and weight: 3 (somewhat yes)\n6. Right color and shape: 2 (somewhat yes)\n7. Adaptive: 1 (strong yes)\n\n**Finance**\n\nThe team discussed the financial aspects of the project, including the cost of the prototype and the production costs. They used an Excel sheet to calculate the costs and determined that the costs were under 12.50 euros.\n\n**Production Evaluation**\n\nThe team evaluated the production process and determined that it was satisfactory.\n\n**Closing**\n\nThe meeting concluded with a celebration, as the team had successfully completed the project within the budget and met the evaluation criteria.\n\n**Key Takeaways**\n\n* The team successfully designed and evaluated a unique remote control device with a strawberry-shaped sensor and a titanium alloy material.\n* The team evaluated the prototype based on various criteria, including fancy, technology-full, robust, useful, right size and weight, right color and shape, and adaptive.\n* The team determined that the costs were under 12.50 euros and that the production process was satisfactory.\n* The team celebrated the successful completion of the project."
+}

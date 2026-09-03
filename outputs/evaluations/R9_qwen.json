@@ -1,0 +1,65 @@
+{
+  "experiment": "R9",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:28:34.433249+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R9",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 8270,
+    "output_tokens": 699,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 18.7634,
+    "latency_sec": 3.536,
+    "throughput_tokens_per_sec": 37.25,
+    "peak_vram_mb": 17590.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.4382,
+        "recall": 0.5109,
+        "f1": 0.4718
+      },
+      "rouge2": {
+        "precision": 0.1379,
+        "recall": 0.1608,
+        "f1": 0.1484
+      },
+      "rougeL": {
+        "precision": 0.2121,
+        "recall": 0.2473,
+        "f1": 0.2284
+      }
+    },
+    "bertscore": {
+      "precision": 0.7733,
+      "recall": 0.84,
+      "f1": 0.8053,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.4171,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.7019,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.011,
+    "entailment_score": 0.7019
+  },
+  "judge_score": 8,
+  "generated_summary": "### Comprehensive Summary of the Meeting\n\n#### Overview\nThe meeting focused on the conceptual design of a remote control, aiming to reach a decision on its design and functionality. The meeting included presentations from various team members and discussions on key aspects such as appearance, ease of use, and technical specifications.\n\n#### Agenda\n1. **Opening**\n2. **Goal**: Reach a decision on the concept\n3. **Presentations**: Three fast presentations\n4. **Decision on Remote Control Concepts**\n5. **Closing**\n\n#### Presentations and Discussions\n\n1. **Market Research and Fashion Trends (Fabien, Project Manager)**\n   - **Key Findings**:\n     - **Fancy Look and Feel**: Highest priority (1st).\n     - **Technological Innovation**: Second priority (2nd), but less important than fancy look and feel (half as important).\n     - **Ease of Use**: Third priority (3rd), less important than technological innovation (half as important).\n   - **Fashion Trends**:\n     - Fruit and vegetable motifs will be prominent in clothing, shoes, and furniture.\n     - Material feel will be spongy.\n\n2. **User Interface Design (Hamed Ketabdar, User Interface Designer)**\n   - **Design Principles**:\n     - Place most frequently used buttons in the middle and make them larger.\n     - Ensure the remote control is comfortable to hold, with rounded edges.\n     - Minimize energy consumption.\n   - **Personal Preferences**:\n     - Cover less frequently used buttons.\n     - Place volume and channel change buttons on the sides.\n     - Consider using a speech recognizer, though it consumes more energy.\n\n3. **Technical Specifications (Engineering Team)**\n   - **Screen and Size**:\n     - 7-inch TFT screen (initially thought to be 7 cm x 7 cm, but can be cut to fit).\n     - Board size: 7 cm x 7 cm (can be adjusted to 5 cm x 10 cm).\n   - **Energy Source**:\n     - Batteries (AA cells) and solar cells.\n     - Solar cells are necessary for speech recognition and LCD.\n   - **Case and Shape**:\n     - Banana-shaped design suggested due to the company’s yellow color.\n     - Consider using a touch screen for ease of use.\n   - **Speech Recognition**:\n     - Feasible but requires careful placement to ensure adequate sunlight for solar cells.\n\n#### Decisions and Actions\n- **Remote Control Concept**:\n  - **Fancy Look and Feel**: Highest priority.\n  - **Technological Innovation**: Second priority.\n  - **Ease of Use**: Third priority.\n  - **Material Feel**: Spongy.\n  - **Shape**: Banana-shaped with a touch screen.\n  - **Energy Source**: Batteries and solar cells.\n- **Next Steps**:\n  - **Look and Feel Design**: Industrial Manager.\n  - **User Interface Design**: User Interface Manager.\n  - **Product Evaluation**: Marketing Expert.\n  - **Prototype Development**: Hamed and Peter to work together on the first prototype.\n\n#### Conclusion\nThe meeting concluded with a clear direction for the remote control design, emphasizing the importance of a fancy look and feel, technological innovation, and ease of use. The team agreed on the banana-shaped design and the use of a touch screen. The next meeting is scheduled in 30 minutes, with specific tasks assigned to each team member."
+}

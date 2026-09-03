@@ -1,0 +1,8 @@
+{
+    "model_name": "Llama-3-8B",
+    "latency_sec": 51.3,
+    "tokens_per_second": 5.44,
+    "peak_vram_mb": 6456.85,
+    "summary_length": 1489,
+    "timestamp": "2026-07-26T07:14:31.457923"
+}

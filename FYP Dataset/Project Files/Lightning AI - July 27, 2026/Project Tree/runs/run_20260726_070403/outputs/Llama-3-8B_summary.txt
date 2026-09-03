@@ -1,0 +1,30 @@
+.14
+ Speaker: SPEAKER_00
+Transcript:
+Alright.
+
+Visual Context:
+- A group of people are gathered around a table in a meeting room, with laptops and papers on the table. They appear to be working on a project or discussing a presentation displayed on a screen behind them.
+- Three people are seated around a table, working on laptops. A large screen behind them displays a presentation slide with text and bullet points.
+- A group of people are gathered around a table, working on laptops and discussing a presentation displayed on a screen.
+
+---
+
+**Summary**
+
+A team has been convened to discuss the Real Reaction Detailed Design Meeting. The speaker introduces themselves as Mike, the boss, and outlines the agenda for the discussion. The team reviews various aspects of their product, including its features and functionality. There appears to be no major disagreements among the participants during the conversation.
+
+**Main Discussion Points**
+
+* Reviewing the details of the Real Reaction product
+* Discussing potential issues and areas where improvement could be made
+* Evaluating different components of the product
+* Planning next steps based on feedback from the review process
+
+**Key Insights**
+
+There were several key insights discussed throughout the meeting:
+
+* Pedro will receive the final version of the product
+* The team needs to stay focused on keeping within budget constraints
+* Feedback was provided regarding specific parts of the product that need further development

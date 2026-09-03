@@ -1,0 +1,65 @@
+{
+  "experiment": "R8",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:25:15.888910+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R8",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 4211,
+    "output_tokens": 701,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 18.5965,
+    "latency_sec": 3.53,
+    "throughput_tokens_per_sec": 37.7,
+    "peak_vram_mb": 16646.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.235,
+        "recall": 0.6225,
+        "f1": 0.3412
+      },
+      "rouge2": {
+        "precision": 0.0877,
+        "recall": 0.2333,
+        "f1": 0.1275
+      },
+      "rougeL": {
+        "precision": 0.1325,
+        "recall": 0.351,
+        "f1": 0.1924
+      }
+    },
+    "bertscore": {
+      "precision": 0.7793,
+      "recall": 0.8576,
+      "f1": 0.8166,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.6512,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0022,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0024,
+    "entailment_score": 0.0022
+  },
+  "judge_score": 8,
+  "generated_summary": "### Comprehensive Summary of the Meeting\n\n#### Date and Time\nThe meeting took place on November 29, 2011, starting at 10:30 AM and lasting approximately 25 minutes.\n\n#### Attendees\n- **Fabien Cardinaux**: Project Manager\n- **Petr Foussac (Peter)**: Technical Designer\n- **Pamba**: Marketing Expert\n- **Bob Morris**: Marketing Expert\n- **Hamid Ketabdar**: Interface Designer\n\n#### Agenda\n1. **Opening**\n2. **Acquaintance**\n3. **Tool Training**\n4. **Project Plan**\n5. **Discussion**\n6. **Closing**\n\n#### Meeting Content\n\n**1. Opening and Introduction**\n- **Speaker (Fabien Cardinaux)**: Introduced himself as the project manager and invited attendees to introduce themselves.\n- **Attendees introduced themselves**:\n  - Petr Foussac (Peter)\n  - Pamba\n  - Bob Morris\n  - Hamid Ketabdar\n\n**2. Acquaintance**\n- Brief introductions and self-presentations.\n\n**3. Tool Training**\n- **Fabien Cardinaux**: Introduced the tools to be used during the project, including a whiteboard where participants were asked to draw their favorite animals and list their favorite characteristics.\n- **Participants' Contributions**:\n  - Petr Foussac drew a bird and described it as strong and beautiful.\n  - Pamba drew a cat and mentioned its cuddly and furry nature.\n  - Hamid Ketabdar considered drawing a horse but decided against it, instead writing \"horses\" on the board.\n\n**4. Project Plan**\n- **Fabien Cardinaux**: Presented the project goals, which include designing a new remote control that is original, trendy, and user-friendly.\n- **Financial Details**:\n  - **Selling Price**: 25 euros per unit.\n  - **Profit Aim**: 50 million euros.\n  - **Market Range**: International.\n  - **Production Costs**: Maximum 12.50 euros per unit.\n\n**5. Discussion**\n- **Attendees shared their experiences and ideas**:\n  - **Pamba**: Experienced frustration with remote controls due to excessive buttons and difficulty in identifying functions.\n  - **Petr Foussac**: Suggested adding backlighting and a potentiometer for volume control.\n  - **Hamid Ketabdar**: Preferred remote controls using radio waves over infrared waves to avoid line-of-sight issues.\n\n**6. Closing**\n- **Fabien Cardinaux**: Summarized the meeting and outlined individual tasks:\n  - **Industrial Designer (ID)**: Work on the design of the remote control.\n  - **User Interface Designer (UID)**: Work on the technical functions of the remote control.\n  - **Marketing (ME)**: Identify user requirements for the remote control.\n- **Next Meeting**: Scheduled for 30 minutes later.\n- **Instructions**: Specific instructions and assignments would be sent via personal coaches.\n\n#### Additional Notes\n- The meeting was marked by a series of emails requesting questionnaire responses, though these were not directly related to the content of the meeting.\n- There were some technical issues, such as a microphone falling off, which were briefly addressed.\n\nThis summary captures the key points discussed during the kick-off meeting, providing a clear understanding of the project goals, team roles, and initial brainstorming efforts."
+}

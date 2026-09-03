@@ -1,0 +1,369 @@
+SPEAKER_03: So let's start our second meeting on conceptual design.
+SPEAKER_03: So as the previous meeting I will be the secretary and we will have three presentations and we will have to decide on the remote control concept and finally we will close the session.
+SPEAKER_03: So I will first
+SPEAKER_00: You do the minutes first, or?
+SPEAKER_03: What?
+SPEAKER_03: No?
+SPEAKER_03: I think I will let our user interface and designer speak first.
+SPEAKER_03: Mr. David Jordan.
+SPEAKER_03: Yeah.
+SPEAKER_03: So I will... Yeah.
+SPEAKER_03: Technical... That's this one?
+SPEAKER_03: No, no, no.
+SPEAKER_03: Interface?
+SPEAKER_03: Yeah.
+SPEAKER_03: That's...
+SPEAKER_02: So first I will present the concept of user interface.
+SPEAKER_02: There are three concepts in the user interface.
+SPEAKER_02: The first one is the Google controller.
+SPEAKER_02: The second is the fancy controller.
+SPEAKER_02: The last one is the intelligent controller.
+SPEAKER_02: So there are three concepts in our controller.
+SPEAKER_02: I will explain one by one.
+SPEAKER_02: The first is Google controller.
+SPEAKER_02: I want the controller to be easy to use but with sophisticated functions.
+SPEAKER_02: It's a combination of easy to use and sophisticated functions.
+SPEAKER_02: This is the first concept of our controller.
+SPEAKER_02: The second concept is a fancy controller.
+SPEAKER_02: So we want to give the customer the impression that our controller is very attractive.
+SPEAKER_02: We can easily recognize our controller among a lot of products.
+SPEAKER_02: So the user interface should be very cute.
+SPEAKER_02: Very...
+SPEAKER_02: attractive, such as this.
+SPEAKER_02: There are several examples in these slides.
+SPEAKER_03: I'm not sure.
+SPEAKER_03: The one in the middle is very attractive.
+SPEAKER_02: It's very big.
+SPEAKER_02: It's hard.
+SPEAKER_02: It's easy for you to remember it.
+SPEAKER_02: But you recognize it.
+SPEAKER_03: Ok, why not?
+SPEAKER_03: We'll have big discussions I suppose after that.
+SPEAKER_02: So the last concept is intelligent.
+SPEAKER_02: We want our controller to be smart.
+SPEAKER_02: So maybe we should use some...
+SPEAKER_02: technology such as speech recognition technology and gesture recognition technology.
+SPEAKER_02: So we need to have some cooperation with some research institute on speech recognition and on gesture recognition.
+SPEAKER_02: With these advanced features, I think we can attract a lot of users.
+SPEAKER_03: Okay.
+SPEAKER_02: Ok, non ?
+SPEAKER_02: C'est les 3 concepts de notre contrôle.
+SPEAKER_03: J'ai juste une question, car pour le contrôle intelligent, vous avez dit que nous pouvons utiliser la reconnaissance de la voix ou la gestion de la reconnaissance, mais...
+SPEAKER_03: Expert told us most of the people want to use the remote control to zap between channels.
+SPEAKER_03: Do you think they will be able to use gestures?
+SPEAKER_03: Because if they do all the time the same gesture, as you said previously in the last meeting, maybe they will get injuries because of that?
+SPEAKER_03: Or if you say channel 3, channel 3, 2, 3, 4, 6, 5, I think they will be born after a while.
+SPEAKER_03: You don't think so?
+SPEAKER_02: I think sometimes it's very convenient to use voice interface and gesture interface than use buttons.
+SPEAKER_02: For example, if you cannot find your controller, just speak something such as... Yeah, but suppose you got a call.
+SPEAKER_03: You have a mute remote controller.
+SPEAKER_02: So you can use your gesture.
+SPEAKER_00: That's the problem.
+SPEAKER_00: How risky is it to trust like speech recognition or gesture recognition?
+SPEAKER_02: For limited vocabulary, speech recognition is very reliable.
+SPEAKER_02: And for limited vocabulary, gesture recognition is also very... Yeah, but suppose you have a family watching TV.
+SPEAKER_03: And if they want to use their private remote control in the same time, do you think it will work?
+SPEAKER_03: Everybody wanting to change channel in the same time?
+SPEAKER_00: But this would never happen anyway.
+SPEAKER_02: Yeah, they cannot speak at the same time.
+SPEAKER_03: If you have one brother and one sister, they want to watch their favorite TV program, so they say, oh, channel 4, channel 3, channel 4, channel 4, all the time.
+SPEAKER_01: The same can happen even with this kind of remote control.
+SPEAKER_03: Yeah, but you have the remote control, so maybe you can keep it with you.
+SPEAKER_03: You're not obliged to share it.
+SPEAKER_00: Oh, ok, ok, you mean it could be a problem for...
+SPEAKER_02: Yeah, that's the advantage of intelligent controller.
+SPEAKER_02: Even you have the controller, I can see channel 3.
+SPEAKER_03: I think it's a disadvantage.
+SPEAKER_01: Maybe you can have a switching mode to pass from, you know, voice controller to...
+SPEAKER_03: But one other question, how much will it cost?
+SPEAKER_01: How much?
+SPEAKER_03: Yeah, because I suppose we need to do research.
+SPEAKER_03: Do you have something working?
+SPEAKER_02: No, we just have some cooperation with some research institutes.
+SPEAKER_02: We don't have to do some basic research on this.
+SPEAKER_03: Oh, you think it won't cost anything?
+SPEAKER_03: Not a lot for us.
+SPEAKER_02: Yeah, I think it's because this technology is for limited like seeking recognition.
+SPEAKER_03: It's very... Yeah, but... Yeah.
+SPEAKER_00: But it's changing how the remote control is going to be built.
+SPEAKER_00: Because then you need, I mean, this doesn't have the power to do recognition, for example.
+SPEAKER_01: You have also the language problem.
+SPEAKER_02: It has to be universal.
+SPEAKER_02: The vocabulary is very small, so that's not a problem.
+SPEAKER_03: There's one problem that Baba talked about, it's the international problem.
+SPEAKER_03: remote control.
+SPEAKER_03: We need something that is international.
+SPEAKER_03: Suppose we want to sell it in France.
+SPEAKER_03: The recognition system will be able to understand French.
+SPEAKER_03: If you want to go to England, it will be able to understand English.
+SPEAKER_02: This could be downloaded by the web.
+SPEAKER_02: The key feature of our controller is that it has some adaptation
+SPEAKER_02: It means when you sell this controller in China, it can recognize Chinese.
+SPEAKER_02: If you sell this controller in France, it can recognize French.
+SPEAKER_03: And with no increase in the production price of the remote control?
+SPEAKER_02: Because of this product, this technology has already been developed.
+SPEAKER_01: Yeah, but how will you... Yeah, but the problem is how to, you know, if this is a push-button controller, you can send this remote control everywhere in the world.
+SPEAKER_01: The same one.
+SPEAKER_01: If you have the language, you have to develop for each country.
+SPEAKER_02: Yeah, that's why we have to do language adaptation.
+SPEAKER_01: Yeah, but for each country, you have to do one.
+SPEAKER_01: Yeah.
+SPEAKER_02: For example, even for different family we have to do adaptation.
+SPEAKER_03: Seems to be quite complex.
+SPEAKER_00: Yeah, we have to take care of the 12 euros problem.
+SPEAKER_03: And what about voice recognition?
+SPEAKER_03: Do we have microphones and where we'll be there?
+SPEAKER_03: Do you think if we are far from television it will work?
+SPEAKER_02: I think that's not a problem, because you don't have to wear a microphone.
+SPEAKER_02: The microphone is embedded in the controller.
+SPEAKER_03: Yeah, but where is the controller?
+SPEAKER_02: Where is the controller?
+SPEAKER_02: It's in your family, in your home.
+SPEAKER_03: Here it's an object.
+SPEAKER_03: But here you say you want to use a technology.
+SPEAKER_01: Yeah, you can embed the microphone here.
+SPEAKER_03: Yeah, but what is the use of voice or gesture recognition if you have a remote controller like this, if you have an object?
+SPEAKER_03: If you want to use voice or gesture, you need to be free without any objects.
+SPEAKER_03: You just want to interact with television.
+SPEAKER_02: Yeah, you just put the controller here, then you...
+SPEAKER_02: You see your command and you do your gesture.
+SPEAKER_01: Yeah, but you can lose it.
+SPEAKER_01: If you lose it.
+SPEAKER_01: For example, if it is somewhere in the room, maybe if it is in the table there, you can always say channel 1 and the remote control gives the audio to the TV to switch to channel 1.
+SPEAKER_03: So you can build a kind of black box and put it on TV just to recognize gestures and voice.
+SPEAKER_01: So you need a camera and a microphone.
+SPEAKER_00: You would still have the buttons?
+SPEAKER_00: Do you think it should be only voice recognition and gesture recognition?
+SPEAKER_00: Or you still have the possibility to use buttons?
+SPEAKER_02: I think we should give the flexibility to the user.
+SPEAKER_02: They can switch from one modality to another.
+SPEAKER_00: Yeah.
+SPEAKER_00: It's a bit risky.
+SPEAKER_03: I think so.
+SPEAKER_03: Maybe it will be quite attractive.
+SPEAKER_01: I think that switching from one country to another will be a problem.
+SPEAKER_02: If you do language adaptation there should be no problem.
+SPEAKER_01: Yeah.
+SPEAKER_03: Okay.
+SPEAKER_02: We should have confidence in technology.
+SPEAKER_01: We should.
+SPEAKER_01: Yeah.
+SPEAKER_03: So, what do you think?
+SPEAKER_03: Which are the controllers you'd prefer?
+SPEAKER_00: What?
+SPEAKER_03: Which kind of controller would you prefer to use as a remote controller user?
+SPEAKER_00: I mean, I'm sure if the user pays the same price, he's happy to have recognition.
+SPEAKER_00: But if it doubles, no one would be interested.
+SPEAKER_01: I think he needs a controller that is very reliable.
+SPEAKER_03: So I think it would be better not to do an intelligent controller and to stay with the Google controller or a fancy controller?
+SPEAKER_03: Maybe try to mix the Google controller and the fancy controller?
+SPEAKER_03: Just one?
+SPEAKER_03: To have something controller which is in a kind of intelligent controller, easy to use, sophisticated and fancy?
+SPEAKER_03: Do you think it's possible?
+SPEAKER_02: If you stick to...
+SPEAKER_02: stick to the first two parts.
+SPEAKER_02: So what's the difference between our controller with other products in the market?
+SPEAKER_02: There's no features of our controller.
+SPEAKER_02: Is it necessary to design a new controller without any breakthrough features?
+SPEAKER_02: No, I mean... Would you replace your controller with a controller with similar function?
+SPEAKER_01: If you do not have some function... We can add for example some function like for browsing in internet or something like that.
+SPEAKER_01: But I think a user need...
+SPEAKER_02: That's not the function of the controller, that's the function of TV.
+SPEAKER_02: You can replace the TV with a new TV with internet browser function.
+SPEAKER_00: No, but you need new remote controller then.
+SPEAKER_00: Because if you want to browse internet, or I don't know, if you want to type something, or...
+SPEAKER_01: If you want to send a mail from...
+SPEAKER_02: But it's not only the issue of controller, it's also the issue of the TV.
+SPEAKER_01: The problem I can see is the voice or the gesture.
+SPEAKER_02: What can happen in a family, for example, if... We cannot rely 100% on these features to use the controller.
+SPEAKER_02: But these are the features of our controller.
+SPEAKER_02: Such as you have the feature of voice recognition in your mobile, but you seldom use it in your mobile.
+SPEAKER_02: But when you choose a new mobile, you choose the one with voice recognition.
+SPEAKER_02: The feature is not 100% reliable, but it's a feature to distinguish our product from other products.
+SPEAKER_03: Yeah, but we want something that works all the time.
+SPEAKER_03: Every day, every hour, for everyone.
+SPEAKER_01: For the person of the family maybe.
+SPEAKER_02: You don't need to tune it.
+SPEAKER_02: If you already have a product, it works 100% reliable, would you replace it with another one?
+SPEAKER_03: Yeah, why not?
+SPEAKER_00: For example, you say we would like to have a Google-like controller.
+SPEAKER_02: Yeah.
+SPEAKER_00: I don't see how adding speech or gesture recognition would make the remote control look more like Google.
+SPEAKER_00: Google is simple, works fine.
+SPEAKER_00: So I guess if we can have a remote control that is really basic, simple and works fine, it's already a lot.
+SPEAKER_02: Yes, but there's no big difference between the traditional controller.
+SPEAKER_00: I mean the user is not only interested in having speech or gesture recognition.
+SPEAKER_00: If he has something that works fine and is really fancy, looks nice and easy to use.
+SPEAKER_02: There is not enough motivation for them to replace their old controller with a new one.
+SPEAKER_02: If there is no key feature in the new controller.
+SPEAKER_00: That's the problem.
+SPEAKER_00: I know it's more interesting to develop a remote controller with speech and gesture and whatever.
+SPEAKER_00: But you have to think the user is the one who is going to buy the product then.
+SPEAKER_03: Ok, so let's go to the industrial designer.
+SPEAKER_03: Maybe we'll be able to take a decision after that.
+SPEAKER_03: Two.
+SPEAKER_01: Yeah, passive control and...
+SPEAKER_01: Working?
+SPEAKER_01: Yeah, working design.
+SPEAKER_01: So...
+SPEAKER_01: I think...
+SPEAKER_01: I can... Can you go to the next one?
+SPEAKER_01: It's not this one.
+SPEAKER_01: It's not working design.
+SPEAKER_01: Sorry.
+SPEAKER_01: Component design.
+SPEAKER_01: So this...
+SPEAKER_01: So this is to describe... What?
+SPEAKER_01: I didn't say...
+SPEAKER_03: I think there's something wrong with your... You didn't receive it?
+SPEAKER_03: Maybe you record it somewhere else.
+SPEAKER_01: I don't think so.
+SPEAKER_02: Participant 1?
+SPEAKER_02: Participant 1?
+SPEAKER_03: Interface concept?
+SPEAKER_03: No?
+SPEAKER_01: Mm-hm.
+SPEAKER_03: Mm-hm.
+SPEAKER_01: Oh!
+SPEAKER_01: Maybe I record it directly on the computer.
+SPEAKER_00: Yeah.
+SPEAKER_01: I don't know.
+SPEAKER_03: It seems that we have a problem with the...
+SPEAKER_00: I don't know if you remember what you had to say or...
+SPEAKER_02: I can say it without... Yeah, so... Yeah, maybe we can first come to...
+SPEAKER_02: Nei, jeg synes det skulle være mer interessant å starte med... Du synes det skulle være mer interessant å starte med?
+SPEAKER_03: Ja, det skulle ha mer informasjon, og jeg synes det skulle være interessant etter din presentasjon å ha Babas presentasjon.
+SPEAKER_01: In fact, I don't know.
+SPEAKER_01: In my presentation, I don't have here.
+SPEAKER_01: It was in fact to show you the design of what is inside and what are the different components of the remote control.
+SPEAKER_01: So it will be interesting so I could show you some picture of what is inside and so on.
+SPEAKER_01: so in fact the something i want to discuss is which kind of material are you going to use so it will be a wooden wooden wooden remote control or a plastic remote control like this one so and
+SPEAKER_01: In which kind will be the different button.
+SPEAKER_01: So it can be some classic push button like this one.
+SPEAKER_01: Or you have also some button like LCD where the buttons are unlighted during the night or you can see them in the darkness.
+SPEAKER_01: The other thing I want to discuss also is which kind of electricity alimentation do we want to have.
+SPEAKER_01: So will it be for example solar energy alimentation or will it be a battery like the classical battery.
+SPEAKER_01: And I think that for example for the alimentation it would be good to have
+SPEAKER_01: Both of them.
+SPEAKER_01: For example, in some country where you are in the countryside and you are far from the cities.
+SPEAKER_01: For example, in some place in Senegal.
+SPEAKER_01: If you have solar alimentation, when you want to have recharge your remote control power, you just put it on the sun and after one hour you can come.
+SPEAKER_01: So it can be interesting for people to have this kind of
+SPEAKER_01: It can be something interesting to make people buy it.
+SPEAKER_03: Yeah, I think it's an added value to the remote control and maybe it can attract all the ecological consumers.
+SPEAKER_03: But about the price of adding this solar battery, would it be something really that will increase the price of production or no?
+SPEAKER_01: In fact, having them both will, if you want to have a battery, a regular battery, and the solar energy battery, it will add a little bit of the price, but it will be an added value also that will be compensated.
+SPEAKER_03: And what about the materials?
+SPEAKER_01: And the materials, it depends.
+SPEAKER_01: For example, if you have a wooden material, it can be more, the plastic material is more common, it's very resistant.
+SPEAKER_01: You know, something wooden will be like, I don't know, special, high class.
+SPEAKER_03: Yeah, and if we want to put fashion in electronics, maybe we can try to do something with wood.
+SPEAKER_01: Yeah, even if it is not completely wood, but just a part of it will be wooden, in wood, and it can be interesting.
+SPEAKER_03: Okay, seems to be interesting.
+SPEAKER_01: So the last point is, do we want to have some very cheap integrated circuits, chips, or do we have low level or very expensive?
+SPEAKER_01: It depends, but I think that low level will be, you know, it is a non-trimmer jet.
+SPEAKER_03: Yeah, we want something easy to use, so I think maybe something very low level would be enough.
+SPEAKER_01: And you think that we will be... Yeah, I think it will fit on the price you want, 12 euros.
+SPEAKER_03: So good, and what about the buttons ?
+SPEAKER_01: think the buttons i will i prefer you know the lcd you know lighted buttons because you know it's i don't know it's fashion and it's related to how beautiful it is so and if you want to watch tv in the darkness or if you want to find your find your your remote control that is lost in the darkness it's very easy so wait
+SPEAKER_00: What about a touchscreen, for example?
+SPEAKER_00: It's expensive, I guess.
+SPEAKER_01: I think a touchscreen will be as expensive as the LCD button.
+SPEAKER_01: And it is a kind of design.
+SPEAKER_01: It can be also interesting to have this kind of...
+SPEAKER_02: So you got the email?
+SPEAKER_03: I don't know.
+SPEAKER_03: I think we have only 5 minutes left.
+SPEAKER_03: Ok. Whatcha beens for?
+SPEAKER_03: Functional requirements?
+SPEAKER_00: No trend watching.
+SPEAKER_00: The other one.
+SPEAKER_03: This one?
+SPEAKER_00: Yeah.
+SPEAKER_00: I think so.
+SPEAKER_00: Just...
+SPEAKER_00: Yeah, so just to meet the user requirements, I'll just do a short analysis of the remote control market and to kind of have a better overview of what the fashion in general have checked more than only the remote control market.
+SPEAKER_00: So, next.
+SPEAKER_00: So again, it's pretty much similar to what I've said in the previous meeting.
+SPEAKER_00: User really want a fancy look and feel.
+SPEAKER_00: They are not so interested in a functional look and feel.
+SPEAKER_00: Like the one you've chosen, David, with all the buttons.
+SPEAKER_00: I mean, it sounds good technically, but it's not what they want.
+SPEAKER_00: So second point is they still want it to be technologically innovative, so maybe it's sort of related to what you've said with the speech recognition and so on.
+SPEAKER_00: Ok. At the same time, it's important that it's easy to use.
+SPEAKER_00: So that were the three first points from the remote control analysis.
+SPEAKER_00: Now if we look at fashion in general... Ok. Ok.
+SPEAKER_00: What we really see this year is that everything from clothes to shoes and furniture is inspired by fruits and vegetables.
+SPEAKER_00: So I think we really have to take this into account for the design of the thing.
+SPEAKER_00: Because it's really what people want, even if it's in general fashion, we want it to be in the remote control.
+SPEAKER_00: And then, if we take the ordering or the ranking of all the points, fancy look and feel has on a score of 7, would have 6 as importance.
+SPEAKER_00: The remote control has to be technologically innovative, it's 3, then easy to use, it's not so important actually with respect to other ones.
+SPEAKER_00: Fancy look and feel is the most important one.
+SPEAKER_00: And then if we combine this with the fashion from Milan and Paris, we go to the fruits and vegetables.
+SPEAKER_00: And the other point I haven't mentioned is people want to have a spongy touch.
+SPEAKER_00: So this maybe doesn't really fit with the wooden design.
+SPEAKER_00: I don't know.
+SPEAKER_01: But the point is which kind of material do you need to be spongy?
+SPEAKER_00: Yeah, this would be like plastic-like but rubber-like device.
+SPEAKER_00: That was the main point, I think, from the trend in fashion.
+SPEAKER_03: So we have to take decisions about the component concepts, about the energy.
+SPEAKER_03: So as you say you want something technologically innovative, maybe using solar energy with battery would be something interesting, maybe would attract.
+SPEAKER_03: Pro-ecology consumers.
+SPEAKER_03: Chip and print, so you propose low-level chips would be enough to have something working well.
+SPEAKER_03: Case.
+SPEAKER_03: So you think case...
+SPEAKER_01: something spongy no wood maybe not no wood but i mean wood so maybe not the part you touching maybe you can have wood for example in the bottom and yeah it's natural yeah it's natural feeling is natural so maybe we can stay with wood and it can be correlated to energy solar energy so for the marketing aspect you know saying yeah i mean it's not exactly right for the spongy
+SPEAKER_01: Yeah, it's not right.
+SPEAKER_03: But it's still fashion.
+SPEAKER_00: But we could maybe have both like part of wood and some rubber for the buttons or... Yeah, something that you can enter in.
+SPEAKER_03: And what about the user interface concept?
+SPEAKER_03: Google and... Google and fancy?
+SPEAKER_01: And fancy.
+SPEAKER_01: How about the voice?
+SPEAKER_03: Because I think that with the voice and gesture recognition there are still some disadvantages with this.
+SPEAKER_01: Maybe we can do some marketing studies asking people if they are interested and how...
+SPEAKER_01: It is an interesting concept to have voice control.
+SPEAKER_02: Smart control.
+SPEAKER_01: And the problem is, if you have voice control, why not to put it directly on the TV?
+SPEAKER_01: You speak directly to the TV.
+SPEAKER_01: You don't need a remote control actually, so...
+SPEAKER_03: Yeah, but you need a receiver to recognize the gestures and the voice.
+SPEAKER_01: But it will be embedded on the TV and not on a remote control.
+SPEAKER_01: That's true.
+SPEAKER_03: So maybe we'll just focus on the Google controller plus the fancy controller.
+SPEAKER_03: Maybe try to mix these two concepts together, just in one, and do a remote control with solar energy and batteries and with low-level chips and wood.
+SPEAKER_02: Yeah, good.
+SPEAKER_03: And LCD buttons.
+SPEAKER_03: Yeah, I think for the supplements the solar energy would be something quite interesting and not maybe too difficult to add.
+SPEAKER_01: And what can we think as supplement to interface?
+SPEAKER_03: Yeah, for the interface something added value.
+SPEAKER_01: I think the supplement can be the voice.
+SPEAKER_01: It is not the most important but
+SPEAKER_01: It can be a part of... With a module?
+SPEAKER_03: You mean a remote control with a module?
+SPEAKER_03: If you want, you can just use commands, words, and use them when you don't want to use your fingers.
+SPEAKER_01: Even if it is for just some keys like, you know, switching channels, 1, 2, 3, 4...
+SPEAKER_01: Turning the TV on or off.
+SPEAKER_01: Not very complex commands, but easy commands.
+SPEAKER_03: So, adding some vocal commands...
+SPEAKER_03: Simple ones?
+SPEAKER_01: Yes, simple ones.
+SPEAKER_03: Okay.
+SPEAKER_03: So your next meeting will start in 30 minutes.
+SPEAKER_03: So you will all have to work in...
+SPEAKER_03: in your direction so you will have to work on the look and feel design to have the easy to use powerful and fancy remote control with some added values such as the simple vocal commands recognition
+SPEAKER_03: You will have to work more, Baba, on the spongy way to add spongy touch to the buttons.
+SPEAKER_03: And try to find maybe a nice shape for the wooden remote control.
+SPEAKER_03: And I think we will have to evaluate the product.
+SPEAKER_00: Not forgetting about the fruits and vegetables trends.
+SPEAKER_00: If possible.
+SPEAKER_01: Ok.
+SPEAKER_03: And remember, as I said last meeting, we really have to build fashion, remote control, and the color of the society will be seen in the remote control.
+SPEAKER_03: So you will have Baba and David Jordan, you will have to work together on the prototype.
+SPEAKER_03: And you will have next time to show us modeling a clay remote control.
+SPEAKER_03: So you will have to model something.
+SPEAKER_03: And I think that some specific instructions will be sent to you by your personal coach.
+SPEAKER_03: Ok.
+SPEAKER_03: So no more questions, we can close the session.
+SPEAKER_01: Sounds good.
+SPEAKER_03: Ok, cool.

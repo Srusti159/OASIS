@@ -1,0 +1,118 @@
+SPEAKER_01: Hay muchos cables y cosas
+SPEAKER_02: original está grabado bien bien, bienvenidos a todos estamos aquí para la reunión de kickoff del proceso de diseñar un nuevo control remoto
+SPEAKER_02: Primero voy a empezar con las cosas abiertas.
+SPEAKER_02: Luego veremos lo que será nuestro producto y cuáles serán las diferentes etapas que tendremos para diseñarlo.
+SPEAKER_02: y luego discutiremos si tenemos algunas ideas y terminaremos dispachando las diferentes tareas que tendrás que cumplir para completar este proceso.
+SPEAKER_01: Así que, solo una cosa, dijiste 25 minutos pero tengo algo más que hacer, así que tendremos otra reunión pronto, así que quizás puedas tardar un poco.
+SPEAKER_01: Es verdad.
+SPEAKER_01: Tengo otro encuentro.
+SPEAKER_01: ¿Tienes otro encuentro pronto?
+SPEAKER_02: Sí.
+SPEAKER_01: Así que tienes que ser rápido.
+SPEAKER_01: Sí, para el proyecto de Lone Mower.
+SPEAKER_01: Ok.
+SPEAKER_02: El objetivo es tener un control remoto, así que para tener una ventaja sobre nuestros competidores tenemos que ser originales, tenemos que ser trendy y también tenemos que intentar ser user-friendly.
+SPEAKER_02: El paso del diseño será dividido en tres puntos principales.
+SPEAKER_02: Primero, el diseño funcional.
+SPEAKER_02: Tercero, el diseño conceptual.
+SPEAKER_02: Y tercero, el diseño detallado.
+SPEAKER_02: El diseño funcional es identificar las necesidades del usuario principal, las funciones técnicas que debe cumplir el control remoto.
+SPEAKER_02: Y luego vamos al diseño conceptual donde especificamos los diferentes componentes involucrados, qué tipo de interfaz de usuario queremos y cuáles son las diferentes tendencias en la interfaz de usuario y cosas así.
+SPEAKER_02: Y luego el diseño detallado consistirá en implementar específicamente y detallar la elección que hicimos en el segundo punto.
+SPEAKER_02: Así que ahora te preguntaré, lo que es muy importante para el diseño de un nuevo control remoto, para que cada uno de nosotros dibujara tu animal favorito en el mundo vacío.
+SPEAKER_02: ¡Qué idea original!
+SPEAKER_02: ¿Tienes alguna idea de qué animal quieres mostrarnos?
+SPEAKER_02: si quieres reaccionar sobre este maravilloso dibujo te dejaré un comentario es un dibujo abstracto de un tanque urbano
+SPEAKER_02: Ok, es un dibujo abstracto.
+SPEAKER_02: Creo que es bonito y original.
+SPEAKER_02: ¿Quieres dibujar algo?
+SPEAKER_00: Ok, perdón.
+SPEAKER_00: Tienes que imaginar un poco.
+SPEAKER_02: Por supuesto, tu animal está grabado, así que no está perdido.
+SPEAKER_00: Sí, lo sé.
+SPEAKER_00: Perdón también.
+SPEAKER_02: ¿Qué es esta bestia extraña?
+SPEAKER_02: ¿Es un monstruo?
+SPEAKER_02: ¿Lo sabes?
+SPEAKER_00: Es una gata, ¿no?
+SPEAKER_00: Creo que esas cosas no existen.
+SPEAKER_00: Sí, es así.
+SPEAKER_00: ¿Es Beto?
+SPEAKER_01: Es mi gata.
+SPEAKER_01: Ok, es tu gata.
+SPEAKER_01: Tiene un nombre.
+SPEAKER_00: El nombre es Caramel.
+SPEAKER_01: ¿Caramel?
+SPEAKER_01: ¿Y tú?
+SPEAKER_02: ¿Quieres...?
+SPEAKER_02: Creo que estoy demasiado corto para los cables.
+SPEAKER_03: Ok, me voy.
+SPEAKER_03: La próxima vez harás algo en cable, seguro.
+SPEAKER_02: La próxima vez lo haré.
+SPEAKER_02: Estoy un poco corto en cable, ok.
+SPEAKER_02: Entonces, ¿qué podría dibujar?
+SPEAKER_02: Tal vez puedo dibujar... como...
+SPEAKER_02: Un Ko muy simplificado.
+SPEAKER_02: No sé si se ve como un Ko.
+SPEAKER_01: Se ve como un bong.
+SPEAKER_02: Es bastante cuadrado.
+SPEAKER_02: No sé, en realidad parece más como un donkey.
+SPEAKER_02: Espero que te ayude en el proceso de diseñar un reloj.
+SPEAKER_02: ¿Es para poner un logo o no?
+SPEAKER_02: Vamos a seguir.
+SPEAKER_02: Ese es el objetivo financiero de nuestro proyecto, es decir, tener un costo de producción menor de 12,5 euros y tener una venta de dos veces ese precio para alcanzar un beneficio de 50 millones de euros.
+SPEAKER_02: ¿Hay un mercado para el control remoto?
+SPEAKER_02: Si es de moda, original y... ¿Un control remoto de un solo dispositivo o un control remoto de múltiples dispositivos?
+SPEAKER_01: Tenemos que discutir esos puntos.
+SPEAKER_01: Ah, no está definido en absoluto.
+SPEAKER_01: Sí, puedes sugerir puntos como estos.
+SPEAKER_02: Así que tenemos que decidir, por ejemplo, si puedes controlar un dispositivo o múltiples.
+SPEAKER_02: Entonces, ¿cuáles son tus ideas sobre eso?
+SPEAKER_02: Tal vez pueda tener su opinión desde el lado del marketing.
+SPEAKER_01: Si bundleamos el control remoto con algo que vendamos, entonces podría ser un dispositivo único.
+SPEAKER_01: Si no, podría ser un dispositivo programable.
+SPEAKER_01: Si no, ¿quién compraría un control remoto de nosotros?
+SPEAKER_02: Ok, entonces, si se vende por su propio, sería mejor para múltiples dispositivos.
+SPEAKER_02: Sí.
+SPEAKER_02: ¿Estás de acuerdo?
+SPEAKER_02: Así que tal vez debería ser para múltiples dispositivos.
+SPEAKER_02: ¿Tienes alguna idea de ideas de diseño o cualquier requisito técnico que deberíamos cumplir?
+SPEAKER_03: Creo que no deberíamos tener demasiado, por mi parte.
+SPEAKER_01: No puedo pensar en cualquier requisito en este momento.
+SPEAKER_02: si no tenemos tantos botones ¿tienes alguna idea de la tendencia en el domenio?
+SPEAKER_02: ¿qué debería ser?
+SPEAKER_02: algo que no sea cuadrado no sea una caja algo que al menos se sienta en tu mano los requisitos básicos se sienta en tu mano y también puede ser importante para el control remoto
+SPEAKER_02: para resistir a diversos choques que pueden ocurrir si caen.
+SPEAKER_02: También es hidráulico.
+SPEAKER_02: Tal vez sea original porque puedes usarlo en tu baño mientras que los demás no.
+SPEAKER_02: Tal vez el hidráulico sea muy original.
+SPEAKER_02: Tener un control remoto hidráulico para que la gente pueda usarlo en su baño.
+SPEAKER_01: Parece así, pero si no tienes un control remoto, puedes cubrirlo con plástico y se vuelve remoto.
+SPEAKER_02: Sí, pero es algo que tienes que comprar y eso es... Y eso es para el shock, hay gente que tiene el control remoto y se preocupa de que se va a romper y le ponen un plástico extra.
+SPEAKER_02: Las personas que se preocupan lo hacen por sí mismas.
+SPEAKER_02: pero tal vez podamos volcarlo con esta cosa de plástico y la caja de agua tal vez podamos vender todo eso juntos, así que protección de plástico y caja de agua también podría ser una buena pista para seguir como una opción creo
+SPEAKER_02: ¿Optional o vendedor?
+SPEAKER_02: Creo que deberíamos tener algo...
+SPEAKER_03: La mayoría de las veces pierdo el control remoto.
+SPEAKER_03: Deberíamos tener un botón especial en la televisión para hacer el control remoto.
+SPEAKER_03: Pero no diseñamos la televisión.
+SPEAKER_03: Tal vez podríamos tener algo que ruise y el ritmo del control remoto.
+SPEAKER_02: ¿Un coche?
+SPEAKER_02: Sí, un coche.
+SPEAKER_02: Así que podríamos tener un control remoto que ruise.
+SPEAKER_02: no se, whistle label remote control whistle tracking whistle tracking remote control es una buena idea, es muy original es bastante genial pero por supuesto normalmente no necesitas ningún audio para grabar en tu remote control es solo para añadirle a los costes
+SPEAKER_02: Sí, pero todavía tenemos que tener una ventaja de nuestros competidores.
+SPEAKER_02: Creo que esta es una buena ventaja.
+SPEAKER_02: Es genial, creo que me gusta la idea, pero no estoy seguro de lo que... Sí, tenemos que preguntar el costo de ese diseño al diseñador industrial.
+SPEAKER_02: que eres tú.
+SPEAKER_02: Ok, intenta encontrarlo para la próxima reunión.
+SPEAKER_02: La próxima reunión es en 30 minutos, así que no te paniques.
+SPEAKER_02: Le preguntaré al diseñador industrial para saber más sobre este diseño industrial.
+SPEAKER_02: Cualquier función de trabajo que hemos discutido.
+SPEAKER_02: Luego le preguntaré al diseñador de la interfaz del usuario para pensar sobre el punto que discutimos, como el número de botones, el file que está ligado o no, cosas así, y lo que sería conveniente para el usuario.
+SPEAKER_02: y también preguntaremos al experto de mercado para intentar descubrir cuáles son los requisitos absolutos, lo que es absolutamente necesario en un control remoto para el usuario y luego te pediré que pienses sobre eso y mira tu correo electrónico porque recibirás algún buen consejo pronto
+SPEAKER_02: Así que gracias, creo que eso es todo por este punto.
+SPEAKER_01: Gracias.
+SPEAKER_01: Volvemos en cinco minutos.
+SPEAKER_01: De todas maneras recibirás algunos mensajes.
+SPEAKER_02: Pero no sé si es correctamente...

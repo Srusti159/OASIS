@@ -1,0 +1,65 @@
+{
+  "experiment": "R4",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:10:40.227770+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R4",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3669,
+    "output_tokens": 321,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 13.4862,
+    "latency_sec": 5.1484,
+    "throughput_tokens_per_sec": 23.8,
+    "peak_vram_mb": 19798.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.1949,
+        "recall": 0.5227,
+        "f1": 0.284
+      },
+      "rouge2": {
+        "precision": 0.0596,
+        "recall": 0.1609,
+        "f1": 0.087
+      },
+      "rougeL": {
+        "precision": 0.1102,
+        "recall": 0.2955,
+        "f1": 0.1605
+      }
+    },
+    "bertscore": {
+      "precision": 0.8215,
+      "recall": 0.8547,
+      "f1": 0.8378,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.781,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0051,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.1476,
+    "entailment_score": 0.0051
+  },
+  "judge_score": 6,
+  "generated_summary": "### Meeting Summary: Project Kick-Off Meeting\n\n#### Date: [Date of Meeting]\n\n#### Attendees:\n- Ada Longman, Project Manager\n- Industrial Designer (ID)\n- User Interface Designer (UID)\n- Marketing Expert (ME)\n\n#### Agenda:\n\n1. **Opening**: The meeting was opened by Ada Longman, who introduced herself as the Project Manager.\n\n2. **Acquaintance**: The attendees were introduced to each other, including their roles and responsibilities within the project.\n\n3. **Tool Training**: Ada Longman introduced the team to the tools they would be using throughout the project. The team was encouraged to try out the whiteboard and engage in creative activities, such as drawing their favorite animal and listing its favorite characteristics.\n\n4. **Project Plan**: Ada Longman presented the project plan, which outlined the key milestones, deliverables, and timelines for the project.\n\n5. **Discussion**: The team engaged in a discussion about the project. The discussion covered various topics, including the project's objectives, the target market, the competition, and the project's budget and financial projections.\n\n6. **Closing**: The meeting was closed by Ada Longman, who summarized the key points discussed during the meeting. Ada also provided instructions for the next steps in the project, including assigning specific tasks to each team member and providing guidance on how to approach these tasks.\n\n#### Next Steps:\n\n- Team members will work on their assigned tasks.\n- Ada Longman will manage the group and provide support as needed.\n- Specific instructions will be sent to each team member by their personal coach."
+}

@@ -1,0 +1,65 @@
+{
+  "experiment": "R3",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:08:08.217448+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R3",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 6086,
+    "output_tokens": 229,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 9.9444,
+    "latency_sec": 5.2089,
+    "throughput_tokens_per_sec": 23.03,
+    "peak_vram_mb": 20310.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.5613,
+        "recall": 0.2727,
+        "f1": 0.3671
+      },
+      "rouge2": {
+        "precision": 0.1883,
+        "recall": 0.0912,
+        "f1": 0.1229
+      },
+      "rougeL": {
+        "precision": 0.2774,
+        "recall": 0.1348,
+        "f1": 0.1814
+      }
+    },
+    "bertscore": {
+      "precision": 0.8312,
+      "recall": 0.8367,
+      "f1": 0.8339,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.3196,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0036,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0019,
+    "entailment_score": 0.0036
+  },
+  "judge_score": 6,
+  "generated_summary": "### Meeting Summary: Concept Design for Remote Control\n\n**Objective**: To design a new remote control that is innovative, aesthetically pleasing, and user-friendly.\n\n**Attendees**:\n- Industrial Designer (UID)\n- User Interface Designer (UID)\n- Marketing Expert (ME)\n\n**Discussion Points**:\n\n**1. Components Design**:\n- Standard chip for remote control\n- Case study for wheel sensor\n- Case study for standard push button\n\n**2. User Interface Design**:\n- Simple and intuitive design\n- Use of a wheel control for channel selection\n- Standard push buttons for volume control and TV channel changes\n\n**3. Aesthetics and Material**:\n- Consideration of fruit or vegetable shapes for the remote control\n- Use of spongy materials for durability and ease of use\n\n**4. Next Steps**:\n- Industrial Designer and User Interface Designer to collaborate on the prototype design.\n- Further instructions and details will be provided via email.\n\n**Conclusion**:\nThe meeting concluded with a clear direction for the design of the new remote control. The team is excited to move forward with the prototype development."
+}

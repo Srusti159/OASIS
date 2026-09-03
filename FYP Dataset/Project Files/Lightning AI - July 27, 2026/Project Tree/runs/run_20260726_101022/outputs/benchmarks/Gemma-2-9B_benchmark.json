@@ -1,0 +1,67 @@
+{
+  "experiment": {
+    "meeting_id": "run_20260726_101022",
+    "dataset": "AMI Corpus",
+    "temperature": null,
+    "top_p": null,
+    "top_k": null,
+    "seed": null,
+    "run_id": "run_20260726_101022",
+    "timestamp": "2026-07-27T18:08:33.361891+00:00"
+  },
+  "model": {
+    "model_name": "Gemma-2-9B",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "run_20260726_101022",
+    "audio_duration_sec": null,
+    "video_duration_sec": null,
+    "num_speakers": 4,
+    "input_tokens": null,
+    "output_tokens": null,
+    "input_mode": "multimodal"
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.0573,
+        "recall": 0.0448,
+        "f1": 0.0503
+      },
+      "rouge2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rougeL": {
+        "precision": 0.0446,
+        "recall": 0.0348,
+        "f1": 0.0391
+      }
+    },
+    "bertscore": {
+      "precision": -0.1634,
+      "recall": -0.1715,
+      "f1": -0.1628
+    },
+    "bartscore": {
+      "score": -2.1935
+    }
+  },
+  "hallucination": {
+    "hallucination_rate": 0.7458,
+    "factual_consistency_score": null,
+    "qa_based_consistency_score": null,
+    "entailment_score": null,
+    "notes": "Placeholder metrics pending dedicated factual-consistency model integration."
+  },
+  "efficiency": {
+    "inference_time_sec": 358.38,
+    "latency_sec": 358.38,
+    "throughput_tokens_per_sec": 1.43,
+    "peak_vram_mb": 9187.02
+  }
+}

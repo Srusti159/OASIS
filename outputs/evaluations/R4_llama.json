@@ -1,0 +1,65 @@
+{
+  "experiment": "R4",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:10:56.650578+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R4",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3699,
+    "output_tokens": 393,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 11.6942,
+    "latency_sec": 4.4787,
+    "throughput_tokens_per_sec": 33.61,
+    "peak_vram_mb": 17482.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.189,
+        "recall": 0.625,
+        "f1": 0.2902
+      },
+      "rouge2": {
+        "precision": 0.0483,
+        "recall": 0.1609,
+        "f1": 0.0743
+      },
+      "rougeL": {
+        "precision": 0.1031,
+        "recall": 0.3409,
+        "f1": 0.1583
+      }
+    },
+    "bertscore": {
+      "precision": 0.811,
+      "recall": 0.8594,
+      "f1": 0.8345,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.358,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0016,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.001,
+    "entailment_score": 0.0016
+  },
+  "judge_score": 6,
+  "generated_summary": "**Meeting Summary**\n\n**Meeting Title:** Kick-Off Meeting for New Remote Control Project\n\n**Date:** Not specified\n\n**Attendees:** Ada Longman (Project Manager), Industrial Designer, User Interface Designer, Marketing Expert, and other participants\n\n**Meeting Objectives:**\n\n1. Introduce the project and its objectives\n2. Discuss the project method and approach\n3. Provide tool training on the whiteboard\n4. Review the project plan and agenda\n5. Discuss the project finance and profit aim\n6. Assign individual tasks and roles\n\n**Key Points:**\n\n1. The project aims to create a new remote control that is original, trendy, and user-friendly.\n2. The project method involves individual work and meetings to achieve the functional, conceptual, and detailed designs.\n3. Tool training was provided on the whiteboard, where participants were encouraged to draw their favorite animal and list its favorite characteristics.\n4. The selling price of the project is 25 euros, with a profit aim of 50 MEuro and a production cost of max. 12.50 euros.\n5. The project requires international collaboration, and the remote control should be designed to be user-friendly and affordable.\n6. The participants were assigned individual tasks and roles, including industrial design, user interface design, and marketing expertise.\n\n**Action Items:**\n\n1. Industrial Designer: Design the working design (ID)\n2. User Interface Designer: Design the technical functions design (UID)\n3. Marketing Expert: Design the user requirements specification (ME)\n4. Project Manager: Manage the group and ensure the project is completed on time\n\n**Next Steps:**\n\n1. The next meeting will start in 30 minutes.\n2. Participants are expected to work on their assigned tasks and roles.\n3. Specific instructions will be sent to each participant by their personal coach.\n\n**Note:** The meeting transcript includes some unclear or incomplete sentences, which may require further clarification or discussion."
+}

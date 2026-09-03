@@ -1,0 +1,417 @@
+=== SYSTEM FUSION PROMPT ===
+You are an AI fusion engine. Merge this spoken transcript and these OCR slides into a clean, chronological meeting context document.
+
+=== SLIDES & DOCUMENTATION (PDF OCR) ===
+### Slide 1
+
+1. Zero hallucination: never invent, infer, or guess any text, number, or label. If something is genuinely illegible, write [unreadable].
+2. Table detection and skip: if the slide contains a spreadsheet-style table, grid, or dense numerical/financial data table, do NOT attempt to transcribe it. Instead respond with exactly: [SKIPPED_TABLE_SLIDE] and nothing else.
+
+---
+
+### Slide 2
+
+Real Reaction
+
+Kick-Off meeting
+
+Presented by: Ada Longman,
+Project Manager
+
+---
+
+### Slide 3
+
+Real Reaction
+
+Kick-Off meeting
+
+Presented by: Ada Longman, Project Manager
+
+---
+
+### Slide 4
+
+Agenda
+
+- Opening
+- Acquaintance
+- Tool training
+- Project plan
+- Discussion
+- Closing (we have 25 minutes!)
+
+Real Reaction
+
+---
+
+### Slide 5
+
+Project Aim
+
+• New remote control
+  – Original
+  – Trendy
+  – User friendly
+
+---
+
+### Slide 6
+
+Project Method
+
+- Functional design
+  - Individual work
+  - Meeting
+
+- Conceptual design
+  - Individual work
+  - Meeting
+
+- Detailed design
+  - Individual work
+  - Meeting
+
+---
+
+### Slide 7
+
+Tool Training
+
+• Try out the whiteboard!
+  – Participants can draw their favorite animal and list its favorite characteristics
+
+---
+
+### Slide 8
+
+Project Finance
+
+- Selling price: 25 euro
+- Profit aim: 50 MEuro
+  - Market range: international
+- Production costs: max. 12.50 euro
+
+Real Reaction
+
+---
+
+### Slide 9
+
+Discussion
+
+• Examples:
+  – Experience with remote control
+  – First ideas new remote
+  – Etc.
+
+---
+
+### Slide 10
+
+Closing
+
+- Next meeting starts in 30 minutes
+- Individual actions
+  - ID: the working design
+  - UID: the technical functions design
+  - ME: the user requirements specification
+- Specific instructions will be sent to you by your personal coach.
+
+---
+
+### Slide 11
+
+Closing
+
+- Next meeting starts in 30 minutes
+- Individual actions
+  - ID: the working design
+  - UID: the technical functions design
+  - ME: the user requirements specification
+- Specific instructions will be sent to you by your personal coach.
+
+---
+
+### Slide 12
+
+Closing
+
+- Next meeting starts in 30 minutes
+- Individual actions
+  - ID: the working design
+  - UID: the technical functions design
+- ME: the user requirements specification
+- Specific instructions will be sent to you by your personal coach.
+
+Real Reaction
+
+---
+
+### Slide 13
+
+Project Finance
+
+- Selling price: 25 euro
+- Profit aim: 50 MEuro
+  - Market range: international
+- Production costs: max. 12.50 euro
+
+Real Reaction
+
+---
+
+### Slide 14
+
+Agenda
+
+- Opening
+- Acquaintance
+- Tool training
+- Project plan
+- Discussion
+- Closing (we have 25 minutes!)
+
+Real Reaction
+
+---
+
+### Slide 15
+
+Closing
+
+- Next meeting starts in 30 minutes
+- Individual actions
+  - ID: the working design
+  - UID: the technical functions design
+- ME: the user requirements specification
+- Specific instructions will be sent to you by your personal coach.
+
+Real Reaction
+
+---
+
+### Slide 16
+
+Agenda
+
+- Opening
+- Acquaintance
+- Tool training
+- Project plan
+- Discussion
+- Closing (we have 25 minutes!)
+
+Real Reaction
+
+---
+
+### Slide 17
+
+1. Skip the table detection and bullet points.
+2. Zero hallucination: never invent, infer, or guess any text, number, or label.
+3. Table detection and skip: if the slide contains a spreadsheet-style table, grid, or dense numerical/financial data table, do NOT attempt to transcribe it.
+4. No conversational filler, no introductions, no conclusions — begin extraction immediately.
+
+=== SPOKEN AUDIO TRANSCRIPT ===
+SPEAKER_00: You always forget how to put it.
+SPEAKER_00: Looks good.
+SPEAKER_03: So I can start?
+SPEAKER_02: Yeah.
+SPEAKER_03: I suppose I have to do my presentation.
+SPEAKER_03: Ah, ok.
+SPEAKER_00: It's Ada Longman.
+SPEAKER_03: So I present myself, I'm Ada Longman, and as you may know it, I'm the project manager.
+SPEAKER_03: So, we will have to...
+SPEAKER_03: speak about the project.
+SPEAKER_03: Our project is to create a new remote control, and as you may know, there's a lot of industrials interested in creating a remote control, so the remote control has to be original, trendy, and user-friendly.
+SPEAKER_03: Record.
+SPEAKER_03: The project method is the following.
+SPEAKER_03: For the functional design you have to do individual work and also work with meetings, talking with each other.
+SPEAKER_03: It will be the same for the conceptual design and also the same for the detailed design.
+SPEAKER_03: Tool training is to try out the whiteboard.
+SPEAKER_03: Maybe you can draw your favorite animal and make a list of its favorite characteristics.
+SPEAKER_03: I don't know if we have to do it now, maybe later?
+SPEAKER_03: So the selling price of the project will be 25 euros.
+SPEAKER_01: 25 euros?
+SPEAKER_03: Yeah.
+SPEAKER_03: I think it's quite a good price.
+SPEAKER_03: It's reasonable.
+SPEAKER_03: And it will be a
+SPEAKER_03: international remote control as we want to sell it in the entire world and the product costs will be not more than 12 euros and 50 centimes
+SPEAKER_03: So, as you will discuss about the remote control, you will have to experience with the remote control.
+SPEAKER_03: Just maybe be imaginative with remote controls, try to create something new and people would like to buy.
+SPEAKER_03: And the next meeting will start in 30 minutes.
+SPEAKER_03: So you all have your specific role and I suppose you know what you have to do.
+SPEAKER_03: And you will have to work on the design and also to work on the design of the technical functions of the remote control and think of the user requirements specifications.
+SPEAKER_02: Those things just refer to each of us, I think.
+SPEAKER_02: Yeah.
+SPEAKER_02: ME and... ID, yeah.
+SPEAKER_00: ID is for the industrial designer.
+SPEAKER_02: Okay.
+SPEAKER_00: And UID is for the user interface designer.
+SPEAKER_02: Okay, and marketing expert, it's me.
+SPEAKER_00: ME.
+SPEAKER_03: So I will manage all the group.
+SPEAKER_02: You can manage all of this, yeah.
+SPEAKER_02: Good.
+SPEAKER_03: So you have questions?
+SPEAKER_02: Um...
+SPEAKER_02: Not really.
+SPEAKER_03: So you all know what parts of the work you have to do.
+SPEAKER_01: Yeah.
+SPEAKER_02: So which, you are the industrial designer?
+SPEAKER_01: I am the industrial designer.
+SPEAKER_01: I am the user interface designer.
+SPEAKER_02: Okay.
+SPEAKER_01: And you?
+SPEAKER_00: I am the industrial designer.
+SPEAKER_01: Okay.
+SPEAKER_01: So what's the difference between user interface design and industrial design?
+SPEAKER_02: It's your job, so I hope you know what it is.
+SPEAKER_01: You know very soon.
+SPEAKER_01: Yeah, I think so.
+SPEAKER_03: I suppose you have to design it, and you have to take care of the industrial way to transform it.
+SPEAKER_01: Okay, so I make a user interface.
+SPEAKER_01: And maybe you will transform it.
+SPEAKER_00: I think the user interface design is, he will design how the user will, the relation between the user and the remote worker.
+SPEAKER_00: And the industrial design, it is how the object will look like.
+SPEAKER_01: Maybe I think it's a function design.
+SPEAKER_01: I design the user interface, you design the function.
+SPEAKER_03: Maybe, just the outside and the inside.
+SPEAKER_00: Okay.
+SPEAKER_00: I was thinking that it is a user-to-user interface to design, for example, where the button will be, you know.
+SPEAKER_00: Yeah, yeah.
+SPEAKER_00: I don't know.
+SPEAKER_00: You know.
+SPEAKER_00: I'm the industrial designer.
+SPEAKER_02: Oh, okay, okay, not the other one.
+SPEAKER_00: Ok. Ok.
+SPEAKER_02: So, and the marketing expert will... Yeah, I'm just gonna, I'm trying to give you some trends about what should be done and what the users would like to have.
+SPEAKER_02: And then, this would, I guess, converge to the user interface designer and then industrial designer.
+SPEAKER_03: And when designing the remote control, just remember that it has to be a kind of international product.
+SPEAKER_03: So, you don't have to do something really specific.
+SPEAKER_03: As everybody will have to use it.
+SPEAKER_03: It's the same as keyboards.
+SPEAKER_03: You know, you have QWERTY, AZETI, French and UK keyboard.
+SPEAKER_03: So, really, the remote control to be international.
+SPEAKER_03: And not too expensive.
+SPEAKER_01: As simple.
+SPEAKER_03: As we want to maximize the benefit.
+SPEAKER_02: And you have to keep it under 12 euros.
+SPEAKER_03: Yeah, you have to keep in mind that the product cost won't be more than 12.50 euros.
+SPEAKER_03: Okay.
+SPEAKER_03: And to be sure that really people would be interested in buying a new remote control with maybe new functionalities that don't exist in the existing remote controls now.
+SPEAKER_01: Ok.
+SPEAKER_03: So, is it ok?
+SPEAKER_02: It's clear.
+SPEAKER_00: There was a step about drawing something in the board.
+SPEAKER_00: I don't know.
+SPEAKER_02: Yeah, maybe you should go and draw an animal.
+SPEAKER_00: Is it?
+SPEAKER_00: I'm supposed to do it right now?
+SPEAKER_00: Yeah, you try.
+SPEAKER_00: It's from the left.
+SPEAKER_00: You think we have to do it now?
+SPEAKER_00: I was thinking, but I'm not sure how.
+SPEAKER_01: You can draw something, which is very simple.
+SPEAKER_03: You want me to draw something?
+SPEAKER_01: Everybody should bring Cammy here.
+SPEAKER_01: Cammy is really good at drawing.
+SPEAKER_01: I think everybody should do it, so...
+SPEAKER_00: It's not important.
+SPEAKER_01: Should we draw?
+SPEAKER_01: Ok.
+SPEAKER_02: Oh, it's the same as mine.
+SPEAKER_01: What's this?
+SPEAKER_01: It's a cat.
+SPEAKER_01: It's a fat cat.
+SPEAKER_00: It's not a fat cat.
+SPEAKER_02: That's the fat cat, okay.
+SPEAKER_01: Can you draw a rabbit?
+SPEAKER_01: Oh, rat.
+SPEAKER_01: A rat?
+SPEAKER_02: That's difficult.
+SPEAKER_00: You have to draw a rat if you want a rat.
+SPEAKER_00: Mouse is not too difficult.
+SPEAKER_02: Mouse is ok. Just go to the closest to the whiteboard.
+SPEAKER_00: Go to the whiteboard and draw.
+SPEAKER_00: Everybody has to.
+SPEAKER_00: Ah.
+SPEAKER_01: Ok.
+SPEAKER_01: I draw.
+SPEAKER_01: The only thing I can draw is like this.
+SPEAKER_01: Oh.
+SPEAKER_01: Oh.
+SPEAKER_01: Oh.
+SPEAKER_01: Duck.
+SPEAKER_01: Non?
+SPEAKER_01: What is?
+SPEAKER_01: I have no idea.
+SPEAKER_03: These are the eyes.
+SPEAKER_03: Yeah, that was the eyes.
+SPEAKER_03: Ok. A clown.
+SPEAKER_03: Rabbit.
+SPEAKER_00: It's a rabbit.
+SPEAKER_00: Pikachu.
+SPEAKER_03: It's a rabbit.
+SPEAKER_02: Oh yeah.
+SPEAKER_02: Bugs Bunny one.
+SPEAKER_03: Yeah.
+SPEAKER_01: Ok, it's not so bad.
+SPEAKER_01: The only thing I can't draw, because it's very simple.
+SPEAKER_02: Ok, I go.
+SPEAKER_03: The trinity.
+SPEAKER_02: What?
+SPEAKER_03: La traine.
+SPEAKER_02: So what else?
+SPEAKER_02: This was my favorite one.
+SPEAKER_03: Thank you.
+SPEAKER_00: En fisk?
+SPEAKER_00: Riktig.
+SPEAKER_00: Det er en fisk.
+SPEAKER_03: Forgot chipset.
+SPEAKER_02: Åh, ja.
+SPEAKER_02: Det ser ikke så fint ut.
+SPEAKER_00: Vi må være veldig forsiktige.
+SPEAKER_03: Fisk og chipset.
+SPEAKER_02: Ok. Det er din tida.
+SPEAKER_02: Det er min tida.
+SPEAKER_00: Vær forsiktig.
+SPEAKER_00: No problem, no problem.
+SPEAKER_00: So, what can I draw somewhere?
+SPEAKER_01: Oh, Titi?
+SPEAKER_00: Titi, no.
+SPEAKER_00: Hmm...
+SPEAKER_00: It's my favorite TV show.
+SPEAKER_01: A person?
+SPEAKER_UNKNOWN: No.
+SPEAKER_00: It's a very crazy dog.
+SPEAKER_00: Dog?
+SPEAKER_00: Good.
+SPEAKER_00: Sounds fun.
+SPEAKER_00: It's a dog in a village.
+SPEAKER_01: Okay.
+SPEAKER_00: So what are we going to do now?
+SPEAKER_00: I think it's done.
+SPEAKER_03: It's done?
+SPEAKER_03: Just to present project, discuss a little bit about it.
+SPEAKER_02: Oh my god.
+SPEAKER_02: Oh, we have 25 minutes for the meeting.
+SPEAKER_03: Yeah.
+SPEAKER_02: So if you have questions... What time is it?
+SPEAKER_02: No?
+SPEAKER_00: No.
+SPEAKER_03: It's okay?
+SPEAKER_01: Yeah, it's okay.
+SPEAKER_03: You know your job, you know your job.
+SPEAKER_03: I have an idea.
+SPEAKER_00: You know your job?
+SPEAKER_00: I have an idea of my job, too.
+SPEAKER_00: Okay.
+SPEAKER_00: Yeah, so...
+SPEAKER_01: Okay.
+SPEAKER_00: This is supposed to be...
+SPEAKER_01: This is supposed to be...
+SPEAKER_00: Nei, det blir mysja.
+SPEAKER_00: Det blir mysja.

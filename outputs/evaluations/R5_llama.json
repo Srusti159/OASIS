@@ -1,0 +1,65 @@
+{
+  "experiment": "R5",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:14:59.614080+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R5",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 8678,
+    "output_tokens": 587,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 17.564,
+    "latency_sec": 4.425,
+    "throughput_tokens_per_sec": 33.42,
+    "peak_vram_mb": 18938.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3853,
+        "recall": 0.6865,
+        "f1": 0.4936
+      },
+      "rouge2": {
+        "precision": 0.1562,
+        "recall": 0.2789,
+        "f1": 0.2003
+      },
+      "rougeL": {
+        "precision": 0.1849,
+        "recall": 0.3294,
+        "f1": 0.2368
+      }
+    },
+    "bertscore": {
+      "precision": 0.8324,
+      "recall": 0.8557,
+      "f1": 0.8439,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.7627,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0046,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0006,
+    "entailment_score": 0.0046
+  },
+  "judge_score": 8,
+  "generated_summary": "**Meeting Summary: Conceptual Design Meeting**\n\n**Date:** Not specified\n\n**Attendees:**\n\n* Ada Longman, Project Manager\n* David Jordan, Designer\n* Baba, Industrial Designer\n* Florent Monay, Marketing Expert\n* Other participants (names not specified)\n\n**Meeting Objectives:**\n\n* Present and discuss three remote control concepts: Google, Fancy, and Intelligent\n* Decide on the remote control concept\n* Discuss design and functionality of the remote control\n* Evaluate the product and make decisions on its development\n\n**Presentations:**\n\n1. **David Jordan's Presentation:** David presented three remote control concepts: Google, Fancy, and Intelligent. The Google controller is easy to use with sophisticated functions, the Fancy controller is attractive and easy to recognize, and the Intelligent controller uses speech recognition and gesture recognition technology.\n2. **Baba's Presentation:** Baba presented the design of the remote control, discussing the components, materials, and functionality. He suggested using solar energy and batteries, low-level chips, and wood for the design.\n3. **Florent Monay's Presentation:** Florent presented an analysis of the remote control market and fashion trends. He suggested that the remote control should have a fancy look and feel, be technologically innovative, and easy to use. He also mentioned that the current trend in fashion is inspired by fruits and vegetables.\n\n**Discussion:**\n\n* The participants discussed the pros and cons of each remote control concept, with some participants expressing concerns about the complexity and cost of the Intelligent controller.\n* The participants also discussed the design and functionality of the remote control, with suggestions for using solar energy, batteries, and low-level chips.\n* The participants evaluated the product and made decisions on its development, including the use of solar energy, batteries, and low-level chips.\n\n**Decisions:**\n\n* The participants decided to focus on the Google controller plus the Fancy controller, with a mix of the two concepts.\n* The participants decided to use solar energy and batteries for the remote control.\n* The participants decided to use low-level chips for the remote control.\n* The participants decided to use wood for the design of the remote control.\n* The participants decided to add simple vocal commands recognition to the remote control.\n* The participants decided to work on the look and feel design, with a focus on making the remote control easy to use, powerful, and fancy.\n* The participants decided to evaluate the product and make decisions on its development.\n\n**Next Steps:**\n\n* The participants will work on the look and feel design, with a focus on making the remote control easy to use, powerful, and fancy.\n* Baba will work on adding a spongy touch to the buttons.\n* David Jordan and Baba will work together on the prototype.\n* The participants will present a modeling clay remote control at the next meeting.\n* Specific instructions will be sent to the participants by their personal coach."
+}

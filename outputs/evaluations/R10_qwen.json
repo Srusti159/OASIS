@@ -1,0 +1,65 @@
+{
+  "experiment": "R10",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:31:19.829627+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R10",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 8075,
+    "output_tokens": 762,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 20.419,
+    "latency_sec": 3.5512,
+    "throughput_tokens_per_sec": 37.32,
+    "peak_vram_mb": 17540.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3444,
+        "recall": 0.5828,
+        "f1": 0.433
+      },
+      "rouge2": {
+        "precision": 0.0882,
+        "recall": 0.1495,
+        "f1": 0.111
+      },
+      "rougeL": {
+        "precision": 0.1546,
+        "recall": 0.2616,
+        "f1": 0.1943
+      }
+    },
+    "bertscore": {
+      "precision": 0.7998,
+      "recall": 0.8264,
+      "f1": 0.8129,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.1138,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0076,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0031,
+    "entailment_score": 0.0076
+  },
+  "judge_score": 6,
+  "generated_summary": "### Comprehensive Summary of the Meeting\n\n#### Agenda Overview\nThe meeting agenda included several key topics: opening remarks, prototype presentation, evaluation criteria, finance, and production evaluation. The meeting was scheduled to last 40 minutes.\n\n#### Detailed Design Meeting\n- **Presenter:** Krista Pavlov, Project Manager\n- **Topic:** Detailed Design of a Remote Control\n- **Key Points:**\n  - The remote control was designed to incorporate elements of fashion and technology, with a focus on strawberries as the primary design element.\n  - The remote control features include power ON/OFF, volume control, LCD controls, speech recognition, and location finding.\n  - The material used is a spongy titanium alloy, chosen for its modern and practical qualities.\n  - The design is intended to be simple and perfect, with customizable colors and shapes.\n\n#### Prototype Presentation\n- **Presenters:** Mark Twight and Rama Rao\n- **Key Features:**\n  - The prototype is functional and can be used immediately.\n  - It includes buttons for various functions, an LCD display, and a speech recognizer.\n  - The remote control is designed to be robust and durable, with a spongy texture.\n  - The prototype was tested and found to be functional despite losing one of the strawberry-shaped sensors.\n\n#### Evaluation Criteria\n- **Presenter:** Samuel Bengio, Marketing Expert\n- **Criteria:**\n  - **Fancy:** The prototype is considered very fancy, with a score of 5 or 6.\n  - **Technology-full:** The prototype includes advanced features like speech recognition and location finding, scoring 1.\n  - **Robust:** The prototype is robust, with a score of 3.\n  - **Useful:** The prototype is useful, with a score of 2.\n  - **Right size and weight:** The prototype is lightweight and compact, with a score of 3.\n  - **Right color and shape:** The prototype has a good color scheme and shape, with a score of 3.\n  - **Adaptive:** The prototype is adaptable, with a score of 1.\n\n- **Overall Score:** 2.17 out of 7, indicating a positive but moderate evaluation.\n\n#### Financial Evaluation\n- **Budget:** The total cost of the prototype was calculated to be €17.80, which exceeded the budget of €12.50.\n- **Cost Reduction Measures:**\n  - The team decided to use a hand dynamo to eliminate the need for batteries, reducing the cost.\n  - The LCD and speaker were identified as the most expensive components and were considered for removal or replacement.\n- **Final Cost:** After adjustments, the cost was reduced to €12.30, staying within the budget.\n\n#### Project Evaluation\n- **Team Performance:**\n  - The team was evaluated positively in terms of creativity, leadership, and teamwork.\n  - The use of tools like whiteboards and digital pens was noted as beneficial.\n  - New ideas were identified, including speech recognition, location finding, and new materials.\n- **Conclusion:** The project was deemed successful, and a celebration was planned.\n\n#### Conclusion\n- **Next Steps:**\n  - The team agreed to hold a party to celebrate their success.\n  - Further development of the remote control, including additional features and materials, was discussed.\n  - The team expressed satisfaction with their progress and commitment to future projects.\n\n### Additional Notes\n- The meeting concluded on time, emphasizing the importance of adhering to schedule.\n- The team demonstrated a collaborative and innovative approach to problem-solving, focusing on both aesthetics and functionality.\n- The prototype received mixed reviews, with a focus on enhancing its robustness and usability while maintaining its fancy and technological features."
+}

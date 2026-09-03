@@ -1,0 +1,65 @@
+{
+  "experiment": "R10",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:30:55.492018+00:00",
+  "model": {
+    "name": "mistral",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R10",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 9032,
+    "output_tokens": 267,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 8.2597,
+    "latency_sec": 3.4479,
+    "throughput_tokens_per_sec": 32.33,
+    "peak_vram_mb": 17554.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.6492,
+        "recall": 0.4106,
+        "f1": 0.503
+      },
+      "rouge2": {
+        "precision": 0.1474,
+        "recall": 0.093,
+        "f1": 0.1141
+      },
+      "rougeL": {
+        "precision": 0.2932,
+        "recall": 0.1854,
+        "f1": 0.2272
+      }
+    },
+    "bertscore": {
+      "precision": 0.8706,
+      "recall": 0.8479,
+      "f1": 0.8591,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.4453,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0006,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0002,
+    "entailment_score": 0.0006
+  },
+  "judge_score": 6,
+  "generated_summary": "The meeting was a Detailed Design meeting, presented by Krista Pavlov, Project Manager. The main focus of the meeting was the presentation and evaluation of a prototype remote control. The prototype was described as having a strawberry design, made from an ultimate fruit-smelling spongy titanium alloy, and featuring functions such as power ON/OFF, volume control, LCD controls, speech recognizer, location, and a strawberry sensor.\n\nThe evaluation criteria for the prototype included factors such as fanciness, technology-fullness, robustness, usefulness, right size and weight, right color and shape, and adaptability. The team used a quantitative scale of 1 (strong yes) to 7 (strong no) for each criterion, and then averaged the scores to determine the overall evaluation of the prototype.\n\nThe financial aspect of the project was also discussed, with the team calculating the production costs and determining if they were under 12.50 euro. If the costs were not within the budget, the project would need to be redesigned.\n\nThe meeting concluded with a discussion of the project process, team satisfaction, and new ideas found during the project. The team also planned to celebrate the completion of the project."
+}

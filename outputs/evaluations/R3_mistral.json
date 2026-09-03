@@ -1,0 +1,65 @@
+{
+  "experiment": "R3",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:08:45.496385+00:00",
+  "model": {
+    "name": "mistral",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R3",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 7169,
+    "output_tokens": 456,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 13.4606,
+    "latency_sec": 3.4847,
+    "throughput_tokens_per_sec": 33.88,
+    "peak_vram_mb": 17028.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.4867,
+        "recall": 0.5737,
+        "f1": 0.5266
+      },
+      "rouge2": {
+        "precision": 0.1867,
+        "recall": 0.2201,
+        "f1": 0.202
+      },
+      "rougeL": {
+        "precision": 0.2367,
+        "recall": 0.279,
+        "f1": 0.2561
+      }
+    },
+    "bertscore": {
+      "precision": 0.8474,
+      "recall": 0.8557,
+      "f1": 0.8515,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.3825,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0086,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.003,
+    "entailment_score": 0.0086
+  },
+  "judge_score": 6,
+  "generated_summary": "The meeting was a concept design meeting where three presentations were given: one by an industrial designer, one by a user interface designer, and one by a market expert.\n\nThe industrial designer presented their findings, which included the use of a standard TA11835 element for remote control coding, off-the-shelf PCP buttons, and a standard wheel sensor (although the wheel sensor was found to be quite expensive). The designer also suggested replacing the channel up/down buttons with a wheel and removing the plastic opening for the channel numbers, as it is unnecessary and prone to breakage.\n\nThe user interface designer presented their concept, which aimed for a simple, robust design that fits comfortably and non-intrusively in a remote control. They suggested using a spongy material for the remote control and designing something similar to the two presented designs, but without the extra buttons. They also proposed replacing the channel up/down buttons with a wheel and suggested that the wheel could be pushed down for channel recall.\n\nThe market expert presented trends in the remote control market, which showed that a fancy look-and-feel is twice as important as the current functional look-and-feel, followed by technological innovation and ease of use. They also mentioned that this year, fruit and vegetables will be the most important theme for clothes, shoes, and furniture, and that the feel of the material is expected to be spongy.\n\nThe team discussed the findings and trends and decided to choose a fruit or a vegetable to design the remote control and to find a material that can make the remote control spongy. They also decided to have a simple interface with a wheel for changing channels and a button for volume and changing the television. They also discussed the possibility of having a continuous light on the remote control and the potential battery consumption that would come with it.\n\nThe team agreed to work on the look-and-feel design, the user interface design, and the evaluation of the product before the next meeting. They also decided to have the industrial designer and the user interface designer work together on the prototype using modeling clay. Specific instructions will be sent to them by their personal coach."
+}

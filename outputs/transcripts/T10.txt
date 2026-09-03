@@ -1,0 +1,414 @@
+SPEAKER_00: It's the detail design meeting, so we're going last meeting.
+SPEAKER_00: First, Marc and Rama are going to present the prototype, then Samuel will propose some criteria to evaluate this prototype.
+SPEAKER_00: Then we're going to do some findings to see if it is feasible.
+SPEAKER_00: And at the end we will evaluate ourselves as a team.
+SPEAKER_00: And that's all.
+SPEAKER_00: So first let's see the prototype.
+SPEAKER_02: Here we have our prototype model.
+SPEAKER_02: Okay, and you have some slides.
+SPEAKER_02: Yes, some slides.
+SPEAKER_00: So, in which...
+SPEAKER_01: In participant 3 prototype.
+SPEAKER_00: Okay.
+SPEAKER_01: So, this is our...
+SPEAKER_01: Remote control.
+SPEAKER_01: It's a working prototype.
+SPEAKER_01: You can use it now by switching all these buttons.
+SPEAKER_01: So first I present as we came to this perfect model.
+SPEAKER_01: And then we'll give some technical specifications.
+SPEAKER_01: Well, so let's start.
+SPEAKER_01: Please, next slide.
+SPEAKER_01: we analyzed all the fruits and contacted NASA and made some real good yeah if you can see this and the stars are showing that we're doing right and society will accept it for sure
+SPEAKER_01: And making some analysis of different fruits, we choose the ultimate form, ultimate colors, and ultimate smell of it.
+SPEAKER_01: Please, next slide.
+SPEAKER_01: But we still didn't want to go far from our titanium idea, because it's the most of the modern, the ever modern material we can select.
+SPEAKER_01: And it's practical.
+SPEAKER_01: and it still sits for our needs so please press something and as i said please press it everyone is you know really really glad to obtain such a device so you can touch it with your own hands what do you say?
+SPEAKER_03: It says... You must say.
+SPEAKER_03: Spongy.
+SPEAKER_03: I'll buy it.
+SPEAKER_03: If I need to.
+SPEAKER_03: Hopefully my daughter will like it.
+SPEAKER_03: Okay.
+SPEAKER_01: And we got the answer.
+SPEAKER_01: Yes, of course.
+SPEAKER_01: Please, next slide.
+SPEAKER_01: This is the prototype.
+SPEAKER_01: You can have a look at it.
+SPEAKER_01: And
+SPEAKER_01: That's all I wanted to say.
+SPEAKER_01: Now it's technical specification by our colleague.
+SPEAKER_03: So, oh, there's a button missing.
+SPEAKER_03: This is really flexible.
+SPEAKER_02: So function.
+SPEAKER_02: So as we discussed, we are to switch on switch off whenever we want.
+SPEAKER_02: And so we have buttons and using LCD or like you can use this jock wheel and select which are option on the LCD and then do on and off.
+SPEAKER_02: then you will have volume control so you can press these buttons to increase or decrease your volume
+SPEAKER_02: And we have some LCD controls, like switching the LCD display if you want to use LCD or you don't want, you can just use normal button.
+SPEAKER_02: And we have speech recognizer.
+SPEAKER_02: Here you have microphone and then it records your voice and then try to recognize and it converts into the action.
+SPEAKER_02: and location finder and we want to do the location basically using speech recognizer you can just say where is my remote control or you can just give some nickname to your remote control and then you can use it
+SPEAKER_02: so our theme is now fruits mainly strawberry so you can have oh these are strawberries and then you can see the look lcd and all the switches colorful material we want to stick to titanium
+SPEAKER_02: And you want roots smelling spongy Titan, you know.
+SPEAKER_03: I didn't know it exists, but that's great.
+SPEAKER_02: Yeah, or...
+SPEAKER_02: So we want to have simple and perfect shapes, like I shown in this font.
+SPEAKER_02: You can have your own designs and you can fill simple designs.
+SPEAKER_02: And you can choose colors on your day for each day or even many colors.
+SPEAKER_02: You mean we can change the color?
+SPEAKER_00: That's for the CD or for the titanium?
+SPEAKER_02: For the LCD now keep on the LCD was titanium.
+SPEAKER_02: It's either is still working on titanium.
+SPEAKER_01: Okay LCD you can ask Bob Tuesday Even you can configure your colors for each day depending on your mood or Wait, what are the strawberries?
+SPEAKER_02: These are like sensors.
+SPEAKER_02: Of course.
+SPEAKER_02: What do you think?
+SPEAKER_02: Strawberry sensors.
+SPEAKER_02: Very useful.
+SPEAKER_02: so after this meeting we will propose a party for our success for launch meeting so if you are vegetarian or you have any options please let us know yeah and we can just eat some strawberry first
+SPEAKER_00: Any specific questions?
+SPEAKER_00: We'll see in the financial part if all that gets into it.
+SPEAKER_02: Let's make a party first.
+SPEAKER_02: Then we can discuss.
+SPEAKER_00: With the 50 millions, we first make a party.
+SPEAKER_02: Then we can have how much money is left.
+SPEAKER_00: What a design.
+SPEAKER_00: Okay.
+SPEAKER_00: So...
+SPEAKER_00: It's my turn.
+SPEAKER_00: Let's see if it meets the evaluation criteria.
+SPEAKER_03: Yeah, if you meet the evaluation criteria.
+SPEAKER_03: Food.
+SPEAKER_03: yeah so evaluation please so you made a very nice prototype and I think we now need all together to try to evaluate it to see if it makes sense to do it if it fulfills our what we wanted to and things like that so next slide please
+SPEAKER_03: As you know, before going and creating and producing these strawberry remote control, it's very important to first verify if it makes sense, if we have a chance to sell it.
+SPEAKER_03: So we need to evaluate it and try to do it in a quantitative way as much as we can.
+SPEAKER_03: So what I propose is that we are going to have this scale from 1 to 7.
+SPEAKER_03: 1 meaning that yes, it fulfills the criterion, whatever it is, and 7 meaning no, it doesn't fulfill at all.
+SPEAKER_03: and we're going to list all the criteria i'm going to go to that next slide and together try to evaluate this according to this criterion and from one to seven and then we're just going to have an average which will give us the value of our remote control so maybe we can have a look at the criteria
+SPEAKER_03: so these are the criterion I thought were important of course this can be discussed but let's let's see so let's suppose we have fancy here and we have this scale from 1 to 7 with 4 in the middle so
+SPEAKER_03: What do you think?
+SPEAKER_03: Is it fancy?
+SPEAKER_00: I think that fancy, we can say it is fancy.
+SPEAKER_03: It is very, very fancy or have you ever seen something like that?
+SPEAKER_00: I am not the only one.
+SPEAKER_03: Yeah, of course.
+SPEAKER_03: What do you think?
+SPEAKER_03: Feel the weight.
+SPEAKER_03: The wait is later.
+SPEAKER_03: Really?
+SPEAKER_03: We're on the fanciness now.
+SPEAKER_03: I think it's quite fancy.
+SPEAKER_03: Yeah, it can be at least 5 or 6.
+SPEAKER_03: No, it's 1.
+SPEAKER_03: 1 means it's very fancy and 7 means no.
+SPEAKER_03: So it's 1 or 2?
+SPEAKER_03: 2, maybe 2.
+SPEAKER_03: So here, 2.
+SPEAKER_03: Then we have technology.
+SPEAKER_03: So what about technology?
+SPEAKER_03: We have speech recognition, we have location based, we have LCD, change color, I mean that's very, I think it's a one for that, at least a one, yeah.
+SPEAKER_03: Robustness.
+SPEAKER_03: Still we need to check.
+SPEAKER_03: So let's suppose my daughter take it and throw it away.
+SPEAKER_03: Do you think it makes sense that it's going to live again?
+SPEAKER_03: Maybe not the prototype.
+SPEAKER_03: Let's try.
+SPEAKER_03: Oh my god.
+SPEAKER_03: We just lost one strawberry.
+SPEAKER_03: No!
+SPEAKER_01: No, how can I say this?
+SPEAKER_01: It's still working?
+SPEAKER_01: And your daughter got a bonus?
+SPEAKER_01: A strawberry.
+SPEAKER_03: So it's not so bad.
+SPEAKER_03: I would say three.
+SPEAKER_03: Yeah, it does make sense.
+SPEAKER_03: Robust, yeah.
+SPEAKER_03: useful useful well so the question is does it have the minimum requirement of a remote control yeah so i don't know these buttons are not clear but you have at least uh yeah next what is this this is volume control and channel changes it depends on the main and you can do two sides
+SPEAKER_01: yeah yeah and you can do on lcd using these okay scrolling all the options so for instance because the lcd is not the touch control touch screen you cannot go to channel 25. you can by using the directly you go so the basic push here that yeah so it's simple the basic mode is you got just two buttons yeah and the jog dial with two buttons you do this like roll them up roll them down
+SPEAKER_01: Or if you go to the side, it's channel up, channel down.
+SPEAKER_01: And if you want to make to 25, you push on this, you select 20, you select 5.
+SPEAKER_03: That's it.
+SPEAKER_03: It's much longer than tapping to 5, no?
+SPEAKER_03: Don't you think so?
+SPEAKER_03: OK, we can go.
+SPEAKER_03: You're right.
+SPEAKER_03: You need to press 2 and 5.
+SPEAKER_03: But it's nice because people anyway don't go there.
+SPEAKER_00: so what do you think for it useful that seems to be useful yeah we need to address we want we only address two main functions here and the other functions will be on lcd so let me understand well because i'm not sure that's for this one are the two directional buttons yeah yeah yeah up down or left right yeah and which what is that
+SPEAKER_01: It's a job for controlling the cursor on the LCD screen, like selecting the menus.
+SPEAKER_02: Signal CD, like, you will have blocks and you select which one.
+SPEAKER_00: I would say that... No, it looks useful.
+SPEAKER_03: Two or three?
+SPEAKER_03: Two or three?
+SPEAKER_03: Two.
+SPEAKER_03: Two?
+SPEAKER_03: Okay.
+SPEAKER_03: So, size and weight.
+SPEAKER_02: Yeah.
+SPEAKER_03: Is it the effective size and weight?
+SPEAKER_03: Is it real size, real weight?
+SPEAKER_03: Size is going to be that.
+SPEAKER_02: The weight will be lighter.
+SPEAKER_01: Sure, without titanium alloy it's going to be light.
+SPEAKER_03: It's going to be lighter because this seems to be very heavy.
+SPEAKER_03: I mean for my daughter for instance.
+SPEAKER_03: I'm not sure if she can use it.
+SPEAKER_03: But the size should be okay.
+SPEAKER_03: It should be okay.
+SPEAKER_03: I'll put a 3 for that because I haven't seen the weight.
+SPEAKER_03: Color and shape.
+SPEAKER_03: well so color it seems that we have the several colors for the lcd yeah yeah it's not very clear what is the color of the dish the case the case is silver titanium it's going to be titanium okay okay that's nice i think it's good okay and what about the strawberries on the top i'm not convinced maybe i'm not trendy
+SPEAKER_03: Well, you know, it's this fruit and vegetable year.
+SPEAKER_00: Yeah, but they're not useful.
+SPEAKER_03: I think usefulness is, as I just have to remind you, usefulness is much less important than fanciness.
+SPEAKER_03: Whether it's fancy or not now, we have to decide.
+SPEAKER_00: I would have found more fancy that the fruits are useful.
+SPEAKER_03: So that maybe the fruit may be here instead.
+SPEAKER_02: Then it's a bit difficult to use.
+SPEAKER_02: We are just giving the fruits for more fanciness and more attraction.
+SPEAKER_02: Maybe I think we can have rubber or some spongy stuff for strawberries and different colors.
+SPEAKER_03: So it seems we are not so clear on the shape.
+SPEAKER_00: I'm not sure if it was like this.
+SPEAKER_02: But it looks really not really good.
+SPEAKER_02: It's not fancy anymore.
+SPEAKER_02: So these are kind of rubber things.
+SPEAKER_02: Even if you lose one, I can just put whatever.
+SPEAKER_02: Even we can provide many different colors.
+SPEAKER_01: Moreover, it covers all the angles.
+SPEAKER_01: Even if it is very rounded.
+SPEAKER_02: but still you got some rubber fruit here and it's completely completely secure to leave it with children okay so you you you feel like it's something a protection for the remote control yeah we've yeah we have sensors here and so here and here so also we just yeah so even if you don't put it works but this is really okay i suggested three
+SPEAKER_03: Because everybody doesn't seem to be convinced, although you have good arguments.
+SPEAKER_03: And the last one is adaptive.
+SPEAKER_03: This is maybe not as important as the other one.
+SPEAKER_03: But can we adapt it to each personal use?
+SPEAKER_01: Sure, sure, just look at it.
+SPEAKER_01: Great!
+SPEAKER_01: Fully adaptable.
+SPEAKER_01: Fully adaptable.
+SPEAKER_01: You can fit it into your palm.
+SPEAKER_03: So you can fit it into your palm, okay.
+SPEAKER_03: What else can we need?
+SPEAKER_00: Do you think you are going to be able to do that with titanium as well?
+SPEAKER_00: Yeah, it's fudge titanium.
+SPEAKER_00: It's fudge, yeah, yeah.
+SPEAKER_03: Fruit titanium.
+SPEAKER_03: If you're able to do that, then I think it deserves a 1.
+SPEAKER_03: Okay, let's go for 1.
+SPEAKER_03: Okay, now we have to do the average.
+SPEAKER_03: Who is good in math?
+SPEAKER_03: It's 2.17.
+SPEAKER_03: Okay.
+SPEAKER_03: 2.17.
+SPEAKER_03: That's nice.
+SPEAKER_03: 2.17 out of 7.
+SPEAKER_03: I think we have a good thing.
+SPEAKER_03: Well, that's all I had to say about the evaluation.
+SPEAKER_00: So it's a good evaluation?
+SPEAKER_03: It seems to be good, yeah.
+SPEAKER_03: 2.17.
+SPEAKER_02: Okay.
+SPEAKER_02: Thanks.
+SPEAKER_00: Okay, so now it has to fulfill the financial criteria.
+SPEAKER_00: So I have it here.
+SPEAKER_03: So how many batteries do we need?
+SPEAKER_03: One battery.
+SPEAKER_03: One battery?
+SPEAKER_00: Okay, so two.
+SPEAKER_03: Why two?
+SPEAKER_03: Oh, we just need one, I guess.
+SPEAKER_03: Say no.
+SPEAKER_03: No.
+SPEAKER_03: Never install.
+SPEAKER_03: Two batteries or one?
+SPEAKER_00: Oh.
+SPEAKER_03: no number is one we need only one yeah yeah but the price is two no no no sorry sorry sorry i'm sorry yeah you never use an excel no never what what's the limit it's 12 it's okay that i don't know because it's not my field 12 bucks 12 bucks 12 and a half i think so check that number also
+SPEAKER_02: okay electronics we have sample chip it's a simple chip simple chip okay one yeah four buttons okay okay and then we have and for the sample speaker sensor for speech recognition here one also one or two one yeah one okay so the case which one is it in the end
+SPEAKER_03: Yeah, I think we will go for a single curve.
+SPEAKER_03: It's flat.
+SPEAKER_03: It's flat.
+SPEAKER_03: Uncurved.
+SPEAKER_00: I thought you can curve it.
+SPEAKER_00: It's curvable.
+SPEAKER_00: It's curvable, but it's not curved.
+SPEAKER_03: Maybe there's a supplement for that or what.
+SPEAKER_03: It's only uncurved.
+SPEAKER_03: Okay, let's go.
+SPEAKER_03: I think the price is this one.
+SPEAKER_03: This one, okay.
+SPEAKER_03: Don't cheat.
+SPEAKER_03: We tried, we tried.
+SPEAKER_03: So, what is it?
+SPEAKER_03: Titanium?
+SPEAKER_03: That's expensive.
+SPEAKER_00: The first titanium I think is 5.
+SPEAKER_03: Let's stick to Titanium.
+SPEAKER_03: Special color?
+SPEAKER_03: No.
+SPEAKER_03: Why 3?
+SPEAKER_00: Oh, sorry, again.
+SPEAKER_00: Special color?
+SPEAKER_02: Or it's only on the... Yeah, in LCD display.
+SPEAKER_00: yeah but there is no color here so i put it here push button so the lcd how many push button three or two two two is there the scroll wheel okay yeah one lc display
+SPEAKER_03: and that's all that's not we choose this one and not this one oh i think no it's is it the scroll wheel and push button this is only a scroll wheel only scroll wheel okay
+SPEAKER_00: so because how do you do to select no but you select with the two the other two buttons i mean you go on the location with your scroll wheel and then then it automatically we can just do like if you stay longer yeah because yeah it's price is really okay okay um special colors yeah
+SPEAKER_02: For buttons?
+SPEAKER_02: Yeah, buttons and strawberries.
+SPEAKER_03: Special form.
+SPEAKER_00: You have all of these, no?
+SPEAKER_03: She's very hard on us.
+SPEAKER_03: Maybe not this one, but... No, special material.
+SPEAKER_03: But buttons are standard.
+SPEAKER_03: Yeah, buttons are standard buttons.
+SPEAKER_03: It's only buttons.
+SPEAKER_00: Yeah, so...
+SPEAKER_03: Nothing special.
+SPEAKER_03: Okay.
+SPEAKER_03: So we are at 17.8.
+SPEAKER_00: Not special colors, I understand.
+SPEAKER_03: No, the color is in the LCD.
+SPEAKER_00: And the buttons are not colorized?
+SPEAKER_02: I think you can just go for... We can just use this thread.
+SPEAKER_00: It's already too expensive.
+SPEAKER_03: So what is... Are we supposed to cut things out now?
+SPEAKER_03: Until we get 12?
+SPEAKER_03: 50?
+SPEAKER_00: So think of what we can cut here.
+SPEAKER_03: Well...
+SPEAKER_03: If I look at what is the most expensive thing, it's the LCD and the speaker.
+SPEAKER_00: Apparently we have to choose one or the other.
+SPEAKER_01: Well, as you may know, there is some research done in the field of producing electricity from mechanical energy.
+SPEAKER_01: So the point is that when you take the device and push the button, you produce enough energy
+SPEAKER_00: That you don't need a battery.
+SPEAKER_01: Yeah, that you don't need a battery.
+SPEAKER_01: So it's something like hand dynamo, but a real high-tech version of it.
+SPEAKER_00: But it's like the hand dynamo.
+SPEAKER_02: Maybe the jack can be like...
+SPEAKER_03: But if we select the hand dynamo, it's okay.
+SPEAKER_03: We win one.
+SPEAKER_03: That's already there.
+SPEAKER_03: Let's do that.
+SPEAKER_03: Let's do that.
+SPEAKER_01: One here, one here.
+SPEAKER_01: and I proposed to so about chips advanced chip on print right so put minus one there I'm not sure this is legal why not let's try
+SPEAKER_01: I don't know.
+SPEAKER_01: And?
+SPEAKER_00: Maybe minus 3, no?
+SPEAKER_00: No.
+SPEAKER_01: So what's the result?
+SPEAKER_01: Let's have a look.
+SPEAKER_02: It's not changing, no?
+SPEAKER_03: Yeah, click somewhere.
+SPEAKER_03: You'll see if it changes.
+SPEAKER_03: Oops!
+SPEAKER_03: Yes, it does.
+SPEAKER_03: Maybe put minus 2 so it looks more reasonable.
+SPEAKER_03: Yeah, why not?
+SPEAKER_03: Yeah, anyway.
+SPEAKER_03: Sorry.
+SPEAKER_03: Nobody will know.
+SPEAKER_03: It's not recorded, is it?
+SPEAKER_03: Good.
+SPEAKER_03: Okay, we're on time.
+SPEAKER_02: Good.
+SPEAKER_02: So now we can increase.
+SPEAKER_02: Still we have two more.
+SPEAKER_00: We can put a hand in a battery.
+SPEAKER_00: A battery, yeah.
+SPEAKER_00: Both, it's cool.
+SPEAKER_03: No, now we're exceeding.
+SPEAKER_03: Now it's fancy.
+SPEAKER_01: Let's add one instead of two.
+SPEAKER_03: I think we're exceeding now.
+SPEAKER_02: No, but 0.5, 0.3.
+SPEAKER_03: It's better.
+SPEAKER_03: I think the accounting is different.
+SPEAKER_03: It's maximum.
+SPEAKER_03: Yeah, maximum is maximum.
+SPEAKER_03: So remove one of them.
+SPEAKER_03: Okay.
+SPEAKER_03: Okay, we're on target.
+SPEAKER_00: Yeah.
+SPEAKER_00: Okay.
+SPEAKER_00: So target reached.
+SPEAKER_03: I'm just curious to see this.
+SPEAKER_00: It's an English trick.
+SPEAKER_03: I would say it's a Russian trick.
+SPEAKER_00: I'm not sure who was programming this calculator.
+SPEAKER_01: I wonder if we put A or B somewhere instead of a number.
+SPEAKER_01: Let's try.
+SPEAKER_01: No, no, no.
+SPEAKER_01: Let's finish this meeting instead.
+SPEAKER_02: We can discuss all these things in our party.
+SPEAKER_03: What else?
+SPEAKER_00: Okay, so next... No?
+SPEAKER_03: No, that's yours.
+SPEAKER_00: Sorry.
+SPEAKER_03: Okay.
+SPEAKER_03: Finance, that's done.
+SPEAKER_03: Are the costs under 12?
+SPEAKER_03: Yes.
+SPEAKER_03: Project evaluation.
+SPEAKER_03: Good.
+SPEAKER_03: Okay.
+SPEAKER_03: So now... Project process.
+SPEAKER_00: We have to make a... Self-assessment.
+SPEAKER_03: Yeah.
+SPEAKER_00: See how... Are we a good team?
+SPEAKER_03: Yeah, I think we've listened to everybody.
+SPEAKER_03: Everybody could say what they thought.
+SPEAKER_03: and is there enough room for creativity yeah when we see the results yeah no doubt maybe a lack of leadership teamwork very strong means whiteboard digital pens
+SPEAKER_01: He's still thinking what was good.
+SPEAKER_01: Everything.
+SPEAKER_03: Yeah, I think whiteboard is useful.
+SPEAKER_03: Digital pens useful.
+SPEAKER_03: New IDs found.
+SPEAKER_00: So you say leadership.
+SPEAKER_00: Leadership.
+SPEAKER_00: So luck but good team performance.
+SPEAKER_01: Good leader is somewhere in the shade.
+SPEAKER_01: That's true.
+SPEAKER_03: And there's one very important point.
+SPEAKER_03: We're on time.
+SPEAKER_03: Meetings finish when they have to or even before.
+SPEAKER_03: For me, it's one of the most important things.
+SPEAKER_03: Of course.
+SPEAKER_01: Not to waste time.
+SPEAKER_03: Yeah, we have other remote controls to create.
+SPEAKER_03: Okay.
+SPEAKER_02: We've got new ideas, speech recognition, location finding.
+SPEAKER_02: New materials.
+SPEAKER_02: Fancy strawberry design.
+SPEAKER_00: New ways of doing finance.
+SPEAKER_03: Just wondering if my... What about the pink...
+SPEAKER_03: The pinkness of that...
+SPEAKER_00: They're working on a pink titanium.
+SPEAKER_02: Okay, good.
+SPEAKER_02: I think we're great.
+SPEAKER_03: There's no other words for that.
+SPEAKER_03: We are probably the best.
+SPEAKER_03: Real reaction.
+SPEAKER_00: Yeah, we're really nice.
+SPEAKER_00: Okay.
+SPEAKER_00: Finished?
+SPEAKER_00: I think it's...
+SPEAKER_03: are the costs within the budget?
+SPEAKER_03: of course they are is the project evaluated?
+SPEAKER_01: yes we got two so you see we can even forecast
+SPEAKER_01: all that they propose us, like celebration, everything, we could forecast it, right?
+SPEAKER_01: To whom?
+SPEAKER_01: To the whole company?
+SPEAKER_03: I'm the one proposing the celebration.
+SPEAKER_03: You?
+SPEAKER_00: Of course, you know, I'm the program manager.
+SPEAKER_00: Okay.
+SPEAKER_03: So let's celebrate.
+SPEAKER_03: Where are we going now?
+SPEAKER_03: I think the meeting is over.
+SPEAKER_02: The meeting is over.
+SPEAKER_02: So we have to go out.
+SPEAKER_02: Okay.
+SPEAKER_00: And we go to the party.
+SPEAKER_03: Yeah, yeah.
+SPEAKER_02: Thank you.
+SPEAKER_00: Thank you.

@@ -1,0 +1,65 @@
+{
+  "experiment": "R3",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:09:13.844947+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R3",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 6431,
+    "output_tokens": 920,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 24.5093,
+    "latency_sec": 3.5692,
+    "throughput_tokens_per_sec": 37.54,
+    "peak_vram_mb": 16920.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3155,
+        "recall": 0.5925,
+        "f1": 0.4118
+      },
+      "rouge2": {
+        "precision": 0.097,
+        "recall": 0.1824,
+        "f1": 0.1266
+      },
+      "rougeL": {
+        "precision": 0.1503,
+        "recall": 0.2821,
+        "f1": 0.1961
+      }
+    },
+    "bertscore": {
+      "precision": 0.8239,
+      "recall": 0.8429,
+      "f1": 0.8333,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.2354,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0956,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0038,
+    "entailment_score": 0.0956
+  },
+  "judge_score": 8,
+  "generated_summary": "### Meeting Summary: Concept Design for Remote Control\n\n#### Overview\nThe meeting focused on the concept design for a new remote control, emphasizing simplicity, cost-effectiveness, and incorporating fashionable elements. The team discussed various aspects including component selection, user interface design, and market trends. Decisions were made on the design and functionality of the remote control, and tasks were assigned for the next phase of development.\n\n---\n\n#### Presentations\n\n1. **Industrial Designer (ID)**\n   - **Components Design**\n     - **Standard Chip**: Used a standard chip for remote control functions.\n     - **Wheel Sensor**: Considered using a wheel sensor but noted its high cost compared to push buttons.\n     - **Push Buttons**: Used off-the-shelf PCP buttons.\n     - **Case**: Discussed the need for a simple, non-intrusive design that fits comfortably in the hand.\n   - **Personal Preferences**\n     - Proposed using a wheel for changing channels and replacing the channel up/down buttons with a wheel that can be pushed down for channel recall.\n     - Suggested removing the plastic opening for channel numbers due to its potential for breakage and lack of necessity.\n\n2. **User Interface Designer (UID)**\n   - **Design Concept**\n     - Emphasized simplicity and ease of use.\n     - Suggested a design that is as simple as possible but not simpler, ensuring robustness.\n     - Proposed a design similar to existing models but with fewer buttons, using a wheel for channel changes and a push button for volume and power.\n     - Recommended against using a plastic cover for buttons, as it could be prone to breakage.\n\n3. **Marketing Expert (ME)**\n   - **Market Trends**\n     - **Fancy Look and Feel**: Market research indicated that the most important aspect for remote controls is a fancy look and feel, followed by technological innovation and ease of use.\n     - **Fashion Trends**: Detected trends such as fruit and vegetable themes for clothing, shoes, and furniture, suggesting the possibility of designing the remote control in the shape of a fruit or vegetable.\n     - **Material**: Suggested using a spongy material for robustness and ease of handling.\n\n---\n\n#### Discussion Points\n\n- **Component Selection**\n  - **Energy Source**: Standard battery.\n  - **Chip**: Standard chip for remote control functions.\n  - **Case**: Suggested a banana-shaped, spongy case for robustness and ease of handling.\n  \n- **User Interface**\n  - **Buttons and Wheel**: Decided to use a wheel for channel changes and keep a few essential buttons for volume and power.\n  - **Lighting**: Agreed to use backlighting for buttons to enhance visibility in low-light conditions.\n  - **Symmetry**: Ensured the design is symmetrical to accommodate both right-handed and left-handed users.\n\n- **Design Aesthetics**\n  - **Fruit/Vegetable Shape**: Proposed using a pear or banana shape for the remote control, considering both aesthetic appeal and practicality.\n  - **Material**: Suggested using a spongy material for the exterior to ensure durability and ease of handling.\n\n---\n\n#### Decisions\n\n- **Components**\n  - **Energy Source**: Standard battery.\n  - **Chip**: Standard chip for remote control functions.\n  - **Case**: Banana-shaped, spongy case for robustness and ease of handling.\n\n- **User Interface**\n  - **Buttons and Wheel**: Wheel for channel changes, essential buttons for volume and power.\n  - **Lighting**: Backlighting for buttons to enhance visibility.\n  - **Symmetry**: Symmetrical design to accommodate both right-handed and left-handed users.\n\n- **Prototype Development**\n  - **Tasks**: \n    - **ID**: Develop the look-and-feel design.\n    - **UID**: Develop the user interface design.\n    - **ME**: Conduct product evaluation.\n  - **Collaboration**: Industrial designer and user interface designer will work together using modeling clay to create a prototype.\n\n---\n\n#### Next Steps\n\n- **Individual Actions**\n  - **ID**: Develop the look-and-feel design.\n  - **UID**: Develop the user interface design.\n  - **ME**: Conduct product evaluation.\n- **Prototype Creation**: Industrial designer and user interface designer will collaborate to create a prototype using modeling clay.\n- **Instructions**: Specific instructions will be sent via email to each team member.\n\n---\n\nThis summary captures the key points discussed during the meeting, highlighting the decisions made and the tasks assigned for the next phase of the project."
+}

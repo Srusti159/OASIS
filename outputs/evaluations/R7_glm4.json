@@ -1,0 +1,65 @@
+{
+  "experiment": "R7",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:21:35.106966+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R7",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 12016,
+    "output_tokens": 1024,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 42.6255,
+    "latency_sec": 5.1766,
+    "throughput_tokens_per_sec": 24.02,
+    "peak_vram_mb": 21652.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rouge2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rougeL": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "bertscore": {
+      "precision": 0.6498,
+      "recall": 0.7017,
+      "f1": 0.6747,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -8.3579,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.984,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0025,
+    "entailment_score": 0.984
+  },
+  "judge_score": 2,
+  "generated_summary": "Evaluation\n\n### Slide 01\n\n### 01\n\n### 01\n\n### Slide 1\n\n### 01\n\n### 01\n\n### Evaluation\n\n---\n\n### 01\n\n### Evaluation\n\n---\n\n### Evaluation\n\n### Evaluation\n\n### 01\n\n### Evaluation\n\n### Evaluation\n\n---\n\n### Evaluation\n\n### Evaluation\n\n### 01\n\n---\n\n### 01\n\n---\n\n### Evaluation\n\n---\n\n### Slide 01\n\n---\n\n### Slide\n\n---\n\nEvaluation\n\n### Slide\n\n---\n\n### Slide\n\nEvaluation\n\nEvaluation\n\n### Slide\n\n---\n\n### Slide\n\nEvaluation\n\n### Slide\n\n### Slide\n\n### Slide\n\nEvaluation\n\nEvaluation\n\n### Slide\n\nEvaluation\n\n### Slide\n\n### Evaluation\n\n### Slide\n\n### Slide\n\nEvaluation\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\nEvaluation:\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n---\n\n### Slide\n\n---\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide\n\n### Slide"
+}

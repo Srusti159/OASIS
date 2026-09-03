@@ -1,0 +1,65 @@
+{
+  "experiment": "R7",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:22:37.166559+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R7",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 12612,
+    "output_tokens": 870,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 23.6585,
+    "latency_sec": 3.5834,
+    "throughput_tokens_per_sec": 36.77,
+    "peak_vram_mb": 18262.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3248,
+        "recall": 0.5604,
+        "f1": 0.4113
+      },
+      "rouge2": {
+        "precision": 0.1021,
+        "recall": 0.1763,
+        "f1": 0.1293
+      },
+      "rougeL": {
+        "precision": 0.1306,
+        "recall": 0.2253,
+        "f1": 0.1653
+      }
+    },
+    "bertscore": {
+      "precision": 0.8205,
+      "recall": 0.8268,
+      "f1": 0.8237,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.896,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0348,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0008,
+    "entailment_score": 0.0348
+  },
+  "judge_score": 6,
+  "generated_summary": "### Comprehensive Summary of the Meeting\n\n#### Agenda Overview\nThe meeting focused on the detailed design of a new remote control, specifically a \"Mando Banana.\" The agenda included reviewing the minutes of the previous meeting, presenting the prototype, discussing evaluation criteria, evaluating the financial aspects, and making final decisions on the product's feasibility.\n\n#### Detailed Design Presentation\n- **Prototype Presentation**: \n  - The remote control was designed to resemble a banana, complete with a banana-shaped base station that serves as a charging dock and antenna. The remote itself was ergonomically designed with two scroll wheels for channel and volume control, a turbo button, and a teletext button.\n  - The remote could be activated by pressing the turbo button, and the teletext button allowed navigation through teletext pages using the scroll wheels.\n  - The base station featured leaves that acted as antennas, enhancing signal reception.\n  - Power sources included solar cells and rechargeable batteries, with the base station connected to a power outlet for charging.\n\n- **Design Materials and Features**:\n  - The remote was made of elastic plastic, colored yellow to match the banana theme.\n  - The base station included a button for calling the remote and was designed to be lightweight, similar to a banana.\n  - The remote was equipped with a regular chip for control, and the cost was a critical factor in the design.\n\n#### Evaluation Criteria\n- **Criteria**:\n  - The device was evaluated based on its fancy appearance, handy design, functionality, cool features, ease of use, and whether it would be worth buying for 25 euros.\n  - Users rated the device on a scale from 0 to 7, with 7 indicating strong agreement.\n\n- **User Feedback**:\n  - **Fancy**: Users generally agreed that the device was fancy, with ratings ranging from 6 to 7.\n  - **Handy**: The device was considered handy, with ratings from 6 to 7.\n  - **Functional**: Ratings varied, with some users giving it a 4, while others gave it a 6.\n  - **Cool Features**: The locator feature and scroll buttons were considered cool, with ratings from 5 to 7.\n  - **Ease of Use**: The device was deemed easy to use, with most users giving it a 7.\n  - **Price**: Opinions were mixed, with some users rating it as 2 or 5, while others gave it a 6.\n  - **Would Change Remote**: Users were asked if they would change their existing remote for the Mando Banana, with ratings ranging from 2 to 3.\n\n#### Financial Evaluation\n- **Cost Calculation**:\n  - An Excel sheet was prepared to calculate the production costs, aiming to keep the cost under 12.50 euros.\n  - Components included batteries, electronics, and the banana-shaped remote.\n  - The team aimed to reduce costs by using plastic instead of rubber and simplifying the circuit board.\n\n- **Budget Analysis**:\n  - The total cost was estimated to be around 11 euros, with an additional 90 cents for the base station.\n  - The team decided to invest the extra profit in research and development.\n\n#### Project Evaluation\n- **Process Evaluation**:\n  - The team discussed the project process, noting that they had used a whiteboard and digital pens for brainstorming.\n  - Suggestions were made to conduct a focus group with the target audience to gather more feedback.\n\n- **New Ideas**:\n  - The team proposed expanding the remote's functionality to control other devices, such as DVD players and mood lighting, in future versions.\n\n#### Conclusion\n- The team concluded that the Mando Banana was a viable product, with a feasible design and cost structure.\n- They recommended producing a real prototype for further evaluation and testing.\n- The meeting ended on a positive note, with the team expressing satisfaction with the progress made.\n\n### Key Takeaways\n- The Mando Banana remote control was well-received in terms of its design and features.\n- Cost optimization was crucial, and the team successfully kept the production cost under the target of 12.50 euros.\n- Future iterations should focus on expanding the remote's functionality and conducting user testing to refine the product."
+}

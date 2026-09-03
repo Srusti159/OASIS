@@ -1,0 +1,65 @@
+{
+  "experiment": "R6",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:17:30.073334+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R6",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 5414,
+    "output_tokens": 502,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 21.0863,
+    "latency_sec": 5.1829,
+    "throughput_tokens_per_sec": 23.81,
+    "peak_vram_mb": 20170.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.2337,
+        "recall": 0.7209,
+        "f1": 0.3529
+      },
+      "rouge2": {
+        "precision": 0.1083,
+        "recall": 0.3359,
+        "f1": 0.1638
+      },
+      "rougeL": {
+        "precision": 0.1658,
+        "recall": 0.5116,
+        "f1": 0.2505
+      }
+    },
+    "bertscore": {
+      "precision": 0.8129,
+      "recall": 0.8679,
+      "f1": 0.8395,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.6685,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0036,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0003,
+    "entailment_score": 0.0036
+  },
+  "judge_score": 6,
+  "generated_summary": "### Meeting Summary: Project Kick-off for New Remote Control Design\n\n**Date:** 13th December 2004\n\n**Time:** 10:24 AM\n\n**Location:** [Not specified in transcript]\n\n**Attendees:**\n- Laura (Project Manager)\n- David (Industrial Designer)\n- Andrew (Marketing Manager)\n- Greg (User Interface Designer)\n\n**Meeting Objective:**\nTo initiate the project for designing a new remote control. The meeting aimed to discuss the project scope, roles, and initial ideas for the remote control design.\n\n**Meeting Highlights:**\n\n- **Project Overview:** Laura provided an overview of the project, emphasizing the need for a user-friendly, trendy, and original remote control design.\n\n- **Project Methodology:** Laura outlined the project methodology, which includes three stages: functional design, conceptual design, and detailed design. Each stage involves individual work followed by a meeting to discuss progress and ideas.\n\n- **Project Finance:** Laura discussed the project finance, explaining that the remote control will be sold for €25, aiming to make €50 million. The project budget is capped at €1250, which represents 50% of the selling price.\n\n- **Design Ideas and Discussion:** The team engaged in a lively discussion about various aspects of the remote control design. Ideas were shared regarding the remote control's functionality, user interface design, and potential features that could set the remote control apart from existing products.\n\n- **Next Steps and Follow-up:** Laura concluded the meeting by summarizing the key points discussed and outlining the next steps for the project. The team was tasked with focusing on their respective areas of responsibility: the industrial designer will work on the working design of the remote control, while the user interface designer will focus on the technical functions and user interface design of the remote control. The marketing executive will be responsible for identifying the requirements that the remote control must fulfill in order to meet the needs of its target market. Instructions and guidelines for the team's work will be sent via email to each team member by their respective personal coaches.\n\n**Meeting Conclusion:**\nThe project kick-off meeting for the new remote control design project was successfully concluded. The team was provided with a clear understanding of the project's objectives, methodology, and financial aspects. The team was also tasked with their respective areas of responsibility and provided with instructions and guidelines for their work. The team is now ready to move forward with the project and work towards achieving the project's objectives and delivering a successful new remote control design."
+}

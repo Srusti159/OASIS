@@ -1,0 +1,323 @@
+SPEAKER_03: So, put on your mic.
+SPEAKER_03: So, you forgot how this works again.
+SPEAKER_02: Boss.
+SPEAKER_03: Demi-boss.
+SPEAKER_01: Maybe, maybe, maybe, maybe.
+SPEAKER_00: Okay, so we're here to talk about the detailed design of the product.
+SPEAKER_00: Okay?
+SPEAKER_03: Yep.
+SPEAKER_00: And here's the agenda for this meeting.
+SPEAKER_00: I'm just going to open, say a few boring words to start with again, and start taking minutes afterwards.
+SPEAKER_00: You guys are going to give us a presentation of our wonder product that I can see some demonstrations of over there.
+SPEAKER_00: Looks cool.
+SPEAKER_00: And then we're going to evaluate it.
+SPEAKER_00: Then we're going to talk about finance, and I've got a lovely Excel spreadsheet that I knocked up in the last five minutes for this.
+SPEAKER_00: You knocked it up?
+SPEAKER_00: Yep.
+SPEAKER_00: And we're going to evaluate the product and close.
+SPEAKER_00: We've got 40 minutes to do this in.
+SPEAKER_00: We should be fine.
+SPEAKER_00: Let's try and keep this one on schedule.
+SPEAKER_00: All right.
+SPEAKER_00: So your thing is in... Where is it?
+SPEAKER_00: Third.
+SPEAKER_03: The end product thingy.
+SPEAKER_03: Yeah.
+SPEAKER_00: Who wants it?
+SPEAKER_03: Pedro can have it.
+SPEAKER_03: Yeah, so what we ended up with.
+SPEAKER_03: Production cost estimated by our manufacturing department and the research department, which is us, is 15.8 euros.
+SPEAKER_03: Unit price.
+SPEAKER_03: Unit production cost.
+SPEAKER_03: We implemented the basic functions, which is just TV functions plus the locator, which was one of the marketing things.
+SPEAKER_03: Cradle scroll wheel for the channels.
+SPEAKER_03: And we implemented the way of putting the new and revolutionary zapping your favorite channels functionality in the scroll.
+SPEAKER_03: Zapping your favorite channels, eh?
+SPEAKER_00: Yeah.
+SPEAKER_02: Scrolling through your favorites list.
+SPEAKER_03: Okay, okay.
+SPEAKER_03: Zapping, you know, zapping.
+SPEAKER_00: Okay, okay, that's favorites.
+SPEAKER_03: Maybe this is a Portuguese thing.
+SPEAKER_00: And, yeah, that was the result.
+SPEAKER_00: Okay.
+SPEAKER_00: I like the logo on there as well.
+SPEAKER_02: It's very prominent.
+SPEAKER_00: It's very prominent.
+SPEAKER_02: So here, I'll give you the...
+SPEAKER_02: So this is the cradle unit, and this is the actual remote itself.
+SPEAKER_02: So the scroll bar is... Or the scroll wheel is this green little scrolly guy here.
+SPEAKER_02: And then the volume controls are here and here.
+SPEAKER_02: You've got the keypad, which is the numbers from 0 to 9, and then 10.
+SPEAKER_02: This is the power button.
+SPEAKER_02: We have our...
+SPEAKER_02: We have the enter button and what is the other button here?
+SPEAKER_03: This is the teletext.
+SPEAKER_03: The program button.
+SPEAKER_02: So this button will be used both for the favorites and for programming the type of television you want to use.
+SPEAKER_02: So the plastic is the white area of the model here, and the red area is like a rubber covering.
+SPEAKER_02: So you can see that when it lays like this or like this, and the buttons are all going to be rubber, so it's pretty hard to actually damage it.
+SPEAKER_00: Could that be easy for the scroll wheel to be rotated if it lands on it?
+SPEAKER_02: Yeah, that might be a possible problem.
+SPEAKER_02: Not helping!
+SPEAKER_00: I guess it depends on the stiffness a little bit.
+SPEAKER_02: Yeah, and it depends on if it's sliding.
+SPEAKER_02: But I think it's pretty ergonomic, you can feel it.
+SPEAKER_00: Feels good.
+SPEAKER_00: I take it that this is going to be slightly lighter in the final design as well.
+SPEAKER_00: Yeah, of course.
+SPEAKER_02: Well, this is clay.
+SPEAKER_00: Yeah, it's going to be cool.
+SPEAKER_00: You have to reach a little bit.
+SPEAKER_02: Yeah, the power button is a bit of a reach, but I think we might scale down the final model a bit.
+SPEAKER_00: Ah, yeah, that would make sense.
+SPEAKER_02: This is a bit larger than it would be.
+SPEAKER_03: That's cool.
+SPEAKER_00: I'm impressed.
+SPEAKER_03: Don't have no one to hold on.
+SPEAKER_00: What's the marketing perspective?
+SPEAKER_01: Oh, I like it.
+SPEAKER_01: I mean, you guys gave me more than I was asking for, so I'm happy because we've got some really marketable features in this.
+SPEAKER_01: Yeah, I think it's a good job.
+SPEAKER_02: Pedro can demonstrate the paging ability.
+SPEAKER_03: You have the base station with the little button for the, where's my remote?
+SPEAKER_03: Beep, beep, beep.
+SPEAKER_01: Oh, blah.
+SPEAKER_03: located a function that's great that's good um so let me get it if i press this button
+SPEAKER_01: He's set up.
+SPEAKER_01: So you can take this home with you tonight, and you can push that, and he'll be across town.
+SPEAKER_00: Beep, beep, beep.
+SPEAKER_00: I find that.
+SPEAKER_00: No, no, no.
+SPEAKER_00: So the two blue are those for it to charge off of.
+SPEAKER_00: Exactly.
+SPEAKER_02: That's exactly what those are for.
+SPEAKER_02: And there's one other feature that we were debating, but we decided to go against it, is you could beep, beep, beep.
+SPEAKER_02: Beep, beep, beep.
+SPEAKER_02: We were thinking that it might be interesting to have a trigger button here because you have this finger.
+SPEAKER_02: It kind of feels like there should be something there, but we couldn't figure out what button is important enough to put there.
+SPEAKER_02: And we don't want to accidentally be hitting the power button like that.
+SPEAKER_00: But maybe if you had a trigger plus the scroll, then that would get past the problem of it landing and scrolling because then it would need to be hit in both sides.
+SPEAKER_02: So maybe in the final design phase we might tweak that a little bit.
+SPEAKER_00: But it's definitely got options for different types of models and things as well based on that, hasn't it?
+SPEAKER_01: Yep, I like.
+SPEAKER_00: Good job.
+SPEAKER_00: So is that the final color scheme as well?
+SPEAKER_02: Oh no, this is just what we had to work with at the time.
+SPEAKER_00: Okay.
+SPEAKER_02: So we'll leave the color scheme up to the marketing people.
+SPEAKER_00: Careful.
+SPEAKER_00: It came off.
+SPEAKER_00: The scroll wheels isn't the problem with them not being...
+SPEAKER_00: I don't think he's the face guy who wants to touch it.
+SPEAKER_01: My suggestion is we're going to go to the silvers and blacks like most of the televisions.
+SPEAKER_01: You know, some blend of silvers and blacks.
+SPEAKER_UNKNOWN: Beep, beep, beep.
+SPEAKER_00: Okay, enough of that.
+SPEAKER_00: It's cool, guys.
+SPEAKER_00: Okay, so are we done with this presentation?
+SPEAKER_02: Yeah.
+SPEAKER_02: Okay.
+SPEAKER_01: So you're not going to find my folder up there.
+SPEAKER_01: I've got to do mine up at the board.
+SPEAKER_00: Have you?
+SPEAKER_00: Okay.
+SPEAKER_01: Yeah.
+SPEAKER_01: So.
+SPEAKER_00: Can I not get stuff from your shared folder now?
+SPEAKER_01: No, it's not in there because I had the computer problem and I couldn't create it.
+SPEAKER_01: I couldn't create it in the PowerPoint.
+SPEAKER_01: And I think I've got this really strange cable.
+SPEAKER_01: So what I had, basically going from the PowerPoint format, is that, yeah, yeah, I like this a lot.
+SPEAKER_01: Is this one of the tests is to see how we can adapt to changing situations in the meeting rooms?
+SPEAKER_01: So what we had is we had the method.
+SPEAKER_01: That's not how you spell method, is it?
+SPEAKER_02: No A.
+SPEAKER_01: No A.
+SPEAKER_01: Come here, you.
+SPEAKER_01: So this doesn't go so fast this way.
+SPEAKER_01: And when I speak about method, I speak about the marketing of the product, huh?
+SPEAKER_01: and uh... to me with this product we get uh... basically three things to market we've got the features we have the uh... characteristics and we have uh... i don't know what we call the other part would be called you know the the
+SPEAKER_01: corporate.
+SPEAKER_01: Help me.
+SPEAKER_01: The corporation stands behind the product, okay?
+SPEAKER_01: So, the features, I think, we got the scroll, we've got the locator, we've got the durability, we've got the dependability, we've got, you know, the features that make this a unique product.
+SPEAKER_01: The characteristics I talk about, we have reliability, we have comfort, we have ergonomics, we have environmentally sensitive
+SPEAKER_01: uh... and the corporation we're talking about where it were a new were a new company we're wanting to make a name for ourselves we're wanting you to uh... finder product so we're going to give you a good product at a fair price one thing i would want to to see is uh...
+SPEAKER_01: is can we get a lifetime guarantee on this product, a normal use guarantee, which means that this product for the life use, if it should have a technical problem, that we could replace it at no cost.
+SPEAKER_01: That was something I would be interested in.
+SPEAKER_01: So, yeah, without going into great details, we have a product that has the features and the characteristics in the background, I believe, to make it marketable.
+SPEAKER_01: I believe at a cost of 35 to 50 euros, we're going to be competitive and we're going to have a market niche.
+SPEAKER_00: Would you argue that we're better going for the higher cost than bringing it down to 25 as we probably could but lowering the profit margin?
+SPEAKER_01: That would be, I think, a decision best made by corporate.
+SPEAKER_01: From my evaluation, based on what our competition is, I think that we can go after this and go after more of the exclusivity sense than the mass market sense.
+SPEAKER_01: Okay.
+SPEAKER_01: But I'm sure open to market this in either direction.
+SPEAKER_01: But you guys came up with a great product.
+SPEAKER_01: And at that cost, I think it...
+SPEAKER_01: There's nobody else that's putting this combination of ingredients together.
+SPEAKER_01: The only limitations I see to this is that we're focused on television only.
+SPEAKER_01: That's the only drawback I see to this.
+SPEAKER_01: But with all of these other features, I think people...
+SPEAKER_01: One thing I'm hoping for is people are not going to even notice.
+SPEAKER_01: There's going to be somebody going home and say, oh, this thing doesn't work for my DVD, but I like these other things, so they keep it.
+SPEAKER_01: They don't take it back.
+SPEAKER_00: And they're actually quite open to be able to expand the product for a later version with those features.
+SPEAKER_00: Quite simple anyway, aren't they?
+SPEAKER_00: There's no fundamentally different thing.
+SPEAKER_01: Well, one of the thoughts that I had is, can this unit be produced in a way that makes it upgradable?
+SPEAKER_01: You know, like a SIM card in a telephone.
+SPEAKER_01: You know, is there a card?
+SPEAKER_01: Can we make a card?
+SPEAKER_03: And so after... We need some more buttons if it were to work on some other stuff.
+SPEAKER_03: But you follow what I'm... Yeah, we could get another version of it that actually works.
+SPEAKER_01: Because if we can make this unit upgradable, then we're...
+SPEAKER_01: But then we talk about changing the warranty concept and everything.
+SPEAKER_01: But that was just an idea I had.
+SPEAKER_01: To me, the only additions...
+SPEAKER_00: The risk of making it unusable as well or making it less... Because at the moment, it's actually very straightforward to look at all the buttons.
+SPEAKER_00: You know what they do.
+SPEAKER_00: It's very simple and it just works.
+SPEAKER_00: There's a risk of that.
+SPEAKER_01: Anyway, that's...
+SPEAKER_00: Okay, so we can talk about finance now.
+SPEAKER_00: So I have a little spreadsheet for us.
+SPEAKER_00: I was wondering, when you talked about the 15.8 euros, I was wondering how you came up with that figure.
+SPEAKER_02: Well, that was just our technical team added up the production cost of the individual units.
+SPEAKER_00: Okay, so I have a bit of a spreadsheet here for this.
+SPEAKER_00: Oh!
+SPEAKER_00: I've made a few assumptions here in that I'm assuming that our power adapter we can make for a cost of four euros equivalent to solar cells, which...
+SPEAKER_00: I think it's probably fair considering that we have in-house manufacturing of power adapters already.
+SPEAKER_00: Uh-huh.
+SPEAKER_00: And I'm assuming that the locator beacon, you know, the... Yeah.
+SPEAKER_00: It can be made for...
+SPEAKER_00: It sounded different that time.
+SPEAKER_00: It can be made for a similar price to an LC display.
+SPEAKER_00: Do you think that's fair coming from the manufacturing side?
+SPEAKER_02: Yeah, I do think that we don't need the advanced chip on print.
+SPEAKER_02: We only need the regular chip on print.
+SPEAKER_02: So there may have been a miscalculation there.
+SPEAKER_00: Okay.
+SPEAKER_00: So we're down to 16.4.
+SPEAKER_02: And we have a single curved.
+SPEAKER_00: Is that a single curved rather than a double curved?
+SPEAKER_00: I think that...
+SPEAKER_00: We're not entirely sure of what's single-curved.
+SPEAKER_01: We've got a curve and a droop, I don't know whether that...
+SPEAKER_02: It's single-curved.
+SPEAKER_00: You think?
+SPEAKER_00: Okay.
+SPEAKER_00: I'm not convinced.
+SPEAKER_00: We save one euro that way, yeah?
+SPEAKER_00: So we come, bring it down to...
+SPEAKER_02: See, it's a little bit more than single curve.
+SPEAKER_02: So, yeah, it's 15.8.
+SPEAKER_02: That's where we came up with it.
+SPEAKER_00: Well, hang on.
+SPEAKER_00: Don't speak so...
+SPEAKER_00: It's in here.
+SPEAKER_00: Do we have any... We have special form, don't we?
+SPEAKER_02: Yeah, we do.
+SPEAKER_02: So that's... Yeah.
+SPEAKER_02: Ah!
+SPEAKER_02: What do you know?
+SPEAKER_00: We haven't talked about any special color, though.
+SPEAKER_00: If we're going for grays and silvers, then I don't think we're... That's not very special.
+SPEAKER_02: It's pretty...
+SPEAKER_00: Okay, so we're... Push button, scroll wheel, we're basically, we have... Is this intended to be a button as well, or just a scroll?
+SPEAKER_00: It's a scroll.
+SPEAKER_00: Just a scroll, it's not one of the scrolls where, for example, with this one, you could push it down to be a button?
+SPEAKER_02: No, we just use it as a scroll.
+SPEAKER_00: Okay.
+SPEAKER_00: Then we have 15.8 euros.
+SPEAKER_00: It was a pretty accurate estimate, I would say.
+SPEAKER_00: It was bad.
+SPEAKER_00: Well, look at it.
+SPEAKER_00: Awesome.
+SPEAKER_00: Okay, so...
+SPEAKER_00: We're on to the...
+SPEAKER_02: It's kind of frighteningly accurate.
+SPEAKER_00: We're on to the back part of the presentation where we have a look at the criteria that Paul has given us and we can use that to tell... How's it going?
+SPEAKER_00: Anyone get any thoughts?
+SPEAKER_00: How have we done today?
+SPEAKER_00: I think we did pretty well.
+SPEAKER_00: I think we did pretty well too.
+SPEAKER_00: It looks pretty spectacular.
+SPEAKER_01: I think we came up with an attractive, marketable product and concept.
+SPEAKER_00: Any other thoughts?
+SPEAKER_00: Okay, so what about Room for Creativity?
+SPEAKER_02: I think there was plenty of room.
+SPEAKER_02: I think we ended up being quite creative there.
+SPEAKER_01: Yeah.
+SPEAKER_01: A couple innovative ideas.
+SPEAKER_01: We kind of broke, we kind of at least adjusted every criteria they gave us because we still have the Teletext capability in this thing, right?
+SPEAKER_01: We raised the price of it.
+SPEAKER_01: We've added new technology to it.
+SPEAKER_01: So, you know, if this thing flies, then we've adjusted or broken every idea they gave us.
+SPEAKER_00: every idea necessarily it's still a remote control yeah no yeah but we did break with the specs a little bit I guess but I like what I say I believe we have room for creativity because we did it ok leadership what do we report back to the bosses I think they were reasonably flexible with us over the whole changing the specs thing
+SPEAKER_03: It was more of a teamwork thing than really a leadership-based project.
+SPEAKER_01: Cohesive.
+SPEAKER_00: Synergy.
+SPEAKER_01: Yes, synergistic.
+SPEAKER_01: There was a lot of synergy.
+SPEAKER_00: Teamwork, yeah, yes.
+SPEAKER_00: What did we think of the meeting room, I guess, is an important thing here.
+SPEAKER_02: These cables suck.
+SPEAKER_00: Yeah, this falls off.
+SPEAKER_00: The whiteboard worked really well.
+SPEAKER_03: They must have very long shirts.
+SPEAKER_03: That's way far down Lapple, Mike.
+SPEAKER_03: That's almost a crotch.
+SPEAKER_03: That's quite close.
+SPEAKER_01: You know what they're going to have on the recording in there from that microphone is your lunch digesting, you know?
+SPEAKER_01: Oh, dear.
+SPEAKER_00: Oh, dear.
+SPEAKER_00: No more pizza for me.
+SPEAKER_00: So, yeah, the pen came in all right, and it's a little uncomfortable to use, but I guess it works.
+SPEAKER_03: Because you were using it the opposite arm.
+SPEAKER_03: Yeah.
+SPEAKER_00: That's our boss!
+SPEAKER_00: I'm not convinced of that at all.
+SPEAKER_00: I've been wondering about that all day, but see these look like they're... That looks like it would be that way around.
+SPEAKER_00: But it feels more comfortable what you pull upside down.
+SPEAKER_00: I don't care.
+SPEAKER_00: Okay, so that data might be slightly invalid.
+SPEAKER_00: What new ideas have we found?
+SPEAKER_01: New ideas for the product or for the environment?
+SPEAKER_00: Well, let's do both then.
+SPEAKER_00: For the product?
+SPEAKER_02: Well, we had the favorites list in the scroll bar, and we have the cradle and the remote call feature.
+SPEAKER_00: We came up with quite a bunch of new ideas.
+SPEAKER_00: And for the meeting room, does anyone get any more?
+SPEAKER_00: Comfortable headsets would be nice.
+SPEAKER_01: Well, I mean, clearly remote control microphones would be a nice solution to all these cables.
+SPEAKER_01: But I'm sure that there's some justification for these things that I don't know about.
+SPEAKER_01: And of course, I did not have so much fun with my computer this afternoon.
+SPEAKER_01: It's not been cooperating so well.
+SPEAKER_01: But I don't think that's avoidable.
+SPEAKER_00: Could have been worse.
+SPEAKER_00: Okay, so... Are the costs within the budget?
+SPEAKER_00: Nope.
+SPEAKER_00: Oh, hang on.
+SPEAKER_00: Really, that's something new.
+SPEAKER_00: Are the costs under €12.50?
+SPEAKER_00: No, requirements have changed.
+SPEAKER_00: We're still under €20 to build, so we're good.
+SPEAKER_00: Costs within the budget?
+SPEAKER_00: Not the original budget, but they are now.
+SPEAKER_00: Is the project evaluated?
+SPEAKER_00: I think so, yeah.
+SPEAKER_00: Then, celebration.
+SPEAKER_03: Hooray!
+SPEAKER_03: As it says.
+SPEAKER_00: Okay.
+SPEAKER_03: Free cook provided at the cafeteria.
+SPEAKER_03: I don't know how that got there.
+SPEAKER_00: Uh, anyway.
+SPEAKER_03: Who wrote that one?
+SPEAKER_01: So we need to close this meeting.
+SPEAKER_01: Yeah, bravo.
+SPEAKER_01: Congratulations.
+SPEAKER_03: Good job, guys.
+SPEAKER_01: I've got a lot of paperwork to catch up on, so let's close this one and come back.
+SPEAKER_01: Yeah, I've got a lot of paperwork to catch up on, too.

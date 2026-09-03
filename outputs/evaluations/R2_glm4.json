@@ -1,0 +1,65 @@
+{
+  "experiment": "R2",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:05:18.727723+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R2",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3322,
+    "output_tokens": 314,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 12.9873,
+    "latency_sec": 5.239,
+    "throughput_tokens_per_sec": 24.18,
+    "peak_vram_mb": 19726.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.4459,
+        "recall": 0.5124,
+        "f1": 0.4769
+      },
+      "rouge2": {
+        "precision": 0.1174,
+        "recall": 0.135,
+        "f1": 0.1256
+      },
+      "rougeL": {
+        "precision": 0.2035,
+        "recall": 0.2338,
+        "f1": 0.2176
+      }
+    },
+    "bertscore": {
+      "precision": 0.8189,
+      "recall": 0.8447,
+      "f1": 0.8316,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.9091,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0039,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.002,
+    "entailment_score": 0.0039
+  },
+  "judge_score": 4,
+  "generated_summary": "### Meeting Summary: System Fusion Kick-Off Meeting\n\n#### Date: [Date of Meeting]\n#### Location: [Location of Meeting]\n#### Attendees:\n- Project Manager\n- User Interface Designer\n- IT Technician Expert\n- Marketing Manager\n\n#### Meeting Objective:\nThe objective of the meeting was to kick off the design process for a new television remote control. The meeting aimed to discuss the project scope, objectives, and the roles and responsibilities of each team member.\n\n#### Key Points Discussed:\n\n1. **Project Aim**: The new remote control should be original, trendy, and user-friendly.\n\n2. **Project Method**: The design process will be divided into three main points: functional design, conceptual design, and detailed design.\n\n3. **Tool Training**: Participants were trained on how to use the whiteboard effectively during the design process.\n\n4. **Project Finance**: The financial objectives of the project were discussed, including the selling price, profit aim, market range, and production costs.\n\n5. **Discussion**: The team discussed various aspects of the project, including the number of buttons, the functionality of the remote control, and the user experience.\n\n6. **Closing**: The meeting concluded with a discussion on the next steps, including the scheduling of the next meeting, the assignment of specific tasks to each team member, and the distribution of specific instructions to each team member by their personal coach.\n\n#### Next Steps:\n- Schedule the next meeting.\n- Assign specific tasks to each team member.\n- Distribute specific instructions to each team member by their personal coach."
+}

@@ -1,0 +1,65 @@
+{
+  "experiment": "R10",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:30:23.434155+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R10",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 7595,
+    "output_tokens": 303,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 13.0256,
+    "latency_sec": 5.2312,
+    "throughput_tokens_per_sec": 23.26,
+    "peak_vram_mb": 20696.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.4933,
+        "recall": 0.3675,
+        "f1": 0.4213
+      },
+      "rouge2": {
+        "precision": 0.0982,
+        "recall": 0.0731,
+        "f1": 0.0838
+      },
+      "rougeL": {
+        "precision": 0.2267,
+        "recall": 0.1689,
+        "f1": 0.1935
+      }
+    },
+    "bertscore": {
+      "precision": 0.8227,
+      "recall": 0.8267,
+      "f1": 0.8247,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.8149,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0008,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0002,
+    "entailment_score": 0.0008
+  },
+  "judge_score": 6,
+  "generated_summary": "### Meeting Summary: Detailed Design Meeting\n\n#### Meeting Overview:\nThe meeting focused on the detailed design of a new remote control prototype. The meeting involved discussions on various aspects of the prototype, including its functionality, design, materials, and cost implications.\n\n#### Key Points Discussed:\n\n**1. Functionality:**\n   - The prototype features a speech recognizer, location finder, LCD display with color options, and volume control.\n   - The design allows for the remote control to be adaptable to each user's personal preferences.\n\n**2. Design:**\n   - The design of the remote control is described as \"fancy\" and incorporates elements such as a strawberry sensor design for added visual appeal.\n\n**3. Materials:**\n   - The remote control is constructed using a titanium alloy, which is described as both practical and visually appealing.\n\n**4. Cost Implications:**\n   - The cost implications of the prototype were discussed, with a focus on keeping the costs under a specified budget.\n\n**5. Project Evaluation:**\n   - The meeting concluded with a discussion on the project evaluation, which included an assessment of the team's performance, leadership, teamwork, and the use of resources such as whiteboards and digital pens.\n\n#### Meeting Conclusion:\nThe meeting successfully covered all the key aspects of the remote control prototype. The team discussed and evaluated the prototype's functionality, design, materials, cost implications, and overall project evaluation. The meeting concluded with a positive outlook and a plan to celebrate the team's achievements."
+}

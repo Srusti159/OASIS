@@ -1,0 +1,1161 @@
+{
+    "metadata": {
+        "whisper_model": "whisperx_small",
+        "device": "cpu",
+        "num_speakers": 4,
+        "total_segments": 143,
+        "processing_timestamp": "2026-07-26 10:34:16"
+    },
+    "speakers": {
+        "SPEAKER_00": "SPEAKER_00",
+        "SPEAKER_01": "SPEAKER_01",
+        "SPEAKER_02": "SPEAKER_02",
+        "SPEAKER_03": "SPEAKER_03"
+    },
+    "segments": [
+        {
+            "id": 1,
+            "start": 16.1,
+            "end": 22.44,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "How do you wear this thing?"
+        },
+        {
+            "id": 2,
+            "start": 29.76,
+            "end": 33.1,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "I have too many cables and stuff."
+        },
+        {
+            "id": 3,
+            "start": 63.55,
+            "end": 83.72,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay, so welcome everyone."
+        },
+        {
+            "id": 4,
+            "start": 84.58,
+            "end": 91.22,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So we are here for the kickoff meeting of the process of designing a new remote control."
+        },
+        {
+            "id": 5,
+            "start": 93.1,
+            "end": 99.74,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So I will first start with a warm welcome opening stuff."
+        },
+        {
+            "id": 6,
+            "start": 100.75,
+            "end": 109.75,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Then we will see what will be our product and what will be the different step we will have to design it."
+        },
+        {
+            "id": 7,
+            "start": 111.42,
+            "end": 125.11,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And then we will discuss if we have a few ideas, and we will end by dispatching the different tasks you will have to fulfill to complete this process."
+        },
+        {
+            "id": 8,
+            "start": 127.05,
+            "end": 128.85,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "So, just one thing."
+        },
+        {
+            "id": 9,
+            "start": 129.11,
+            "end": 136.46,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "You said 25 minutes, but I have something else to do, so I'm going to have another meeting soon, so maybe you could hurry up a bit."
+        },
+        {
+            "id": 10,
+            "start": 138.57,
+            "end": 138.91,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "It's true."
+        },
+        {
+            "id": 11,
+            "start": 139.17,
+            "end": 143.51,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "I have another meeting, so... You have another meeting soon?"
+        },
+        {
+            "id": 12,
+            "start": 143.59,
+            "end": 143.83,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Yeah."
+        },
+        {
+            "id": 13,
+            "start": 144.65,
+            "end": 145.59,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "So you have to be quick?"
+        },
+        {
+            "id": 14,
+            "start": 145.73,
+            "end": 147.59,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Yeah, for the loan moor project."
+        },
+        {
+            "id": 15,
+            "start": 148.39,
+            "end": 149.29,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay."
+        },
+        {
+            "id": 16,
+            "start": 149.91,
+            "end": 163.52,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So the goal is to have a remote control, so to have an advantage over our competitors, we have to be original, we have to be trendy, and we have to also try to be user-friendly."
+        },
+        {
+            "id": 17,
+            "start": 166.16,
+            "end": 171.09,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So the design step will be divided in three main points."
+        },
+        {
+            "id": 18,
+            "start": 171.79,
+            "end": 174.33,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "First, it will be the functional design."
+        },
+        {
+            "id": 19,
+            "start": 175.77,
+            "end": 177.79,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Third is the conceptual design."
+        },
+        {
+            "id": 20,
+            "start": 178.37,
+            "end": 179.75,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And then is the design design."
+        },
+        {
+            "id": 21,
+            "start": 180.19,
+            "end": 189.22,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So the functional design is to identify the main user needs, the technical function, the remote control should fulfill."
+        },
+        {
+            "id": 22,
+            "start": 190.5,
+            "end": 205.29,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And then we will move to conceptual design where we will specify the different components involved, what kind of user interface we want and what are the different trends in user interface and stuff like that."
+        },
+        {
+            "id": 23,
+            "start": 206.05,
+            "end": 217.08,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And then the detailed design will consist in specifically implementing and detailing the choice we've made in the second point."
+        },
+        {
+            "id": 24,
+            "start": 220.84,
+            "end": 234.12,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So I will now ask you, which is very important for the design of a new remote control, for each of us to draw your favorite animal on the whiteboard."
+        },
+        {
+            "id": 25,
+            "start": 234.62,
+            "end": 235.64,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "What an original idea."
+        },
+        {
+            "id": 26,
+            "start": 238.06,
+            "end": 242.0,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Do you have any idea of which animal you want to show us?"
+        },
+        {
+            "id": 27,
+            "start": 244.1,
+            "end": 257.19,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay, let's go."
+        },
+        {
+            "id": 28,
+            "start": 258.83,
+            "end": 266.34,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "If you want to react about this wonderful drawing, I'll let you comment."
+        },
+        {
+            "id": 29,
+            "start": 270.1,
+            "end": 271.6,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "It's an abstract drawing of a tank."
+        },
+        {
+            "id": 30,
+            "start": 272.16,
+            "end": 273.94,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "OK, it's an abstract drawing."
+        },
+        {
+            "id": 31,
+            "start": 277.48,
+            "end": 279.28,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I think it's nice and original."
+        },
+        {
+            "id": 32,
+            "start": 280.73,
+            "end": 283.09,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "You should write it in the name."
+        },
+        {
+            "id": 33,
+            "start": 283.83,
+            "end": 285.21,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "OK. Do you want to draw something?"
+        },
+        {
+            "id": 34,
+            "start": 300.35,
+            "end": 301.57,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Okay, sorry."
+        },
+        {
+            "id": 35,
+            "start": 306.0,
+            "end": 310.64,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "You have to imagine a little bit."
+        },
+        {
+            "id": 36,
+            "start": 318.22,
+            "end": 322.52,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Of course your animal is recorded, so it's not lost."
+        },
+        {
+            "id": 37,
+            "start": 323.94,
+            "end": 324.62,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Sorry too."
+        },
+        {
+            "id": 38,
+            "start": 344.67,
+            "end": 347.29,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "What is this strange beast?"
+        },
+        {
+            "id": 39,
+            "start": 348.97,
+            "end": 349.71,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Is it a monster?"
+        },
+        {
+            "id": 40,
+            "start": 350.99,
+            "end": 351.39,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Do you know?"
+        },
+        {
+            "id": 41,
+            "start": 351.97,
+            "end": 354.01,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "It's a cat, isn't it?"
+        },
+        {
+            "id": 42,
+            "start": 354.43,
+            "end": 358.07,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "I think these things did not exist."
+        },
+        {
+            "id": 43,
+            "start": 358.47,
+            "end": 358.89,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Like that."
+        },
+        {
+            "id": 44,
+            "start": 359.83,
+            "end": 361.15,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Is it better?"
+        },
+        {
+            "id": 45,
+            "start": 361.23,
+            "end": 361.75,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "It's pretty."
+        },
+        {
+            "id": 46,
+            "start": 362.99,
+            "end": 363.67,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "It's my cat."
+        },
+        {
+            "id": 47,
+            "start": 364.63,
+            "end": 365.75,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Okay, it's your cat."
+        },
+        {
+            "id": 48,
+            "start": 365.83,
+            "end": 366.49,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Does it have a name?"
+        },
+        {
+            "id": 49,
+            "start": 367.53,
+            "end": 369.15,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "The name is Caramel."
+        },
+        {
+            "id": 50,
+            "start": 369.47,
+            "end": 370.55,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Caramel."
+        },
+        {
+            "id": 51,
+            "start": 370.97,
+            "end": 371.29,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay."
+        },
+        {
+            "id": 52,
+            "start": 372.23,
+            "end": 373.81,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "What do you want to do?"
+        },
+        {
+            "id": 53,
+            "start": 374.03,
+            "end": 376.01,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "I think I'm too short for the cables."
+        },
+        {
+            "id": 54,
+            "start": 377.95,
+            "end": 381.45,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay, I go, but next time you'll do something, I'm sure."
+        },
+        {
+            "id": 55,
+            "start": 383.6,
+            "end": 384.45,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Next time I can't do that."
+        },
+        {
+            "id": 56,
+            "start": 389.04,
+            "end": 391.0,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I'm a bit short in the cable, okay."
+        },
+        {
+            "id": 57,
+            "start": 391.54,
+            "end": 392.4,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So what could I draw?"
+        },
+        {
+            "id": 58,
+            "start": 392.46,
+            "end": 396.58,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Maybe I can draw like..."
+        },
+        {
+            "id": 59,
+            "start": 400.93,
+            "end": 402.61,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "A very simplified coat."
+        },
+        {
+            "id": 60,
+            "start": 403.11,
+            "end": 405.21,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I don't know if it looks like a coat."
+        },
+        {
+            "id": 61,
+            "start": 406.6,
+            "end": 407.52,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "It looks like a bong."
+        },
+        {
+            "id": 62,
+            "start": 412.55,
+            "end": 413.33,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Quite squaring."
+        },
+        {
+            "id": 63,
+            "start": 414.75,
+            "end": 421.16,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I don't know, it looks more like a donkey in fact."
+        },
+        {
+            "id": 64,
+            "start": 421.88,
+            "end": 424.7,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I would say."
+        },
+        {
+            "id": 65,
+            "start": 425.0,
+            "end": 428.71,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I hope that it helps you in the process of designing your own puzzle."
+        },
+        {
+            "id": 66,
+            "start": 428.73,
+            "end": 430.01,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Okay, let's move on."
+        },
+        {
+            "id": 67,
+            "start": 438.93,
+            "end": 443.29,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "You are the financial objective of our project."
+        },
+        {
+            "id": 68,
+            "start": 444.17,
+            "end": 460.72,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "It is to say to have a prediction cost lower than 12.5 euros and have a selling price of twice that price in order to target a profit of 50 million euros."
+        },
+        {
+            "id": 69,
+            "start": 461.22,
+            "end": 463.04,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Is there a market for a new remote control?"
+        },
+        {
+            "id": 70,
+            "start": 465.67,
+            "end": 471.68,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Yeah, if it's trendy, original, and fulfilled the user..."
+        },
+        {
+            "id": 71,
+            "start": 471.72,
+            "end": 474.78,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Single device remote control or multi-device remote control?"
+        },
+        {
+            "id": 72,
+            "start": 475.02,
+            "end": 476.24,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "We have to discuss that."
+        },
+        {
+            "id": 73,
+            "start": 476.4,
+            "end": 477.66,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "It's not defined at all."
+        },
+        {
+            "id": 74,
+            "start": 477.86,
+            "end": 481.99,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Yeah, you can suggest points like this."
+        },
+        {
+            "id": 75,
+            "start": 482.45,
+            "end": 487.91,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So we have to decide, for example, if you can control one device or multiple."
+        },
+        {
+            "id": 76,
+            "start": 491.42,
+            "end": 493.84,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So what are your ideas about that?"
+        },
+        {
+            "id": 77,
+            "start": 495.22,
+            "end": 498.24,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Maybe I can have the opinion from the marketing side."
+        },
+        {
+            "id": 78,
+            "start": 499.46,
+            "end": 503.96,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "If we bundle the remote control with something that we sell, then it could be a single device."
+        },
+        {
+            "id": 79,
+            "start": 504.14,
+            "end": 506.46,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Otherwise, it could be programmable."
+        },
+        {
+            "id": 80,
+            "start": 506.52,
+            "end": 508.1,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Otherwise, who would buy remote control from us?"
+        },
+        {
+            "id": 81,
+            "start": 509.31,
+            "end": 514.95,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "OK, so if it's sold by its own, it would rather be for multiple devices."
+        },
+        {
+            "id": 82,
+            "start": 516.87,
+            "end": 517.43,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Do you agree?"
+        },
+        {
+            "id": 83,
+            "start": 518.93,
+            "end": 524.37,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Yeah, so maybe it should be for multiple devices."
+        },
+        {
+            "id": 84,
+            "start": 526.99,
+            "end": 538.86,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And do you have any ideas of design ideas or any technical requirements we should fulfill?"
+        },
+        {
+            "id": 85,
+            "start": 540.82,
+            "end": 544.1,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "I think we shouldn't have too many for my part."
+        },
+        {
+            "id": 86,
+            "start": 544.24,
+            "end": 546.82,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "I cannot find any requirements right now."
+        },
+        {
+            "id": 87,
+            "start": 547.76,
+            "end": 550.32,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "If we don't have so many buttons, it could be nice."
+        },
+        {
+            "id": 88,
+            "start": 550.38,
+            "end": 551.88,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "A few buttons, okay."
+        },
+        {
+            "id": 89,
+            "start": 552.76,
+            "end": 557.75,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And do you have it also to be lighted in order to be used in the dark?"
+        },
+        {
+            "id": 90,
+            "start": 558.41,
+            "end": 559.31,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Might be a good idea."
+        },
+        {
+            "id": 91,
+            "start": 560.69,
+            "end": 560.93,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "Yeah."
+        },
+        {
+            "id": 92,
+            "start": 565.25,
+            "end": 565.61,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay."
+        },
+        {
+            "id": 93,
+            "start": 566.03,
+            "end": 575.68,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And do you have any idea of the trend in the domain, what it should look like, or a sense like that?"
+        },
+        {
+            "id": 94,
+            "start": 577.86,
+            "end": 583.05,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "something which is not squarely, maybe, with a box."
+        },
+        {
+            "id": 95,
+            "start": 583.21,
+            "end": 588.45,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Something that at least fits in your hand."
+        },
+        {
+            "id": 96,
+            "start": 589.75,
+            "end": 590.65,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "The basic requirement."
+        },
+        {
+            "id": 97,
+            "start": 590.74,
+            "end": 596.62,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So, fits in your hand, yeah."
+        },
+        {
+            "id": 98,
+            "start": 597.5,
+            "end": 602.78,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And also it may be important for the remote control to be"
+        },
+        {
+            "id": 99,
+            "start": 604.68,
+            "end": 629.8,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "to resist to various shocks that can happen if it falls waterproof as well maybe it is original because you can use it in your bath whereas the others can't maybe waterproof would be very original having a waterproof remote control so that the people can use it in their bath"
+        },
+        {
+            "id": 100,
+            "start": 631.35,
+            "end": 637.75,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "It seems so, but if you don't have another remote control, you can just cover it with some plastic."
+        },
+        {
+            "id": 101,
+            "start": 637.79,
+            "end": 644.24,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Yeah, but it is still something you have to buy."
+        },
+        {
+            "id": 102,
+            "start": 644.7,
+            "end": 646.46,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "And that's for the shock."
+        },
+        {
+            "id": 103,
+            "start": 646.62,
+            "end": 652.61,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "I mean, there are people that have a remote control and they're worried that it's going to break and they put some extra plastic around it."
+        },
+        {
+            "id": 104,
+            "start": 652.89,
+            "end": 655.49,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "The people that are worried they actually do it themselves."
+        },
+        {
+            "id": 105,
+            "start": 655.69,
+            "end": 663.91,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "But maybe we can bulk it with already this plastic thing and the waterproof stuff as well."
+        },
+        {
+            "id": 106,
+            "start": 663.93,
+            "end": 667.96,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Maybe we can sell all that together."
+        },
+        {
+            "id": 107,
+            "start": 668.62,
+            "end": 675.86,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So plastic protection and the waterproof box as well."
+        },
+        {
+            "id": 108,
+            "start": 677.88,
+            "end": 680.16,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "That might be a good track to follow."
+        },
+        {
+            "id": 109,
+            "start": 680.68,
+            "end": 681.62,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Like as an optional thing."
+        },
+        {
+            "id": 110,
+            "start": 682.85,
+            "end": 683.93,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Optional or silent?"
+        },
+        {
+            "id": 111,
+            "start": 684.11,
+            "end": 685.47,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "I think we should have something."
+        },
+        {
+            "id": 112,
+            "start": 685.99,
+            "end": 688.99,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "Most of the time, I lose my remote control."
+        },
+        {
+            "id": 113,
+            "start": 689.61,
+            "end": 692.41,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "We should have a special button on the TV."
+        },
+        {
+            "id": 114,
+            "start": 692.91,
+            "end": 695.11,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "Maybe we can make the remote control."
+        },
+        {
+            "id": 115,
+            "start": 695.33,
+            "end": 696.69,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "But we don't design the TV."
+        },
+        {
+            "id": 116,
+            "start": 697.31,
+            "end": 703.25,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Maybe we can have something you whistle and the remote control beep."
+        },
+        {
+            "id": 117,
+            "start": 703.57,
+            "end": 703.91,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Clarks."
+        },
+        {
+            "id": 118,
+            "start": 704.45,
+            "end": 706.29,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Yeah."
+        },
+        {
+            "id": 119,
+            "start": 707.23,
+            "end": 710.25,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So we can have a whistle remote control?"
+        },
+        {
+            "id": 120,
+            "start": 710.41,
+            "end": 710.61,
+            "speaker_id": "SPEAKER_03",
+            "speaker": "SPEAKER_03",
+            "text": "Yeah."
+        },
+        {
+            "id": 121,
+            "start": 714.56,
+            "end": 717.3,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I don't know, whistle label, remote control?"
+        },
+        {
+            "id": 122,
+            "start": 718.14,
+            "end": 718.96,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Whistle tracking."
+        },
+        {
+            "id": 123,
+            "start": 720.36,
+            "end": 721.38,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Whistle tracking, yeah."
+        },
+        {
+            "id": 124,
+            "start": 721.58,
+            "end": 722.98,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Whistle tracking, remote control."
+        },
+        {
+            "id": 125,
+            "start": 723.74,
+            "end": 735.84,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "That's a good idea, that's very original and that's... That's quite cool, but of course, you don't normally need any audio recording stuff on your remote control, right?"
+        },
+        {
+            "id": 126,
+            "start": 735.88,
+            "end": 739.1,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Yeah, it's just going to add to the cost."
+        },
+        {
+            "id": 127,
+            "start": 739.98,
+            "end": 745.2,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Yeah, but still we have to have an advantage of our competitors."
+        },
+        {
+            "id": 128,
+            "start": 746.16,
+            "end": 747.56,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I think this is a good advantage."
+        },
+        {
+            "id": 129,
+            "start": 747.84,
+            "end": 748.26,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "It's cool."
+        },
+        {
+            "id": 130,
+            "start": 748.46,
+            "end": 759.05,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "I think I like that idea, but I'm not sure about what you... Yeah, we have to ask the cost of that design to the industrial designer."
+        },
+        {
+            "id": 131,
+            "start": 761.32,
+            "end": 761.9,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Which is you."
+        },
+        {
+            "id": 132,
+            "start": 764.2,
+            "end": 766.52,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay, so try to find that for next meeting."
+        },
+        {
+            "id": 133,
+            "start": 769.62,
+            "end": 776.82,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay, so next meeting is in 30 minutes, so don't panic."
+        },
+        {
+            "id": 134,
+            "start": 777.38,
+            "end": 782.46,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So I will ask the industrial designer to find out more about this industrial design."
+        },
+        {
+            "id": 135,
+            "start": 783.34,
+            "end": 787.62,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So any working function we have discussed."
+        },
+        {
+            "id": 136,
+            "start": 788.71,
+            "end": 804.33,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So then I will ask the user interface designer to think about the point we discussed, like the number of buttons, the file that is lighted or not, things like that and what would be convenient for the user."
+        },
+        {
+            "id": 137,
+            "start": 805.51,
+            "end": 818.89,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And also I will ask the market expert to try to find out what are the absolute requirements, what is absolutely needed in remote control for the user."
+        },
+        {
+            "id": 138,
+            "start": 822.66,
+            "end": 831.68,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "And then I will just ask you to think about that and look at your mail because you will receive some good advice soon."
+        },
+        {
+            "id": 139,
+            "start": 835.03,
+            "end": 840.38,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "So, thank you, I think that's all for this point."
+        },
+        {
+            "id": 140,
+            "start": 841.84,
+            "end": 842.88,
+            "speaker_id": "SPEAKER_00",
+            "speaker": "SPEAKER_00",
+            "text": "Thank you."
+        },
+        {
+            "id": 141,
+            "start": 848.43,
+            "end": 852.53,
+            "speaker_id": "SPEAKER_01",
+            "speaker": "SPEAKER_01",
+            "text": "Welcome back in five minutes."
+        },
+        {
+            "id": 142,
+            "start": 858.12,
+            "end": 859.9,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Anyway, we received some messages."
+        },
+        {
+            "id": 143,
+            "start": 881.98,
+            "end": 885.11,
+            "speaker_id": "SPEAKER_02",
+            "speaker": "SPEAKER_02",
+            "text": "Okay, but I don't know if it's still correctly"
+        }
+    ]
+}

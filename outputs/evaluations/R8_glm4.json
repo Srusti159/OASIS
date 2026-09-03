@@ -1,0 +1,65 @@
+{
+  "experiment": "R8",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:24:19.498188+00:00",
+  "model": {
+    "name": "glm4",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R8",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3837,
+    "output_tokens": 410,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 16.8101,
+    "latency_sec": 5.1639,
+    "throughput_tokens_per_sec": 24.39,
+    "peak_vram_mb": 19838.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.2898,
+        "recall": 0.543,
+        "f1": 0.3779
+      },
+      "rouge2": {
+        "precision": 0.1028,
+        "recall": 0.1933,
+        "f1": 0.1343
+      },
+      "rougeL": {
+        "precision": 0.1449,
+        "recall": 0.2715,
+        "f1": 0.1889
+      }
+    },
+    "bertscore": {
+      "precision": 0.8071,
+      "recall": 0.8569,
+      "f1": 0.8313,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.0293,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0019,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0,
+    "entailment_score": 0.0019
+  },
+  "judge_score": 4,
+  "generated_summary": "### Meeting Summary: Project Presentation and Kick-Off Meeting\n\n#### Date: 29th November 2011\n\n#### Time: 10:30 AM\n\n#### Location: [Not specified in the transcript]\n\n#### Attendees:\n\n- Fabien Cardinaux: Project Manager\n- Petr Foussac: Technical Designer\n- Bob Morris: Marketing Expert\n- Hamid Ketabdar: Interface Designer\n- Pamba: [Role not specified]\n\n#### Agenda:\n\n1. **Opening**: Welcome and introductions.\n2. **Acquaintance**: Brief overview of each team member's role and expertise.\n3. **Tool Training**: Familiarization with the tools and resources that will be used throughout the project.\n4. **Project Plan**: Discussion and agreement on the project plan, including timelines, milestones, and deliverables.\n5. **Discussion**: Open discussion on initial ideas, experiences, and suggestions related to the project.\n6. **Closing**: Recap of the meeting, including action items, next meeting details, and any additional instructions or resources.\n\n#### Key Points:\n\n- The project aims to design a new remote control that is original, trendy, and user-friendly.\n- The project team consists of a Project Manager, Technical Designer, Marketing Expert, Interface Designer, and an Industrial Designer.\n- The project will involve individual work and regular meetings to discuss progress, share ideas, and address any challenges or issues that arise.\n- The project is expected to have a production cost of no more than 12.50 euros per unit, with a selling price of 25 euros per unit.\n- The project is expected to generate a profit of around 50 million euros, with a target market range of international scope.\n\n#### Next Steps:\n\n- The team will continue working on the project, with each team member focusing on their specific area of responsibility.\n- The team will hold a follow-up meeting in 30 minutes to continue the discussion, address any remaining questions or concerns, and finalize the action items and next steps for the project."
+}

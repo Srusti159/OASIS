@@ -1,0 +1,65 @@
+{
+  "experiment": "R9",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:28:11.897011+00:00",
+  "model": {
+    "name": "mistral",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R9",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 9188,
+    "output_tokens": 332,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 10.1746,
+    "latency_sec": 3.4461,
+    "throughput_tokens_per_sec": 32.63,
+    "peak_vram_mb": 17592.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.572,
+        "recall": 0.3886,
+        "f1": 0.4628
+      },
+      "rouge2": {
+        "precision": 0.241,
+        "recall": 0.1635,
+        "f1": 0.1948
+      },
+      "rougeL": {
+        "precision": 0.308,
+        "recall": 0.2092,
+        "f1": 0.2492
+      }
+    },
+    "bertscore": {
+      "precision": 0.8545,
+      "recall": 0.85,
+      "f1": 0.8522,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.6898,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0014,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0011,
+    "entailment_score": 0.0014
+  },
+  "judge_score": 6,
+  "generated_summary": "The meeting was a Conceptual Design meeting focused on the remote control for a company named Real Reaction. The goal of the meeting was to reach a decision on the concept of the remote control. The meeting was presented by Fabien, the Project Manager.\n\nThe findings from market research showed that a 'fancy' look-and-feel is the highest priority for customers, followed by technological innovation and ease-of-use. Fashion trends for this year include fruit & vegetables as a theme for clothes, shoes, and furniture, and a spongy feel for materials.\n\nHamed Ketabdar, the User Interface Designer, presented his findings on the design of the remote control. He suggested that the most frequently used buttons should be in the middle and larger, the shape of the remote control should be comfortable in hand, and less frequently used buttons should be hidden by a cover. He also suggested the use of a speech recognizer.\n\nThe meeting concluded with decisions on the components and user interface concepts for the remote control. The components concept included energy, case (color, size), and waves (IR, RW). The user interface concept included the type of interface (LCD, hidden buttons) and supplements.\n\nThe next meeting was scheduled to start in 30 minutes, and individual actions were assigned to ID (look-and-feel design), UID (user-interface design), and ME (product evaluation). ID and UID were instructed to work together on a prototype using modeling clay. Specific instructions would be sent to them by their personal coach."
+}

@@ -1,0 +1,65 @@
+{
+  "experiment": "R5",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:15:44.415523+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R5",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 9130,
+    "output_tokens": 1002,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 26.8266,
+    "latency_sec": 3.6503,
+    "throughput_tokens_per_sec": 37.35,
+    "peak_vram_mb": 17852.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.2348,
+        "recall": 0.5198,
+        "f1": 0.3235
+      },
+      "rouge2": {
+        "precision": 0.0521,
+        "recall": 0.1155,
+        "f1": 0.0718
+      },
+      "rougeL": {
+        "precision": 0.1111,
+        "recall": 0.246,
+        "f1": 0.1531
+      }
+    },
+    "bertscore": {
+      "precision": 0.7894,
+      "recall": 0.8349,
+      "f1": 0.8115,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -5.1381,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.9285,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0144,
+    "entailment_score": 0.9285
+  },
+  "judge_score": 8,
+  "generated_summary": "### Meeting Summary: Conceptual Design Meeting\n\n**Date:** [Not specified]\n**Location:** [Not specified]\n**Attendees:** Ada Longman (Project Manager), David Jordan (Designer), Baba (Industrial Designer), Florent Monay (Marketing Expert), [Other Participants]\n\n---\n\n#### **Agenda Overview**\n- Opening\n- Secretary (Ada Longman) will take minutes\n- Three presentations\n- Decision on remote control concepts\n- Closing (40 minutes total)\n\n---\n\n#### **Meeting Context**\n\n**Opening (Slide 2)**\n- Presented by Ada Longman, Project Manager\n- Agenda includes opening, presentations, decision on remote control concepts, and closing\n\n**Presentation 1: Interface Concept (Slide 5)**\n- Presented by David Jordan, Designer\n- Three concepts discussed:\n  1. **Google Controller**: Easy-to-use with sophisticated functions\n  2. **Fancy Controller**: Attractive appearance\n  3. **Intelligent Controller**: Voice and gesture recognition\n\n**Discussion on Google Controller (Slides 7-8)**\n- Easy-to-use with sophisticated functions\n- Example: Voice recognition and gesture recognition\n\n**Discussion on Fancy Controller (Slides 9-10)**\n- Attractive appearance\n- Example: Cute and appealing design\n\n**Discussion on Intelligent Controller (Slides 11-48)**\n- Voice and gesture recognition\n- Voice recognition: Allows hands-free operation\n- Gesture recognition: Enhances user interaction\n- Potential issues:\n  - Risk of injury due to repetitive gestures\n  - Difficulty in distinguishing between multiple users in a household\n  - Cost implications and technical challenges\n\n**Presentation 2: Working Design (Slide 33)**\n- Presented by Baba, Industrial Designer\n- Focus on incorporating fashion elements into electronics\n- Discussion on materials (wood vs. plastic), button types (LCD, push buttons), and energy sources (solar, battery)\n\n**Presentation 3: Components Design (Slide 38)**\n- Presented by [Name], Industrial Designer\n- Discussion on component materials, button types, and energy sources\n- Emphasis on eco-friendly options (solar energy)\n\n**Market Analysis and Fashion Trends (Slide 42)**\n- Presented by Florent Monay, Marketing Expert\n- Key findings:\n  - Users prefer a fancy look and feel\n  - Technological innovation is important\n  - Ease of use is crucial\n  - Current fashion trends: fruits and vegetables\n  - Ranking: \n    - Fancy look and feel: 6\n    - Technologically innovative: 3\n    - Easy to use: 1.5\n\n**Decision-Making (Slide 49)**\n- Components concept: Energy source (solar and battery), chip type (low-level), case design\n- User interface concept: Google and fancy controllers combined\n- Prototype development: Modeling clay remote control\n\n**Closing (Slide 50)**\n- Next meeting in 30 minutes\n- Individual tasks:\n  - ID: Look and feel design\n  - UID: User interface design\n  - ME: Product evaluation\n- Prototype development using modeling clay\n- Specific instructions from personal coaches\n\n---\n\n### Detailed Notes\n\n**Discussion Points:**\n- **Google Controller**: Easy-to-use with sophisticated functions\n  - Pros: User-friendly, versatile\n  - Cons: May not stand out in terms of aesthetics\n- **Fancy Controller**: Attractive appearance\n  - Pros: Aesthetically pleasing, stands out in a crowd\n  - Cons: May not offer advanced functionality\n- **Intelligent Controller**: Voice and gesture recognition\n  - Pros: Advanced features, hands-free operation\n  - Cons: Potential for user injury, cost implications, technical challenges\n\n**Design Considerations:**\n- **Materials**: Wood vs. Plastic\n  - Wood: High-class, special feel\n  - Plastic: Common, resistant\n- **Button Types**: LCD, Push Buttons\n  - LCD: Night visibility, fashionable\n  - Push Buttons: Classic, easy to use\n- **Energy Sources**: Solar, Battery\n  - Solar: Eco-friendly, convenient\n  - Battery: Reliable, widely available\n\n**Market Analysis:**\n- Users prefer a fancy look and feel\n- Technological innovation is important\n- Ease of use is crucial\n- Current fashion trends: Fruits and vegetables\n\n**Prototype Development:**\n- Combining Google and fancy controllers\n- Using solar and battery energy sources\n- Low-level chips for cost-effectiveness\n- Wood for the case, possibly with spongy buttons\n\n**Next Steps:**\n- Look and feel design\n- User interface design\n- Product evaluation\n- Prototype development using modeling clay\n- Specific instructions from personal coaches\n\n---\n\nThis summary captures the key points discussed during the conceptual design meeting, including presentations, discussions, and decisions made regarding the remote control design."
+}

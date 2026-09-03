@@ -1,0 +1,65 @@
+{
+  "experiment": "R3",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:08:28.257288+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R3",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 6187,
+    "output_tokens": 515,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 15.317,
+    "latency_sec": 4.4382,
+    "throughput_tokens_per_sec": 33.62,
+    "peak_vram_mb": 18226.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.4509,
+        "recall": 0.5611,
+        "f1": 0.5
+      },
+      "rouge2": {
+        "precision": 0.1742,
+        "recall": 0.217,
+        "f1": 0.1933
+      },
+      "rougeL": {
+        "precision": 0.2368,
+        "recall": 0.2947,
+        "f1": 0.2626
+      }
+    },
+    "bertscore": {
+      "precision": 0.8448,
+      "recall": 0.8562,
+      "f1": 0.8504,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.4669,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0223,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.002,
+    "entailment_score": 0.0223
+  },
+  "judge_score": 8,
+  "generated_summary": "**Meeting Summary**\n\n**Meeting Topic:** Concept Design for Remote Control\n\n**Attendees:** Industrial Designer (ID), User Interface Designer (UID), Marketing Expert (ME), and other team members.\n\n**Objective:** To finalize the concept design for the remote control, incorporating the latest trends and user preferences.\n\n**Summary of Discussions:**\n\n1. **Previous Decisions:** The team reviewed the previous meeting's decisions, including the simplicity of the design, the use of a wheel for channel control, and the protection of channel buttons with a plastic cover.\n2. **Industrial Design Presentation:** The industrial designer presented the components design, highlighting the standard chip for remote control, case study for wheel sensor, and standard BP. The team discussed the use of a wheel sensor, which was deemed too expensive, and considered alternatives.\n3. **User Interface Design Presentation:** The user interface designer presented the interface concept, emphasizing the simplicity and ergonomics of the design. The team discussed the placement of buttons, the use of a wheel, and the importance of symmetry for left-hand users.\n4. **Market Trends:** The marketing expert presented the latest trends in the remote control market, highlighting the importance of a fancy look-and-feel, technological innovation, and ease of use. The team discussed the potential use of a fruit or vegetable shape for the remote control, with a spongy material and a color scheme that matches the company's brand.\n5. **Decisions:** The team made the following decisions:\n\t* Use a standard battery and a cheap on-print chip.\n\t* Design the case to resemble a banana or a pear, with a spongy material.\n\t* Use a wheel on the top and buttons on the side, with a heart-shaped design and a spongy cover.\n\t* Ensure symmetry for left-hand users.\n6. **Next Steps:** The team agreed to work on the final look-and-feel design, user interface design, and product evaluation. The industrial designer and user interface designer will work together to create a prototype, which will be evaluated for user requirements.\n\n**Action Items:**\n\n* Industrial Designer: Finalize the look-and-feel design according to the team's decisions.\n* User Interface Designer: Finalize the user interface design and create a prototype with the industrial designer.\n* Marketing Expert: Evaluate the product and ensure it meets user requirements.\n* Team: Review and finalize the design before the next meeting.\n\n**Next Meeting:** The next meeting will be held in 30 minutes, and team members will receive further instructions via email."
+}

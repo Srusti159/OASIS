@@ -1,0 +1,65 @@
+{
+  "experiment": "R7",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:21:56.355196+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R7",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 12046,
+    "output_tokens": 534,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 16.4323,
+    "latency_sec": 4.4554,
+    "throughput_tokens_per_sec": 32.5,
+    "peak_vram_mb": 19920.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3775,
+        "recall": 0.4231,
+        "f1": 0.399
+      },
+      "rouge2": {
+        "precision": 0.0885,
+        "recall": 0.0992,
+        "f1": 0.0935
+      },
+      "rougeL": {
+        "precision": 0.174,
+        "recall": 0.1951,
+        "f1": 0.1839
+      }
+    },
+    "bertscore": {
+      "precision": 0.8168,
+      "recall": 0.8198,
+      "f1": 0.8183,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -3.7917,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0067,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0002,
+    "entailment_score": 0.0067
+  },
+  "judge_score": 6,
+  "generated_summary": "**Meeting Summary**\n\nThe meeting was held to discuss the detailed design of a remote control product, specifically a banana-shaped remote control called MANDO banana. The meeting was attended by several team members, including the project manager, S. Marcel, and other experts.\n\n**Agenda**\n\nThe agenda for the meeting included:\n\n1. Review of the minutes from the previous meeting\n2. Presentation of the prototype view 2\n3. Evaluation criteria presentation by marketing experts\n4. Finance evaluation of the cost of the product\n5. Production evaluation\n\n**Prototype Presentation**\n\nThe team presented the prototype of the MANDO banana, which included a banana-shaped case, a scroll wheel for channel selection and volume control, a turbo button, and a teletext button. The team also demonstrated the use of the remote control, including the ability to switch on the TV using the turbo button.\n\n**Evaluation Criteria**\n\nThe team evaluated the MANDO banana based on several criteria, including:\n\n1. Fancy: 6.5 (average score)\n2. Handy: 6 (average score)\n3. Functional: 4.2 (average score)\n4. Cool features: 5 (average score)\n5. Easy to use: 7 (average score)\n6. Would buy for 25 euros: 5 (average score)\n7. Would change remote control for MANDO banana: 3.5 (average score)\n\n**Finance Evaluation**\n\nThe team calculated the production cost of the MANDO banana using an Excel sheet and determined that the cost was below 12.5 euros. However, the team also identified some areas where costs could be reduced, such as using a regular chip instead of an advanced chip.\n\n**Production Evaluation**\n\nThe team discussed the production process and identified some areas for improvement, including the use of a rubber case instead of a plastic one. The team also discussed the possibility of simplifying the circuit board and using a more general remote control instead of just focusing on TV.\n\n**New Ideas**\n\nThe team generated some new ideas for the product, including:\n\n1. Using a detachable battery\n2. Focusing on a more general remote control instead of just TV\n3. Controlling other electronic equipment and the environment of the room\n4. Using a simpler circuit board\n\n**Conclusion**\n\nThe meeting concluded with a sense of satisfaction and a plan to move forward with the production of the MANDO banana. The team agreed to work on simplifying the circuit board and using a more general remote control. They also discussed the possibility of conducting a focus group with the target market to gather feedback and improve the product."
+}

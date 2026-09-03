@@ -1,0 +1,65 @@
+{
+  "experiment": "R6",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:18:20.458387+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R6",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 5680,
+    "output_tokens": 692,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 18.7264,
+    "latency_sec": 3.5292,
+    "throughput_tokens_per_sec": 36.95,
+    "peak_vram_mb": 16770.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.1905,
+        "recall": 0.7132,
+        "f1": 0.3007
+      },
+      "rouge2": {
+        "precision": 0.0643,
+        "recall": 0.2422,
+        "f1": 0.1016
+      },
+      "rougeL": {
+        "precision": 0.1139,
+        "recall": 0.4264,
+        "f1": 0.1797
+      }
+    },
+    "bertscore": {
+      "precision": 0.7989,
+      "recall": 0.8594,
+      "f1": 0.828,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.0072,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0216,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0003,
+    "entailment_score": 0.0216
+  },
+  "judge_score": 6,
+  "generated_summary": "### Comprehensive Summary of the Meeting\n\n#### Introduction and Kick-off\n- **Meeting Overview**: The meeting is a kick-off session for a new project involving the design of a new remote control. The project manager, Laura, introduces herself and asks others to introduce themselves. Participants include David (Industrial Designer), Andrew (Marketing Manager), and Greg (User Interface Designer).\n- **Project Brief**: The goal is to design a remote control that is original, trendy, and user-friendly. The project involves three stages: functional design, conceptual design, and detailed design. Each stage includes individual work followed by a meeting.\n\n#### Whiteboard Activity\n- **Activity Description**: Participants are asked to draw their favorite animal and describe its characteristics. This activity aims to generate creative ideas for the remote control design.\n- **Participants' Contributions**:\n  - **David**: Draws a beagle and describes its affectionate nature, fitness, and personality.\n  - **Andrew**: Draws a whale and explains its harmlessness, cuteness, and interesting behavior.\n  - **Greg**: Draws a dog-like creature and describes its friendliness, cheerfulness, and tail-chasing habit.\n\n#### Project Finance Discussion\n- **Revenue Goals**: The team aims to sell the remote control for €25 and make €50 million. The production cost is capped at €1250, representing 50% of the selling price.\n- **International Considerations**: The team discusses the impact of international sales on design. They consider regional differences in pricing and product positioning, as well as the need for multi-language support and different keypad styles.\n- **Design Priorities**: The team agrees that combining multiple device controls (e.g., satellite, VCR, DVD player) into a single remote control is a key design aim. They also explore adding new functionalities like controlling lighting and providing notes about desired content.\n\n#### Remote Control Design Challenges\n- **Common Issues**: Participants share common frustrations with existing remote controls, such as losing them and the bulkiness of current designs.\n- **Innovative Ideas**: Suggestions include integrating a touch screen, incorporating a whistle or high-pitched noise feature, and streamlining the design to be more aesthetically pleasing.\n\n#### Next Steps\n- **Individual Work**: The team outlines specific tasks for each member:\n  - **Industrial Designer (David)**: Focus on the working design.\n  - **User Interface Designer (Greg)**: Develop the technical functions and user interface design.\n  - **Marketing Manager (Andrew)**: Define user requirements and ensure the design meets market needs.\n- **Meeting Schedule**: The next meeting is scheduled for 30 minutes later, starting at 10:25 AM.\n\n#### Conclusion\n- **Summary**: The meeting concludes with a reminder to complete individual tasks before the next meeting. Laura thanks everyone for their participation and hopes the meeting met expectations.\n\n### Key Takeaways\n- **Project Stages**: The project is divided into functional, conceptual, and detailed design phases.\n- **Design Goals**: The remote control should be trendy, user-friendly, and capable of controlling multiple devices.\n- **Financial Constraints**: The production cost must not exceed €1250, and the remote control should be priced competitively.\n- **Design Priorities**: Combining multiple device controls and adding innovative functionalities are key design goals.\n- **Next Steps**: Each team member has specific tasks to complete before the next meeting."
+}

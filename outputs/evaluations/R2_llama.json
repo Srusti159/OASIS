@@ -1,0 +1,65 @@
+{
+  "experiment": "R2",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:05:37.375532+00:00",
+  "model": {
+    "name": "llama",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R2",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3471,
+    "output_tokens": 476,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 13.8811,
+    "latency_sec": 4.4312,
+    "throughput_tokens_per_sec": 34.29,
+    "peak_vram_mb": 17422.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.3456,
+        "recall": 0.6517,
+        "f1": 0.4517
+      },
+      "rouge2": {
+        "precision": 0.119,
+        "recall": 0.225,
+        "f1": 0.1557
+      },
+      "rougeL": {
+        "precision": 0.1768,
+        "recall": 0.3333,
+        "f1": 0.231
+      }
+    },
+    "bertscore": {
+      "precision": 0.811,
+      "recall": 0.8501,
+      "f1": 0.8301,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.2488,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.003,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0002,
+    "entailment_score": 0.003
+  },
+  "judge_score": 4,
+  "generated_summary": "**Comprehensive Summary of the Meeting**\n\n**Introduction**\n\nThe meeting was a kick-off meeting for a new project to design a new television remote control. The project manager, [Speaker 02], introduced the project and explained that the goal is to create a remote control that is original, trendy, and user-friendly.\n\n**Project Aim**\n\nThe project aim is to design a new remote control that meets the following criteria:\n\n* Original: The remote control should be unique and stand out from existing products.\n* Trendy: The remote control should be fashionable and appealing to consumers.\n* User-friendly: The remote control should be easy to use and navigate.\n\n**Project Method**\n\nThe project will be divided into three main stages:\n\n1. **Functional Design**: Identify the needs of the user and the technical functions that the remote control should perform.\n2. **Conceptual Design**: Specify the different components involved, the type of user interface, and the trends in user interface design.\n3. **Detailed Design**: Implement the design and specify the details of the remote control.\n\n**Tool Training**\n\nThe participants were introduced to a new tool, a whiteboard, where they can draw their favorite animal and list its favorite characteristics. This exercise was meant to encourage creativity and collaboration.\n\n**Project Finance**\n\nThe project finance was discussed, with a selling price of 25 euros and a profit aim of 50 million euros. The production costs should be less than 12.5 euros.\n\n**Discussion**\n\nThe participants discussed various ideas and requirements for the remote control, including:\n\n* The number of buttons and their layout\n* The type of user interface and its trends\n* The need for a special button to prevent the remote control from being lost\n* The possibility of adding a whistle or sound to the remote control\n* The importance of making the remote control durable and resistant to shocks\n\n**Next Steps**\n\nThe project manager assigned tasks to each participant, including:\n\n* ID: The working design\n* UID: The technical functions design\n* ME: The user requirements specification\n\nThe participants were asked to complete their tasks and report back to the project manager. The next meeting will be in 30 minutes.\n\n**Conclusion**\n\nThe meeting concluded with a summary of the project aim, method, and next steps. The participants were encouraged to think creatively and collaborate to design a unique and user-friendly remote control."
+}

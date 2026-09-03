@@ -1,0 +1,65 @@
+{
+  "experiment": "R4",
+  "dataset": "AMI Corpus",
+  "temperature": 0.0,
+  "timestamp": "2026-08-29T05:11:40.009981+00:00",
+  "model": {
+    "name": "qwen",
+    "parameter_size": null,
+    "quantization": null,
+    "context_length": null
+  },
+  "input": {
+    "meeting_id": "R4",
+    "audio_duration_sec": null,
+    "pdf_pages": null,
+    "num_speakers": null,
+    "input_tokens": 3925,
+    "output_tokens": 1024,
+    "input_mode": "multimodal"
+  },
+  "efficiency": {
+    "inference_time_sec": 27.4132,
+    "latency_sec": 3.5958,
+    "throughput_tokens_per_sec": 37.35,
+    "peak_vram_mb": 16540.4375
+  },
+  "summary_evaluation": {
+    "rouge": {
+      "rouge1": {
+        "precision": 0.1034,
+        "recall": 0.6932,
+        "f1": 0.1799
+      },
+      "rouge2": {
+        "precision": 0.034,
+        "recall": 0.2299,
+        "f1": 0.0592
+      },
+      "rougeL": {
+        "precision": 0.0661,
+        "recall": 0.4432,
+        "f1": 0.115
+      }
+    },
+    "bertscore": {
+      "precision": 0.7566,
+      "recall": 0.8418,
+      "f1": 0.7969,
+      "model": "roberta-large"
+    },
+    "bartscore": {
+      "score": -4.9298,
+      "model": "facebook/bart-large-cnn"
+    }
+  },
+  "hallucination": {
+    "factual_consistency_score": 0.0516,
+    "entity_hallucination_rate": null,
+    "notes": "Calculated natively using cross-encoder/nli-deberta-v3-base.",
+    "hallucination_rate": 0.0016,
+    "entailment_score": 0.0516
+  },
+  "judge_score": 8,
+  "generated_summary": "### Meeting Summary: Kick-Off Meeting for New Remote Control Project\n\n**Date:** [Not specified]\n**Location:** [Not specified]\n**Attendees:** [Names not specified]\n\n---\n\n#### Slide 1\n- **Content:** Introduction to the meeting guidelines.\n- **Notes:** No content to transcribe.\n\n#### Slide 2 & 3\n- **Content:** Kick-off meeting presented by Ada Longman, Project Manager.\n- **Notes:** No additional information beyond the slide titles.\n\n#### Slide 4\n- **Content:** Agenda for the meeting.\n  - Opening\n  - Acquaintance\n  - Tool training\n  - Project plan\n  - Discussion\n  - Closing (25 minutes)\n\n#### Slide 5\n- **Content:** Project Aim\n  - New remote control\n    - Original\n    - Trendy\n    - User-friendly\n\n#### Slide 6\n- **Content:** Project Method\n  - Functional design: Individual work + Meetings\n  - Conceptual design: Individual work + Meetings\n  - Detailed design: Individual work + Meetings\n\n#### Slide 7\n- **Content:** Tool Training\n  - Try out the whiteboard\n  - Draw your favorite animal and list its favorite characteristics\n\n#### Slide 8\n- **Content:** Project Finance\n  - Selling price: 25 euros\n  - Profit aim: 50 million euros (international market)\n  - Production costs: Max. 12.50 euros\n\n#### Slide 9\n- **Content:** Discussion\n  - Examples: Experience with remote controls, first ideas for a new remote control\n\n#### Slide 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17\n- **Content:** Closing\n  - Next meeting starts in 30 minutes\n  - Individual actions:\n    - ID: Working design\n    - UID: Technical functions design\n    - ME: User requirements specification\n  - Specific instructions will be sent by personal coaches\n\n---\n\n### Meeting Transcript\n\n**Speaker 00:** You always forget how to put it.\n**Speaker 00:** Looks good.\n**Speaker 03:** So I can start?\n**Speaker 02:** Yeah.\n**Speaker 03:** I suppose I have to do my presentation.\n**Speaker 03:** Ah, ok.\n**Speaker 00:** It's Ada Longman.\n**Speaker 03:** So I present myself, I'm Ada Longman, and as you may know, I'm the project manager.\n**Speaker 03:** So, we will have to...\n**Speaker 03:** speak about the project.\n**Speaker 03:** Our project is to create a new remote control, and as you may know, there's a lot of industrials interested in creating a remote control, so the remote control has to be original, trendy, and user-friendly.\n**Speaker 03:** Record.\n**Speaker 03:** The project method is the following.\n**Speaker 03:** For the functional design you have to do individual work and also work with meetings, talking with each other.\n**Speaker 03:** It will be the same for the conceptual design and also the same for the detailed design.\n**Speaker 03:** Tool training is to try out the whiteboard.\n**Speaker 03:** Maybe you can draw your favorite animal and make a list of its favorite characteristics.\n**Speaker 03:** I don't know if we have to do it now, maybe later?\n**Speaker 03:** So the selling price of the project will be 25 euros.\n**Speaker 01:** 25 euros?\n**Speaker 03:** Yeah.\n**Speaker 03:** I think it's quite a good price.\n**Speaker 03:** It's reasonable.\n**Speaker 03:** And it will be an international remote control as we want to sell it in the entire world and the product costs will be not more than 12 euros and 50 centimes.\n**Speaker 03:** So, as you will discuss about the remote control, you will have to experience with the remote control.\n**Speaker 03:** Just maybe be imaginative with remote controls, try to create something new and people would like to buy.\n**Speaker 03:** And the next meeting will start in 30 minutes.\n**Speaker 03:** So you all have your specific role and I suppose you know what you have to do.\n**Speaker 02:** Those things just refer to each of us, I think.\n**Speaker 02:** Yeah.\n**Speaker 02:** ME and... ID, yeah.\n**Speaker 00:** ID is for the industrial designer.\n**Speaker 02:** Okay.\n**Speaker 00:** And UID is for the user interface designer.\n**Speaker 02"
+}

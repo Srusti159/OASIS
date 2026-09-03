@@ -1,0 +1,9 @@
+{
+    "model_name": "Qwen2.5-7B",
+    "latency_sec": 254.74,
+    "tokens_per_second": 2.01,
+    "peak_vram_mb": 12966.37,
+    "summary_length": 2677,
+    "timestamp": "2026-07-26T09:28:18.537823",
+    "note": "no reference summary found"
+}
